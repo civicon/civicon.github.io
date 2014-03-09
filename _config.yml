@@ -6,13 +6,15 @@ url:              http://maxheld83.github.io/maxheld83/
 # Owner/author information
 owner:
   name:           Maximilian Held
-  avatar:         bio-photo.jpg
+  avatar:         #is included in _author-bio.html
   bio:            "Describe your self."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        https://twitter.com/maxheld
+  facebook:       https://www.facebook.com/MaxHeld
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+  github:         https://github.com/maxheld83
   stackoverflow: 
   linkedin:       
   instagram:      
@@ -21,9 +23,7 @@ owner:
   pinterest: 
   foursquare: 
   steam: 
-  dribbble: 
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  dribbble:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
