@@ -1,32 +1,36 @@
-title:            Site Title
-description:      Describe your website.
+title:            Max Held
+description:      This is Maximilian Held's website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
+<<<<<<< HEAD
 url:              www.maxheld.de
+=======
+url:              http://maxheld83.github.io/maxheld83/
+>>>>>>> gh-pages
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  name:           Maximilian Held
+  avatar:         #is included in _author-bio.html
+  bio:            ... researches, teaches and advocates (progressive) tax reform and (deliberative) democracy.
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        maxheld
+  facebook:       MaxHeld
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    MaximilianHeld
+  github:         maxheld83
   stackoverflow: 
-  linkedin:       
+  linkedin:       maxheld
   instagram:      
   lastfm:         
   tumblr: 
   pinterest: 
   foursquare: 
   steam: 
-  dribbble: 
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  dribbble:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: 
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -36,16 +40,14 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Blog
+#    url: /posts/
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Berlin
 future:      true
 pygments:    true
 markdown:    kramdown
