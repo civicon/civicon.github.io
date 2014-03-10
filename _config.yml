@@ -1,7 +1,7 @@
 title:            Max Held
 description:      This is Maximilian Held's website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://maxheld83.github.io/maxheld83/
+url:              #http://maxheld83.github.io/maxheld83/
 
 # Owner/author information
 owner:
@@ -16,7 +16,7 @@ owner:
   google_plus:    MaximilianHeld
   github:         maxheld83
   stackoverflow: 
-  linkedin:       
+  linkedin:       maxheld
   instagram:      
   lastfm:         
   tumblr: 
@@ -26,7 +26,7 @@ owner:
   dribbble:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: 
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -36,16 +36,14 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
+#  - title: Blog
+#    url: /posts/
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Berlin
 future:      true
 pygments:    true
 markdown:    kramdown

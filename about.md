@@ -1,29 +1,22 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: About Max
+tagline: PhD student in Bremen, Germany
+tags: [about, deliberative democracy, taxation, PhD,]
+modified: 03-10-2014
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: http://lh3.googleusercontent.com/gv26Akm_nGFqhsIm6_YFsrK0Po3SHD9rrNTZIio9PiJP=w1358-h402-no
+  credit: Own picture Schroeder Obstplantagen
+  creditlink: http://www.schroeder-baumschulen.de/
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Maximilian Held is a PhD fellow at the Bremen International Graduate School of Social Sciences. He works on the link between (progressive) taxation and (deliberative) democracy.
 
-## Minimal Mistakes is all about:
+He holds a Bachelor of Arts in Integrated Social Sciences from Jacobs University Bremen and has studied Demography and Social Sciences (graduate) at the University of California, Irvine. He also studied Public Policy at the Hertie School of Governance in Berlin.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+Max is a Fulbright fellow, a scholar of the German National Academic Foundation and the Hertie Foundation and a 2008/2009 fellow at the Berlin Studies Centre, a European excellence program.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+After completing his PhD, Max wants to work in politics, activism or research. 
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Aside from his passion for policy and politics, Max is a (failed) IT-entrepreneur, sporadic violinist and (karaoke) singer, sometimes-excited blogger, Science Slammer and fervent disciple of Deutsche SchülerAkademie, a summer school program for gifted high school students.
