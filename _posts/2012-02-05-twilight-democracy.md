@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unsere letzte, beste Hoffnung"
-description: "Examples and code for displaying images in posts."
+description: "Don't hate the players, hate the game."
 tags: [deliberation, democracy, germany, mass communication science, united states]
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpg
