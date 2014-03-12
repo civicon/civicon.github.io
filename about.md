@@ -7,8 +7,12 @@ tags: [about, deliberative democracy, taxation, PhD,]
 modified: 03-10-2014
 image:
   feature: http://lh3.googleusercontent.com/gv26Akm_nGFqhsIm6_YFsrK0Po3SHD9rrNTZIio9PiJP=w1358-h402-no
-  credit: Own picture Schroeder Obstplantagen
-  creditlink: http://www.schroeder-baumschulen.de/
+  caption: Schröder Baumschulen
+  captionlink: http://www.schroeder-baumschulen.de/
+  credit:
+  creditlink: 
+  location: Thedinghausen, Germany
+  locationlink:
 ---
 
 Maximilian Held is a PhD fellow at the Bremen International Graduate School of Social Sciences. He works on the link between (progressive) taxation and (deliberative) democracy.
