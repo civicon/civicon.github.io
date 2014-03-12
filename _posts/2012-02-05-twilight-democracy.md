@@ -4,7 +4,7 @@ title: "Unsere letzte, beste Hoffnung"
 description: "Examples and code for displaying images in posts."
 tags: [deliberation, democracy, germany, mass communication science, united states]
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now.jpeg
+  feature: https://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpeg
   caption: Rally to Restore Sanity and/or Fear
   captionlink: http://en.wikipedia.org/wiki/Rally_to_Restore_Sanity_and/or_Fear
   credit: Ryan Somma
