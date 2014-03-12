@@ -1,21 +1,21 @@
 title:            Max Held
 description:      This is Maximilian Held's website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.maxheld.de
+url:              #http://www.maxheld.de
 
 # Owner/author information
 owner:
   name:           Maximilian Held
-  avatar:         #is included in _author-bio.html
+  avatar:         http://lh6.googleusercontent.com/-GAQzGMa__58/UxxsqVd25bI/AAAAAAAClRM/-lVHG---UUM/s873-no/Maximilian%25252520Held_2.jpg
   bio:            ... researches, teaches and advocates (progressive) tax reform and (deliberative) democracy.
-  email:          your@email.com
+  email:          maximilian.held83@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        maxheld
   facebook:       MaxHeld
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    MaximilianHeld
   github:         maxheld83
-  stackoverflow: 
+  stackoverflow:  3403196
   linkedin:       maxheld
   instagram:      
   lastfm:         
@@ -26,7 +26,7 @@ owner:
   dribbble:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics: UA-48816137-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
