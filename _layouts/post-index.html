@@ -14,7 +14,7 @@
 {% include _navigation.html %}
 
 {% if page.image.feature %}
-  <div class="image-wrap">
+<div class="image-wrap">
   <img src=
     {% if page.image.feature contains 'http://' %}
       "{{ page.image.feature }}"
@@ -28,12 +28,12 @@
     {% if page.image.caption %}
        <a href="{{ page.image.captionlink }}">{{ page.image.caption }}</a>
     {% endif %}
-    {% if page.image.credit %}
-       by <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
-    {% endif %}
     {% if page.image.location %}
-       in <a href="{{ page.image.locationlink }}">{{ page.image.location }}</a>
-     {% endif %}
+       in <a href="{{ page.image.locationlink }}">{{ page.image.location }}.</a>
+    {% endif %}
+    {% if page.image.credit %}
+       by <a href="{{ page.image.creditlink }}">{{ page.image.credit }}.</a>
+    {% endif %}
   </span>
   </div><!-- /.image-wrap -->
 {% endif %}

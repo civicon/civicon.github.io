@@ -2,9 +2,17 @@
 layout: post
 title: "Unsere letzte, beste Hoffnung"
 description: "Don't hate the players, hate the game."
-tags: [deliberation, democracy, germany, mass communication science, united states]
+tags:
+- deliberation
+- democracy
+- germany
+- mass communication science
+- united states]
+categories:
+- de
+lang: de
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpg
+  feature: http://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpg
   caption: Rally to Restore Sanity and/or Fear
   captionlink: http://en.wikipedia.org/wiki/Rally_to_Restore_Sanity_and/or_Fear
   credit: Ryan Somma
@@ -14,15 +22,15 @@ image:
 ---
 
 Der Mann, der das Treppenhaus vor meiner Mietwohnung fegt, erklärte mir vor ein paar Jahren, warum er 2005 die FDP gewählt hat: Da gibt es mehr Netto vom Brutto. 
-Einige meiner linken Freundinnen möchten gerne den [Handel mit Derivaten auf Lebensmittel](http://www.wdm.org.uk/food-speculation "World Development Movement: Food Speculation") verbieten, weil man mit manchen Sachen [einfach nicht handeln sollte](https://www.youtube.com/watch?v=X-7miE3vKbM "Mikropsychia") und weil das für die Armen besser wäre. 
+Einige meiner linken Freundinnen möchten gerne den [Handel mit Derivaten auf Lebensmittel](http://www.wdm.org.uk/food-speculation "World Development Movement: Food Speculation") verbieten, weil man mit manchen Sachen [einfach nicht handeln sollte](http://www.youtube.com/watch?v=X-7miE3vKbM "Mikropsychia") und weil das für die Armen besser wäre. 
 Achso, und auf [einem meiner abonnierten Blogs](http://www.fortschrittsforum.de/ "Fortschrittsforum") steht (glaube ich) manchmal, dass wir [weniger Wachstum brauchen](http://www.fortschrittsforum.de/debattieren/arbeit-leben/artikel/article/wie-die-berliner-politik-das-glueck-entdeckt.html "Wie die Berliner Politik das Glück entdeckt") oder [weniger arbeiten müssen](http://www.fortschrittsforum.de/debattieren/bildung-modernisierung/artikel/article/ran-an-die-ursachen.html "Ran an die Ursachen (#7)") oder sowas.
 
 <figure>
 	<a href="http://lh5.googleusercontent.com/-5k2jZjsgfps/UhTLGuLs9VI/AAAAAAACZmA/QT6eEM-LbeI/w1415-h873-no/IMG_0009.jpg">
-	<img src="https://lh5.googleusercontent.com/-5k2jZjsgfps/UhTLGuLs9VI/AAAAAAACZmA/QT6eEM-LbeI/w1415-h873-no/IMG_0009.jpg">
+	<img src="http://lh5.googleusercontent.com/-5k2jZjsgfps/UhTLGuLs9VI/AAAAAAACZmA/QT6eEM-LbeI/w1415-h873-no/IMG_0009.jpg">
 	</a>
 	<figcaption>
-		<a href="https://lh5.googleusercontent.com/-5k2jZjsgfps/UhTLGuLs9VI/AAAAAAACZmA/QT6eEM-LbeI/w1415-h873-no/IMG_0009.JPG"
+		<a href="http://lh5.googleusercontent.com/-5k2jZjsgfps/UhTLGuLs9VI/AAAAAAACZmA/QT6eEM-LbeI/w1415-h873-no/IMG_0009.JPG"
 		title="Berlin, Germany (2009)">
 		Berlin, Germany (2009).
 		</a>
@@ -55,7 +63,7 @@ Auch auf dem deutschen und europäischen Marktplatz der Ideen sind Dumping-Anbie
 Unser Politik-Ramsch kreischt nicht schrill, er lullt uns ein in seiner ganzen, miefigen Mittelmäßigkeit: 
 konzeptionell, rhetorisch, visionär. 
 Wir tauschen keine Argumente aus, denn [Basta](http://de.wikipedia.org/wiki/Gerhard_Schr%C3%B6der#.C3.96ffentliche_Wahrnehmung "Wikipedia: Gerhard Schröder"), [es gibt keine Alternative](http://en.wikipedia.org/wiki/There_Is_No_Alternative "Wikipedia: Margret Thatcher"). 
-Wir nennen keine Gründe, denn wir nehmen ja "[Augenmaß](https://www.google.de/search?client=safari&rls=en&q=politik+mit+augenma%C3%9F&ie=UTF-8&oe=UTF-8&redir_esc=&ei=haMqT9WsNcPFtAbz39nsDA#aq=f&aqi=&aql=&gs_sm=e&gs_upl=0l0l0l81272l0l0l0l0l0l0l0l0ll0l0&hl=de&q=politik+mit+augenma%C3%9F&rls=en "Google: Politik mit Augenmaß")", "[machen unsere Hausaufgaben](https://www.google.de/search?client=safari&rls=en&q=%22wir+haben+unsere+hausaufgaben+gemacht%22&ie=UTF-8&oe=UTF-8&redir_esc=&ei=MKYqT66dOszEsgbP8PycDQ#aq=f&aqi=&aql=&gs_sm=e&gs_upl=2612l3003l0l3216l7l5l0l0l0l0l96l343l5l5l0&hl=de&q=%22wir+haben+unsere+hausaufgaben+gemacht%22+merkel&rls=en "Google: Hausaufgaben gemacht")" und halten unsere "[Hände ruhig](http://de.wikipedia.org/wiki/Politik_der_ruhigen_Hand "Wikipedia: Politik der ruhigen Hand")". 
+Wir nennen keine Gründe, denn wir nehmen ja "[Augenmaß](http://www.google.de/search?client=safari&rls=en&q=politik+mit+augenma%C3%9F&ie=UTF-8&oe=UTF-8&redir_esc=&ei=haMqT9WsNcPFtAbz39nsDA#aq=f&aqi=&aql=&gs_sm=e&gs_upl=0l0l0l81272l0l0l0l0l0l0l0l0ll0l0&hl=de&q=politik+mit+augenma%C3%9F&rls=en "Google: Politik mit Augenmaß")", "[machen unsere Hausaufgaben](http://www.google.de/search?client=safari&rls=en&q=%22wir+haben+unsere+hausaufgaben+gemacht%22&ie=UTF-8&oe=UTF-8&redir_esc=&ei=MKYqT66dOszEsgbP8PycDQ#aq=f&aqi=&aql=&gs_sm=e&gs_upl=2612l3003l0l3216l7l5l0l0l0l0l96l343l5l5l0&hl=de&q=%22wir+haben+unsere+hausaufgaben+gemacht%22+merkel&rls=en "Google: Hausaufgaben gemacht")" und halten unsere "[Hände ruhig](http://de.wikipedia.org/wiki/Politik_der_ruhigen_Hand "Wikipedia: Politik der ruhigen Hand")". 
 Was bedeuten diese [betäubend-sinnentlehrten Phrasen](http://de.wikipedia.org/wiki/Neusprech "Wikipedia: Neusprech")? 
 
 <iframe width="1280" height="720" src="//www.youtube.com/embed/-AK7qp9hEqk" frameborder="0" allowfullscreen></iframe>
@@ -67,7 +75,7 @@ Wir raufen uns nicht mehr zusammen, wir raufen nur noch zusammen.
 
 <figure>
 	<a href="http://dl.dropboxusercontent.com/u/5341489/images/2-electoral-posters.jpg">
-	<img src="https://dl.dropboxusercontent.com/u/5341489/images/2-electoral-posters.jpg">
+	<img src="http://dl.dropboxusercontent.com/u/5341489/images/2-electoral-posters.jpg">
 	</a>
 	<figcaption>
 		<a href="http://www.flickr.com/photos/madebyr/6097889796/"
@@ -90,8 +98,8 @@ Die Komplexität und Ungerechtigkeit unserer Welt passt nicht in eine SPON-Fotos
 Unser Gemeinwesen braucht keine [harte aber faire](http://www.wdr.de/tv/hartaberfair/ "WDR: Hart aber Fair") Arena, sondern die [Sendung mit der Maus](http://www.wdrmaus.de/ "Sendung mit der Maus").
 
 <figure>
-	<a href="https://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now.jpeg">
-	<img src="https://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now.jpeg">
+	<a href="http://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now.jpg">
+	<img src="http://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now.jpg">
 	</a>
 	<figcaption>
 		<a href="http://en.wikipedia.org/wiki/Rally_to_Restore_Sanity_and/or_Fear"
@@ -110,8 +118,8 @@ Das *geht* (und [geht](http://cdd.stanford.edu/ "Stanford University: CDD"), und
 Es ist vielleicht unsere letzte, beste Hoffnung. 
 
 <figure>
-	<a href="https://dl.dropboxusercontent.com/u/5341489/images/things-could-be_better.jpg">
-	<img src="https://dl.dropboxusercontent.com/u/5341489/images/things-could-be_better.jpg">
+	<a href="http://dl.dropboxusercontent.com/u/5341489/images/things-could-be_better.jpg">
+	<img src="http://dl.dropboxusercontent.com/u/5341489/images/things-could-be_better.jpg">
 	</a>
 	<figcaption>
 		<a href="http://www.flickr.com/photos/nostri-imago/5132177028/in/faves-38096088@N08/"

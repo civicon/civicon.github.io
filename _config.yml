@@ -36,8 +36,10 @@ bing_verify:
 links:
   - title: About
     url: /about/
-#  - title: Blog
-#    url: /posts/
+  - title: Blog
+    url: /posts/
+  - title: Legal
+    url: /legal/
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
