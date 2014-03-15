@@ -9,7 +9,6 @@ tags:
 - political economy
 - redistribution
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/bertelsmann-house-berlin_crop.jpg

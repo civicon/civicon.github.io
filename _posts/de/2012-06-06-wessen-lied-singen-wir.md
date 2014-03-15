@@ -4,6 +4,9 @@ title: "Unsere letzte, beste Hoffnung"
 description: "Don't hate the players, hate the game."
 tags: [deliberation, democracy, germany, mass communication science, united states]
 published: false
+lang: de
+categories:
+- de
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpg
   caption: Rally to Restore Sanity and/or Fear

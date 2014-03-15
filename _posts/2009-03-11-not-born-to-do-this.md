@@ -9,7 +9,6 @@ tags:
 - the west wing
 - school
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/winnenden-school_crop.jpg

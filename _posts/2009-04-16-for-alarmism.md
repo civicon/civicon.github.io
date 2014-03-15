@@ -9,7 +9,6 @@ tags:
 - political economy
 - risk
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/pollution_crop.jpg

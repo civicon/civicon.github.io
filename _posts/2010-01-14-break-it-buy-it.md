@@ -15,7 +15,6 @@ tags:
 - terrorism
 - war
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/tank-going-home_crop.jpg

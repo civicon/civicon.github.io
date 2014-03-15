@@ -11,7 +11,6 @@ tags:
 - infant industry protection
 - renewable energy
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/offshore-windmills_crop.jpg

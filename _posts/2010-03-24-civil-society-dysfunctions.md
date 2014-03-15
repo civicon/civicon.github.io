@@ -10,7 +10,6 @@ tags:
 - NGOs
 - non-profits
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/frauenkirche-dresden_crop-top.jpg

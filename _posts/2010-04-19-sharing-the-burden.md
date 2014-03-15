@@ -11,7 +11,6 @@ tags:
 - redistribution
 - working poor
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/working-lego-man-crop.jpg

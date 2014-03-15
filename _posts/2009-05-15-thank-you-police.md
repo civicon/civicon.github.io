@@ -8,7 +8,6 @@ tags:
 - germany
 - police
 categories:
-- en
 lang: en
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/anti-konflikt-team_crop.jpg

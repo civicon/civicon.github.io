@@ -8,7 +8,6 @@ tags:
 - redistribution
 - the west wing
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/hertie-state-crisis-birdseye_crop.jpg

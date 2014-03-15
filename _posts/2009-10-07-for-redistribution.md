@@ -14,7 +14,6 @@ tags:
 - the west wing
 - wealth tax
 categories:
-- en
 lang: en
 image:
   feature: http://lh5.googleusercontent.com/OYnx59pU6USbHESWCFSmeaRjvoEC6wlJA9PrF0p6QJjg=w884-h255-no

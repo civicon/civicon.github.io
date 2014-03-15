@@ -9,7 +9,6 @@ tags:
 - trade
 - wto
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/containers_crop.jpg

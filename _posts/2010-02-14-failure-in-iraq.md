@@ -13,7 +13,6 @@ tags:
 - war
 - peacemaking
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/mission-accomplished_crop.jpg
