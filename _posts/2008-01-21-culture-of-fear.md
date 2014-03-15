@@ -8,6 +8,7 @@ tags:
 - mass communication science
 - media
 - united states
+permalink: /2008/01/21/culture-of-fear/
 categories:
 lang: en
 image:
