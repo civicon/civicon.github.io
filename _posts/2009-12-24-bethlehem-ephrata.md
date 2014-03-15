@@ -12,7 +12,6 @@ tags:
 - holidays
 - religion
 categories:
-- en
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/christmas-service_crop.jpg
