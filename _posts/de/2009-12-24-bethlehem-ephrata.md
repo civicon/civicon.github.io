@@ -13,7 +13,7 @@ tags:
 - religion
 categories:
 - de
-lang: en
+lang: de
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/christmas-service_crop.jpg
   caption: 
