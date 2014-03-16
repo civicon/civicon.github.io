@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /about_de/
-title: About Max
-tagline: PhD student in Bremen, Germany
-tags: [about, deliberative democracy, taxation, PhD,]
+title: Über Max
+tagline: Promotionsstudent in Bremen
+tags: [promotion, deliberative demokratie, steuer, promotion,]
+lang: de
+trans: /about/
 modified: 03-10-2014
 image:
   feature: http://lh6.googleusercontent.com/XLzpBoS6f7qdtJNlklLQF-WOB-t-xG6gtjsHKtEc03-t=w884-h249-no
@@ -11,7 +12,7 @@ image:
   captionlink: 
   credit:
   creditlink: 
-  location: California (2008)
+  location: Kalifornien (2008)
   locationlink:
 ---
 

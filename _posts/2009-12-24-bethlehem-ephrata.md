@@ -13,6 +13,7 @@ tags:
 - religion
 categories:
 lang: en
+trans: /de/2009-12-24-bethlehem-ephrata/
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/christmas-service_crop.jpg
   caption: 
