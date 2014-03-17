@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /legal/
-title: Legal
+permalink: /terms/
+title: Terms
+lang: en
+trans: /de/impressum/
 tagline: PhD student in Bremen, Germany
 tags: [about, deliberative democracy, taxation, PhD,]
 modified: 03-10-2014

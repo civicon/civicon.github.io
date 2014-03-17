@@ -26,4 +26,4 @@ Max is a [Fulbright](http://fulbright.state.gov/) fellow, a scholar of the [Germ
 
 After completing his PhD, Max wants to work in politics, activism or research. 
 
-Aside from his passion for policy and politics, Max is a (failed) [IT-entrepreneur](http://www.collaboran.de/), sporadic violinist and (karaoke) singer, sometimes-excited [blogger](http://www.maxheld.de/), [Science Slam](http://www.scienceslam.de/)mer and fervent disciple of [Deutsche SchülerAkademie](http://www.deutsche-schuelerakademie.de/index.htm), a summer school program for gifted high school students.
+Aside from his passion for policy and politics, Max is a (failed) [IT-entrepreneur](http://www.collaboran.de/), sporadic violinist and (karaoke) singer, sometimes-excited [blogger](http://www.maxheld.de/), [Science Slam](http://www.scienceslam.de/)mer, wannabe [hacker](http://github.com/maxheld83/) and fervent disciple of [Deutsche SchülerAkademie](http://www.deutsche-schuelerakademie.de/index.htm), a summer school program for gifted high school students.

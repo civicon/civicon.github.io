@@ -37,8 +37,9 @@ I am currently doing my PhD in the social sciences and writing my dissertation o
     + progressive consumption taxes (PCT)
     + negative income taxes (NIT)
 - (pragmatic) foundations
-    + homo economicus (?!)
+    + homo economicus (and others)
     + evolutionary theory
+    + emergence
     + american pragmatism
 
 
