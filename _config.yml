@@ -10,7 +10,7 @@ owner:
   bio:
      en: "researches, teaches and advocates (progressive) tax reform and (deliberative) democracy."
      de: "untersucht, unterrichtet und bewirbt (progressive) Steuerreform und (deliberative) Demokratie."
-  email:          maximilian.held83@gmail.com
+  email:          "maximilian.held83@gmail.com"
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        maxheld
   facebook:       MaxHeld
@@ -52,29 +52,15 @@ links:
    #   url: /teaching/
    # - title: Projects
    #   url: /projects/
-   # - title: Legal
-   #   url: title
+
  de:
   - title: "Über"
     url: /de/ueber/
   - title: Artikel
     url: /de/artikel/
-#  - title: Forschung
-#    url: /de/forschung/
-#  - title: Diss
-#    url: /tax-democracy/
   - title: BIGSSS
     url: http://www.bigsss-bremen.de/
     external: true
-  # - title: Lehre
-  #   url: /de/lehre/
-  # - title: Projekte
-  #   url: /projekte/
-  # - title: Impressum
-  #   url: /impressum/
-#  - title: Made Mistakes
-#    url: http://mademistakes.com
-#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
