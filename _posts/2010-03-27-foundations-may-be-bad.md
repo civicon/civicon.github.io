@@ -9,6 +9,8 @@ tags:
 - political economy
 - redistribution
 categories:
+- blog
+permalink: /2010/03/27/foundations-may-be-bad/
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/bertelsmann-house-berlin_crop.jpg

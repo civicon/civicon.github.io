@@ -8,6 +8,8 @@ tags:
 - redistribution
 - the west wing
 categories:
+- blog
+permalink: /2009/03/20/more-state/
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/hertie-state-crisis-birdseye_crop.jpg

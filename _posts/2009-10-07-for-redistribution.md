@@ -2,6 +2,7 @@
 layout: post
 title: "Let's Spread the Wealth Around a Little"
 description: "We redistribute. It’s not a dirty word. It doesn’t hurt growth. It’s not socialism. And no, it’s not impossible."
+permalink: /2009/10/07/for-redistribution/
 tags: 
 - common good
 - equity
@@ -14,6 +15,7 @@ tags:
 - the west wing
 - wealth tax
 categories:
+- blog
 lang: en
 image:
   feature: http://lh5.googleusercontent.com/OYnx59pU6USbHESWCFSmeaRjvoEC6wlJA9PrF0p6QJjg=w884-h255-no

@@ -2,6 +2,7 @@
 layout: post
 title: "The Perfect Tax"
 description: "Have you met the perfect tax?"
+permalink: /2009/10/26/progressive_consumption_tax/
 tags: 
 - equity
 - political economy
@@ -10,6 +11,7 @@ tags:
 - redistribution
 - taxation
 categories:
+- blog
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/burberry-children_crop.jpg

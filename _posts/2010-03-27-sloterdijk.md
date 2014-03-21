@@ -10,6 +10,8 @@ tags:
 - redistribution
 - taxation
 categories:
+- blog
+permalink: /2010/03/27/sloterdijk/
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/donate_crop.jpg

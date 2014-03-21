@@ -13,6 +13,8 @@ tags:
 - war
 - peacemaking
 categories:
+- blog
+permalink: /2010/01/14/failure-in-iraq/
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/mission-accomplished_crop.jpg

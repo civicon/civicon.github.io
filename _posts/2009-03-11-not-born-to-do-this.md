@@ -8,7 +8,9 @@ tags:
 - germany
 - the west wing
 - school
+permalink: /2009/03/11/not-born-to-do-this/
 categories:
+- blog
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/winnenden-school_crop.jpg

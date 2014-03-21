@@ -8,7 +8,9 @@ tags:
 - global warming
 - political economy
 - risk
+permalink: /2009/04/16/for-alarmism/
 categories:
+- blog
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/pollution_crop.jpg

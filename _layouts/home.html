@@ -18,8 +18,6 @@
   <img src=
     {% if page.image.feature contains 'http://' %}
       "{{ page.image.feature }}"
-    {% elsif page.image.feature contains 'https://' %}
-      "{{ page.image.feature }}"
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
@@ -29,7 +27,7 @@
        <a href="{{ page.image.captionlink }}">{{ page.image.caption }}</a>
     {% endif %}
     {% if page.image.location %}
-       in <a href="{{ page.image.locationlink }}">{{ page.image.location }}</a>
+       <a href="{{ page.image.locationlink }}">{{ page.image.location }}</a>
     {% endif %}
     {% if page.image.credit %}
        &copy <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>

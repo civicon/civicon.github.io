@@ -8,7 +8,9 @@ tags:
 - political economy
 - trade
 - wto
+permalink: /2009/03/08/multilateral-dsu/
 categories:
+- blog
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/containers_crop.jpg

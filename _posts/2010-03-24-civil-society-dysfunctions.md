@@ -10,6 +10,8 @@ tags:
 - NGOs
 - non-profits
 categories:
+- blog
+permalink: /2010/03/24/civil-society-dysfunctions/
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/frauenkirche-dresden_crop-top.jpg

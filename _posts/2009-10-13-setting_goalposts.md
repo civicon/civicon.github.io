@@ -2,6 +2,7 @@
 layout: post
 title: "Setting the Goalposts Right"
 description: "What do we want from policy analysis? This question recently came up in a discussion on new EU member state policy on poverty and social exclusion."
+permalink: /2009/10/13/setting_goalposts/
 tags: 
 - eastern enlargement
 - eastern europe
@@ -17,6 +18,7 @@ tags:
 - romania
 - taxation
 categories:
+- blog
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/foggy-goalpoasts_crop.jpg

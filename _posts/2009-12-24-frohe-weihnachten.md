@@ -11,9 +11,11 @@ tags:
 - christmas oratorio
 - holidays
 - religion
+permalink: /2009/12/24/frohe-weihnachten/
 categories:
-- de
+- blog
 lang: de
+trans: /2009/12/24/bethlehem-ephrata/
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/christmas-service_crop.jpg
   caption: 

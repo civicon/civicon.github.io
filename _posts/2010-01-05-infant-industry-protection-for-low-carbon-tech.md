@@ -11,6 +11,8 @@ tags:
 - infant industry protection
 - renewable energy
 categories:
+- blog
+permalink: /2010/01/05/infant-industry-protection-for-low-carbon-tech/
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/offshore-windmills_crop.jpg

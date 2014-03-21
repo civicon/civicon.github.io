@@ -6,7 +6,7 @@ tags: [deliberation, democracy, germany, mass communication science, united stat
 published: false
 lang: de
 categories:
-- de
+- blog
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpg
   caption: Rally to Restore Sanity and/or Fear

@@ -8,8 +8,9 @@ tags:
 - mass communication science
 - media
 - united states
-permalink: 
+permalink: /2008/01/21/culture-of-fear/
 categories:
+- blog
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/uci-alert_crop.jpg
@@ -17,7 +18,7 @@ image:
   captionlink:
   credit: 
   creditlink: 
-  location: Irvine, CA 2008
+  location: in Irvine, CA 2008
   locationlink:
 ---
 
@@ -135,7 +136,3 @@ After all, as presidential candidate [Barack Obama](http://www.barackobama.com) 
 
 >"America [-- as any other country --] is at it's best not when it's fearful”    
 > -- Town Hall Meeting in Ohio, March 04 2008
-
-
-
-

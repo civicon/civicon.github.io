@@ -8,6 +8,8 @@ tags:
 - germany
 - police
 categories:
+- blog
+permalink: /2009/05/15/thank-you-police/
 lang: en
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/anti-konflikt-team_crop.jpg

@@ -15,6 +15,8 @@ tags:
 - terrorism
 - war
 categories:
+- blog
+permalink: /2010/01/14/break-it-buy-it/
 lang: en
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/tank-going-home_crop.jpg

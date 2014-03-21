@@ -9,8 +9,9 @@ tags:
 - mass communication science
 - united states]
 categories:
-- de
+- blog
 lang: de
+permalink: /2012/02/05/twilight-democracy/
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpg
   caption: Rally to Restore Sanity and/or Fear

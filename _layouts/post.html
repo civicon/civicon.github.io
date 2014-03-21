@@ -11,14 +11,15 @@
 
 {% include _browser-upgrade.html %}
 
-{% include _navigation.html %}
+{% if page.standalone %}
+{% else %}
+  {% include _navigation.html %}
+{% endif %}
 
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
     {% if page.image.feature contains 'http://' %}
-      "{{ page.image.feature }}"
-    {% elsif page.image.feature contains 'https://' %}
       "{{ page.image.feature }}"
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
@@ -29,7 +30,7 @@
        <a href="{{ page.image.captionlink }}">{{ page.image.caption }}</a>
     {% endif %}
     {% if page.image.location %}
-       in <a href="{{ page.image.locationlink }}">{{ page.image.location }}</a>
+       <a href="{{ page.image.locationlink }}">{{ page.image.location }}</a>
     {% endif %}
     {% if page.image.credit %}
        &copy <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
@@ -60,15 +61,6 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
-  <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->
   <footer>
     {% include _footer.html %}
   </footer>

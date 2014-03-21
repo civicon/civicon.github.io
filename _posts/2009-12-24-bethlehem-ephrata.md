@@ -3,6 +3,7 @@ layout: post
 title: "Merry Christmas, Bethlehem Ephrata, though thou be little ..."
 description: "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
 -- Micah (5:2), King James Version"
+permalink: /2009/12/24/bethlehem-ephrata/
 tags: 
 - bach
 - bible
@@ -12,8 +13,9 @@ tags:
 - holidays
 - religion
 categories:
+- blog
 lang: en
-trans: /de/2009-12-24-bethlehem-ephrata/
+trans: /2009-12-24-frohe-weihnachten/
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/christmas-service_crop.jpg
   caption: 
