@@ -2,7 +2,7 @@
 layout: page
 title: Research
 lang: en
-trans: /de/forschung/
+trans: /forschung/
 tagline: PhD student in Bremen, Germany
 tags: [about, deliberative democracy, taxation, PhD,]
 modified: 03-10-2014

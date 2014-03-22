@@ -4,7 +4,7 @@ title: About Max
 tagline: PhD student in Bremen, Germany
 tags: [about, deliberative democracy, taxation, PhD,]
 lang: en
-trans: /de/ueber/
+trans: /ueber/
 modified: 03-10-2014
 image:
   feature: http://lh6.googleusercontent.com/XLzpBoS6f7qdtJNlklLQF-WOB-t-xG6gtjsHKtEc03-t=w884-h249-no
