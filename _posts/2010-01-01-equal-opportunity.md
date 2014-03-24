@@ -6,6 +6,7 @@ permalink: /equal-opportunity/
 categories:
 - teaching
 lang: en
+date: 2010-01-01
 trans: /chancengleichheit/
 tags: [inequality, education, equal opportunity, economics]
 image:
