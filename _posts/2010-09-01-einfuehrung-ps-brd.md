@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Einführung in das politische System der BRD
-description: "Teils Gebietsstudien, teils sozialwissenschaftliches Theorie-Seminar an der Jacobs University Bremen."
+title: Einführung in das politische System der BRD (2010-2014)
+description: "Seminar an der Jacobs University Bremen seit 2010. Teils Gebietsstudien, teils sozialwissenschaftliches Theorie"
 published: true
 permalink: /einfuehrung-ps-brd/
 categories:
 - teaching
-date: 2014-01-02
+date: 2013-12-01
 lang: de
 trans: /gpc/
 tags: [germany, basic law, holocaust, welfare state, eu]

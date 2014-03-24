@@ -3,6 +3,7 @@ layout: post-index
 lang: en
 categories: 
 - teaching
+permalink: /teaching/
 trans: /lehre/
 title: Teaching
 tagline: PhD student in Bremen, Germany

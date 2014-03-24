@@ -3,6 +3,8 @@ layout: post-index
 title: Alle Artikel
 tagline: Eine Liste aller Artikel
 lang: de
+categories:
+- blog
 trans: /blog/
 tags: [blog]
 image:

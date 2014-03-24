@@ -6,7 +6,6 @@ published: true
 permalink: /give-n-take/
 categories:
 - teaching
-date: 2014-01-01
 lang: en
 trans: /geben-nehmen/
 tags: [democracy, taxation, deliberation]
