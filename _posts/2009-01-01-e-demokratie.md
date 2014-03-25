@@ -2,7 +2,6 @@
 layout: post
 title: E-Democracy --  Chance für partizipatorische Demokratie?
 description: "Ein Seminar mit Matthias Bröcheler bei der Deutschen SchülerAkademie 2009-2 in Braunschweig"
-published: false
 permalink: /e-demokratie/
 categories:
 - teaching
@@ -31,7 +30,6 @@ authors:
 - name: Matthias Bröcheler
   avatar: http://dl.dropboxusercontent.com/u/5341489/images/matthias.jpg
   url: http://www.matthiasb.com/
-  facebook: matthias.brocheler
   twitter: mbroecheler
   linkedin: matthiasbroecheler
   github: mbroecheler

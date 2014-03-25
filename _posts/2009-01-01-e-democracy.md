@@ -2,7 +2,6 @@
 layout: post
 title: E-Democracy --  Opportunity for Greater Participation?
 description: "An (undergraduate) seminar with Matthias Bröcheler at Deutschen SchülerAkademie 2009-2 in Braunschweig, Germany"
-published: false
 permalink: /e-democracy/
 categories:
 - teaching
@@ -31,7 +30,6 @@ authors:
 - name: Matthias Bröcheler
   avatar: http://dl.dropboxusercontent.com/u/5341489/images/matthias.jpg
   url: http://www.matthiasb.com/
-  facebook: matthias.brocheler
   twitter: mbroecheler
   linkedin: matthiasbroecheler
   github: mbroecheler
