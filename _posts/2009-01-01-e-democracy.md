@@ -5,7 +5,8 @@ description: "An (undergraduate) seminar with Matthias Bröcheler at Deutschen S
 permalink: /e-democracy/
 categories:
 - teaching
-lang: de
+lang: en
+link: http://mademistakes.com
 trans: /e-demokratie/
 tags: [democracy, computer science, participation, mathematics, political science, statistics, behavioral economics, psychology, game theory]
 image:
