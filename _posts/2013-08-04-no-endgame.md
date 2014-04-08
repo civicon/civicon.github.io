@@ -16,3 +16,4 @@ Blog about this:
 - stop feeding the petro states
 - stop exporting guns
 - and clean up our own act, first
+test me in asana
