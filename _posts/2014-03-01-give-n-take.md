@@ -153,4 +153,4 @@ Students also prepare presentations, respond to reading prompts and participate 
 This is a preliminary list, including many recommended items.
 If you like, start with the mandatory readings.
 
-<script src="http://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxheld83%2Fgive-n-take%2Fmaster%2Fgive-n-take_library.bib&jsonp=1&group6=mandatory"></script>
+<script src="http://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxheld83%2Fgive-n-take%2Fmaster%2Fgive-n-take_library.bib&jsonp=1&folding=1&group0=reading"></script>
