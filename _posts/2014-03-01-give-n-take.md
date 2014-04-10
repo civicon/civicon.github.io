@@ -143,12 +143,14 @@ Students also prepare presentations, respond to reading prompts and participate 
 
 ## Links
 
-<div markdown="0">
- <a href="https://www.mendeley.com/groups/4189301/progressive-taxation-and-deliberative-democracy/">Mendeley Library</a> 
+<div markdown="0"> 
  <a href="https://github.com/maxheld83/give-n-take">Github Repository</a> 
 </div>
 
 
-### Literature on Mendeley
+### Literature
 
-<iframe src="//www.mendeley.com/groups/4189301/progressive-taxation-and-deliberative-democracy/widget/21/10/" frameborder="0" allowTransparency="true" style="width:500px;height:300px;"></iframe><p style="width:500px"><a href="http://www.mendeley.com/groups/4189301/progressive-taxation-and-deliberative-democracy/" title="Progressive Taxation and Deliberative Democracy on Mendeley">Progressive Taxation and Deliberative Democracy</a> is a group in <a href="http://www.mendeley.com/groups/economics/" title="Economics on Mendeley">Economics</a>, <a href="http://www.mendeley.com/groups/philosophy/" title="Philosophy on Mendeley">Philosophy</a>, <a href="http://www.mendeley.com/groups/social-sciences/" title="Social Sciences on Mendeley">Social Sciences</a> on <a href="http://www.mendeley.com/" title="Mendeley">Mendeley</a>.</p>
+This is a preliminary list, including many recommended items.
+If you like, start with the mandatory readings.
+
+<script src="http://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxheld83%2Fgive-n-take%2Fmaster%2Fgive-n-take_library.bib&jsonp=1&group6=mandatory"></script>
