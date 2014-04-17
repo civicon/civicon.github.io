@@ -23,8 +23,8 @@ image:
   locationlink:
 ---
 
-[Peter Sloterdijk](http://www.petersloterdijk.net) has recently called for a [radical rethinking of redistribution](http://www.sueddeutsche.de/wirtschaft/957/499238/text/) [^1]. 
-He criticized “compulsory taxation” (sic!) as fiscal kleptocracy inadequately degrading its citizens intosubjects of tax laws, rather than encouraging the rich to give. 
+[Peter Sloterdijk](http://www.petersloterdijk.net) has recently called for a [radical rethinking of redistribution](http://www.sueddeutsche.de/wirtschaft/957/499238/text/).
+He criticized “compulsory taxation” (sic!) as fiscal kleptocracy inadequately degrading its citizens intosubjects of tax laws, rather than encouraging the rich to give.
 He cited US philanthropy and suggested to promote voluntary donations in lieu of taxes, thinking of (rich) people as givers, not as takers.
 
 Sloterdijk’s hyperliberal argument may be spearheading the kind of uncritical naturalizing of private property that also underlies much of the [praise of foundations](http://maxheld.wordpress.com/2010/03/27/sloterdijk/2010/03/27/foundations-may-be-bad/). 
@@ -54,4 +54,5 @@ Voluntary donations instead of progressive taxation and eternally tax-exempt fou
 They shouldn’t. 
 Private property isn’t theft, but neither is taxation.
 
-[^1]: This post appeared first on http://www.policy-net.org/blogs/thepotentpolity/capitalisnttheftbutneitheristaxation
+This post appeared first on http://www.policy-net.org/blogs/thepotentpolity/capitalisnttheftbutneitheristaxation
+{: .notice}

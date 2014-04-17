@@ -24,11 +24,13 @@ image:
   locationlink:
 ---
 
-The plight of structural unemployment and gaggles of working poor, it appears, are here to stay [^1]. 
+The plight of structural unemployment and gaggles of working poor, it appears, are here to stay.
 But are they the inevitable consequence of economic liberalisation?
 
 They are not. 
 If we balance the burden of economic transformation on labor and capital, and strengthen progression, we can have it both: near full employment and open borders.
+
+<!--more-->
 
 <figure>
 	<a href="http://dl.dropboxusercontent.com/u/5341489/images/minimum-wage_crop.jpg">
@@ -249,4 +251,5 @@ Balancing the burden of economic transformation with progressive taxation is of 
 If we do it right today, and never cease to improve education and social mobility for tomorrow, we can have it all: 
 to prosperity and opportunity.
 
-[^1]: This piece first appeared in print issue 8 of [Schlossplatz3](http://www.hertie-school.org/schlossplatz3/), [Hertie's](http://www.hertie-school.org) own student magazine. Find more articles on the future of labor [here](http://www.hertie-school.org/fileadmin/images/Downloads/sp3/sp3_8.pdf).
+This piece first appeared in print issue 8 of [Schlossplatz3](http://www.hertie-school.org/schlossplatz3/), [Hertie's](http://www.hertie-school.org) own student magazine. Find more articles on the future of labor [here](http://www.hertie-school.org/fileadmin/images/Downloads/sp3/sp3_8.pdf).
+{: .notice}

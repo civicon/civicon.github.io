@@ -22,8 +22,6 @@ image:
 
 Today, I have submitted my Bachelor Thesis, my final written work for my studies of Integrated Social Sciences at Jacobs University Bremen. 
 
-{{ excerpt_separator }}
-
 This thesis provides a critical account of Inglehart’s and Welzel’s (2005) concept of the self-expression syndrome. 
 In their variant of Modernization Theory, this increasing orientation to a broadening of human choice is the driving force for democratization. 
 A massive body of cross-national evidence has been provided, linking high levels of these emancipative values with democratic performance. 
