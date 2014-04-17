@@ -55,7 +55,7 @@ progressive taxation and deliberative democracy.
 > "Give and take. Welcome to Washington."
 > -- *Frank Underwood* Fictional US House of Representatives Majority Whip, "House of Cards" (2013)
 
-<iframe width="1280" height="720" src="//www.youtube.com/embed/ULwUzF1q5w4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ULwUzF1q5w4" frameborder="0"> </iframe>
 
 
 ### The Thunder of World History
