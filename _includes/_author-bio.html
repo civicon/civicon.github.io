@@ -1,4 +1,4 @@
-{% for author in page.authors%}
+{% for author in page.authors %}
 	{% if author.avatar contains 'http://' or 'https://' %}
 		<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
 	{% else %}
