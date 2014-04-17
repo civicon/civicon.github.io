@@ -1,8 +1,7 @@
 ---
-layout: post-index
+layout: category-index
 lang: en
-categories: 
-- teaching
+category: teaching
 permalink: /teaching/
 trans: /lehre/
 title: Teaching
@@ -37,3 +36,5 @@ Intensive reading and writing are hard, ideally [deliberate practice](http://en.
 Check out my evaluations on teacher rating sites:
 
 <div markdown="0"><a href="http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1144707" class="btn">RateMyProfessors.com</a> <a href="http://www.meinprof.de/lecturers/Maximilian_Held" class="btn">MeinProf.de</a></div>
+
+# Teaching Posts

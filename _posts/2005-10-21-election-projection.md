@@ -8,6 +8,7 @@ tags:
 - statistics
 categories:
 - blog
+- research
 permalink: /2005/10/21/election_projection/
 lang: en
 image:
@@ -24,6 +25,8 @@ The first project of this semester’s transdisciplinary University Studies Cour
 My colleagues Anna Kristina Bautista, [Matthias Bröcheler](http://www.matthiasb.com), Ivelina Grozeva, Nora Lücke, [Adina Luican](http://www.physics.rutgers.edu/~aluican/) and me decided to implement a voter movement analysis. 
 The method employs statistical models to estimate voter movements between parties in the selected (few) election precincts to arrive at a projection for the entire constituency. 
 Matthias devised and implemented the procedure using [Matlab](http://www.mathworks.com/).
+
+<!--more-->
 
 <figure>
     <a href="http://dl.dropboxusercontent.com/u/5341489/images/election-projection.jpg"><img src="http://dl.dropboxusercontent.com/u/5341489/images/election-projection.jpg"></a>

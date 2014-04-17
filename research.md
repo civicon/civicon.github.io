@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: category-index
 title: Research
+category: research
 lang: en
 trans: /forschung/
 tagline: PhD student in Bremen, Germany

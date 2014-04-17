@@ -38,7 +38,7 @@ Taxation and democracy, along with their mutual dependencies and contradictions,
 As institutions, they are also the (only?) site, where progress might happen. This seminar looks at two such reform proposals, equally radical and pragmatic: 
 progressive taxation and deliberative democracy.
 
-{{ excerpt_separator }}
+<!--more-->
 
 <section id="table-of-contents" class="toc">
   <header>
