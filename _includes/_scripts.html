@@ -11,6 +11,9 @@
 
   ga('create', '{{ site.google_analytics }}', '{{ site.url }}');
   ga('send', 'pageview');
-
 </script>
+
+{% endif %}
+{% if page.comments %}
+  {% include _disqus_comments.html %}
 {% endif %}

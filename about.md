@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: About Max
 tagline: PhD student in Bremen, Germany
 tags: [about, deliberative democracy, taxation, PhD,]

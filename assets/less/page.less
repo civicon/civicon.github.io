@@ -1,7 +1,7 @@
 body {
 	background-color: @bodycolor;
 	font-family: @base-font;
-	font-color: @textcolor;
+	color: @text-color;
 }
 .navigation-wrapper {
 	.container();
@@ -81,7 +81,7 @@ body {
 }
 // Navicon lines
 @button-size: 1.5rem;
-.line() {
+.navicon-line() {
 	display: inline-block;
 	width: @button-size;
 	height: @button-size/7;
@@ -90,29 +90,29 @@ body {
 	border-radius: @button-size/14;
 	transition: .3s;
 }
-.lines-button {
+.navicon-lines-button {
 	padding: @button-size/4 @button-size/2;
 	transition: .3s;
 	cursor: pointer;
 	user-select: none;
 	border-radius: @button-size/7;
 }
-.lines-button:hover {
+.navicon-lines-button:hover {
 	opacity: 1;
 }
-.lines-button:active {
+.navicon-lines-button:active {
 	transition: 0;
 }
-.lines {
+.navicon-lines {
 	margin-right: 10px;
 	margin-bottom: @button-size/5;
 	// create middle line
-	.line();
+	.navicon-line();
 	position: relative;
 	// create the upper and lower lines as pseudo-elements of the middle line
 	&:before,
 	&:after {
-		.line();
+		.navicon-line();
 		position: absolute;
 		left: 0;
 		content: '';
@@ -122,14 +122,14 @@ body {
 	&:before { top: @button-size/4; }
 	&:after { top: -@button-size/4; }
 }
-.lines-button:hover {
+.navicon-lines-button:hover {
 	opacity: 1;
-	.lines {
+	.navicon-lines {
 		&:before { top: @button-size/3.5; }
 		&:after { top: -@button-size/3.5; }
 	}
 }
-.lines-button.x.active .lines {
+.navicon-lines-button.x.active .navicon-lines {
 	// hide the middle line
 	background: transparent;
 	// overlap the lines by setting both their top values to 0
@@ -247,6 +247,10 @@ body {
 		h2 {
 			margin-bottom: 4px;
 			.font-rem(20);
+			&.link-post {
+				margin-bottom: 0px + @doc-line-height;
+				margin-bottom: 0rem + (@doc-line-height / @doc-font-size);
+			}
 		}
 		p {
 			.font-rem(14);
@@ -314,11 +318,6 @@ body {
 	a, a:hover {
 		border-bottom: 0 solid transparent;
 	}
-	img.bio-photo {
-		width: 100px;
-		height: 100px;
-		.rounded(100px);
-	}
 }
 .author-social {
   display: block;
@@ -337,18 +336,20 @@ body {
 }
 .article-author-side {
 	display: none;
+	.bio-photo {
+		max-width: 110px;
+		.rounded(150px);
+	}
 	@media @600px {
 		display: block;
 		.grid(12,2);
 		.prefix(12,0.5);
 		.suffix(12,0.5);
 		h3,
-		.bio-photo,
 		p,
 		.author-social {
 			display: block;
 			max-width: 125px;
-			margin: auto;
 		}
 		h3 {
 			margin-top: 10px;
@@ -368,10 +369,6 @@ body {
 		.author-social {
 			max-width: 150px;
 		}
-		img.bio-photo {
-			margin-left: 25px;
-			margin-right: 25px;
-		}
 	}
 	@media @1382px {
 		.grid(12,1.5);
@@ -386,6 +383,8 @@ body {
 	.bio-photo {
 		float: left;
 		margin-right: 25px;
+		max-width: 100px;
+		.rounded(150px);
 	}
 	.author-social {
 		display: inline-block;
@@ -397,10 +396,6 @@ body {
 		p,
 		.author-social {
 			max-width: 150px;
-		}
-		img.bio-photo {
-			margin-left: 25px;
-			margin-right: 25px;
 		}
 	}
 }
