@@ -10,10 +10,10 @@ tags: [about, deliberative democracy, taxation, PhD,]
 modified: 03-10-2014
 image:
   feature: http://lh3.googleusercontent.com/nN0wPQs6F8x8Ua_QAcel6iB2MYVUmuQS3wQVgq86eCTb=w1518-h354-no
-  caption: 
-  captionlink: 
+  caption:
+  captionlink:
   credit:
-  creditlink: 
+  creditlink:
   location: Pacific Coast Highway, CA
   locationlink:
 ---

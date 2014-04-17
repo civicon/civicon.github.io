@@ -47,11 +47,12 @@
     {% if post.lang == page.lang and post.categories contains page.category %}
       <article>
       {% if post.link %}
-        <h2 class="link-post">{{ post.date | date: '%Y-%m' }}:<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></a> </h2>
-        {{ post.date | date: '%Y-%m' }}
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></a></h2>
+        <strong>{{ post.date | date: '%Y-%m' }}</strong>
+        {{ post.excerpt }}
       {% else %}
         <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        {{ post.date | date: '%Y-%m' }}
+        <strong>{{ post.date | date: '%Y-%m' }}</strong>
         {% if post.description %}
           {{ post.description }}
         {% else %}
