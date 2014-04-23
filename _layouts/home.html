@@ -7,32 +7,26 @@
 {% include _head.html %}
 </head>
 
-<body class="post-index">
+<body class="home">
 
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
 
 {% if page.image.feature %}
-<div class="image-wrap">
+  <div class="image-wrap">
   <img src=
     {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
       "{{ page.image.feature }}"
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
-  <span class="image-credit">
-    {% if page.image.caption %}
-       <a href="{{ page.image.captionlink }}">{{ page.image.caption }}</a>
-    {% endif %}
-    {% if page.image.location %}
-       <a href="{{ page.image.locationlink }}">{{ page.image.location }}</a>
-    {% endif %}
-    {% if page.image.credit %}
-       &copy <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
-    {% endif %}
-  </span>
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
 
@@ -41,25 +35,28 @@
 </div>
 
 <div id="index">
-  <h1>{{ page.title }}</h1>
-  {% for post in site.posts %}
+  <h3><a href="{{ site.url}}/posts/">{{ page.title }}</a></h3>
+  {% for post in site.posts limit:5 %}
     {% if post.lang == page.lang %}
-      {% unless post.next %}
-        <h3>{{ post.date | date: '%Y' }}</h3>
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-          <h3>{{ post.date | date: '%Y' }}</h3>
-        {% endif %}
-      {% endunless %}
       <article>
       {% if post.link %}
         <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></h2>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+        {% if post.content contains '<!--more-->' %}
+          {{ post.content | split:'<!--more-->' | first }}
+        {% elsif post.description %}
+          {{ post.description }}
+        {% else %}
+          {{ post.content }}
+        {% endif %}
       {% else %}
         <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+        {% if post.content contains '<!--more-->' %}
+          {{ post.content | split:'<!--more-->' | first }}
+        {% elsif post.description %}
+          {{ post.description }}
+        {% else %}
+          {{ post.content | strip_html | strip_newlines | truncate: 300 }}
+        {% endif %}
       {% endif %}
       </article>
     {% endif %}
@@ -73,5 +70,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
+  
 </body>
 </html>

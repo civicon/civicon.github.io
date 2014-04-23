@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Neue Einträge
 description: "Maximilian Held's personal website"
 tags: [maximilian held, bremen, germany, taxation, deliberative democracy]
 lang: de

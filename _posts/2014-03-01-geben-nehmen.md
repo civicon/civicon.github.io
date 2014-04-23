@@ -40,7 +40,7 @@ Die Institutionen der Steuer und Demokratie, sowie dessen wechselseitige Abhäng
 Als Institutionen sind sie auch *das* (einzige?) Spielfeld, auf dem Fortschritt zu erringen wäre.
 In diesem Seminar betrachten wir zwei solche Reformvorschläge, die gleichermaßen radikal wie pragmatisch sind: Progressive Besteuerung und Deliberative Demokratie.
 
-{{ excerpt_separator }}
+<!--more-->
 
 <div markdown="0">
 <a href="/give-n-take/" class="btn">Lesen die vollständige Kursbeschreibung auf Englisch.</a>

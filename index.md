@@ -1,5 +1,6 @@
 ---
-layout: post-index
+layout: home
+title: Latest Posts
 description: "Maximilian Held's personal website"
 tags: [maximilian held, bremen, germany, taxation, deliberative democracy]
 lang: en
