@@ -12,18 +12,18 @@ trans: /gpc/
 tags: [germany, basic law, holocaust, welfare state, eu]
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/kniefall-brandt_crop.jpg
-  caption: 
-  captionlink: 
-  credit: 
-  creditlink: 
-  location: 
+  caption:
+  captionlink:
+  credit:
+  creditlink:
+  location:
   locationlink:
 standalone: false
 authors:
 - name: "Jacobs University Bremen"
   avatar: http://dl.dropboxusercontent.com/u/5341489/images/jacobs-university_round.jpg
   url: http://www.jacobs-university.de
-  email: 
+  email:
   bio:
     en: An annual seminar at Jacobs University Bremen.
     de: Ein jährliches Seminar an der Jacobs University Bremen.
@@ -43,7 +43,7 @@ authors:
 
 Diese "Einführung in das politische System der BRD" bietet sowohl ein Gebietsstudium als auch Anwendung sozialwissenschaftlicher Theorie.
 
-{{ excerpt_separator }}
+<!--more-->
 
 <div markdown="0">
 <a href="/gpc/" class="btn">Lesen die vollständige Kursbeschreibung auf Englisch.</a>

@@ -1,20 +1,25 @@
 ---
 layout: post
 title: Edmund Fawcett on Liberalism
-published: false
+description: Edmund Fawcett explains liberalism to The Economist.
+published: true
 link: http://www.economist.com/news/letters/21598945-democracy-prisons-space-flight-uganda?frsc=dg%7Ce
 categories:
 - blog
+- research
+tags:
+- economist
+- liberalism
 lang: en
 tags: [democracy, liberalism, deliberation]
 ---
 
 Edmund Fawcett in a letter to the Economist:
 
-> Liberalism is a doctrine of limits. 
-> One of its lessons is that not all political goodies—freedom, equality, prosperity, for example—need be simultaneously achievable. 
+> Liberalism is a doctrine of limits.
+> One of its lessons is that not all political goodies—freedom, equality, prosperity, for example—need be simultaneously achievable.
 > In the democratic marketplace, that lesson is a hard sell.
-> Ought not The Economist, which is impeccably liberal, be more forthright and tough it out?    
+> Ought not The Economist, which is impeccably liberal, be more forthright and tough it out?
 
 Yes, exactly, *this* is the kind of ethical / axiomatic acuity that we need in our polity:
 to understand another (in this case, liberal) person's argument *on their own terms*, including their tradeoffs.
