@@ -1,26 +1,18 @@
 ---
 layout: post
-title: "On Dijkstra’s three rules for scientific research ..."
+title: "On Dijkstra’s three rules for scientific research … (Blog)"
 description:
 tags:
 - epistemology
 - positivism
 - sociology
 - theory of science
-link:
+link: http://binstock.blogspot.com/2006/08/dijkstras-three-rules-for-project.html
 categories:
 - blog
 - research
 permalink: /2007/09/23/on-three-rules/
 lang: en
-image:
-  feature:
-  caption:
-  captionlink:
-  credit:
-  creditlink:
-  location:
-  locationlink:
 ---
 
 My colleague [Matthias](http://www.matthiasb.com) just recently alerted me to [this post](http://binstock.blogspot.com/2006/08/dijkstras-three-rules-for-project.html), in which blogger Andrew Binstock discusses [Dijkstra’s](http://en.wikipedia.org/wiki/Dijkstra) three golden rules for successful scientific research … and of course, as so often when natural scientists sit down and ponder about science, he discredits the social sciences as not being scientific at all … .

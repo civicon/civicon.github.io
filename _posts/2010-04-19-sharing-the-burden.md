@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Doing without Structural Unemployment and/or Working Poverty"
-description: "If we balance the burden of economic transformation on labor and capital, and strengthen progression, we can have it both: near full employment and open borders."
+title: Doing without Structural Unemployment and/or Working Poverty (Article)
+description:
+	"Held, M. (2010).
+	Structural Unemployment and Working Poverty are Not Inevitable – Let’s Share the Burden of Economic Transformation.
+	*Schlossplatz3*, (8)"
 tags:
 - economics
 - negative income tax
@@ -12,8 +15,12 @@ tags:
 - working poor
 categories:
 - blog
+- publication
+- research
 permalink: /2010/04/19/sharing-the-burden/
+link: http://www.hertie-school.org/fileadmin/images/Downloads/sp3/sp3_8.pdf
 lang: en
+trans: /2010/04/19/lasten-teilen/
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/working-lego-man-crop.jpg
   caption:
@@ -194,7 +201,7 @@ Again, these two things are *unambiguously positive*, in spite of capital’s ba
 property rights are but another way of organizing cooperation, and capital accumulation means to enrich our world, with powerful factories, liberating technologies and empowering education.
 
 >"Poverty has no utility."
->-- Ferdinand Lasalle (1825-1864)
+>– Ferdinand Lasalle (1825-1864)
 
 In other words, capital as such is not the problem.
 The problem lies in the (re)distribution of consumption cheques, and in the incentives and taxes we place on different kinds of activities.
@@ -220,7 +227,9 @@ Even fewer people will find gainful, let alone adequate employment.
 VAT hikes increase the effective socially acceptable minimum income by raising the costs of living.
 VAT is also, in truth, a regressive tax because poorer people spend more (all) of their income generating ability on consumption that richer people do, who can generate untaxed interest with their surpluses.
 
+
 ## Progressive Transfer is the Answer
+
 The solution to structural unemployment and working poverty lies in boosting progressive components of taxation.
 The least productive person must be taxed so little that she will still find gainful employment at adequate pay.
 For many, this may necessitate a negative tax rate (read transfers), as the prominently suggested (Friedman 1961) but never implemented negative income tax.

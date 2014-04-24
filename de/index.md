@@ -1,8 +1,13 @@
 ---
 layout: home
 title: Neue Einträge
-description: "Maximilian Held's personal website"
-tags: [maximilian held, bremen, germany, taxation, deliberative democracy]
+description: "Maximilian Helds Internetseite"
+tags:
+- maximilian held
+- bremen
+- germany
+- taxation
+- deliberative democracy
 lang: de
 trans: /
 image:
@@ -10,7 +15,7 @@ image:
   caption: Schröder Obstplantagen
   captionlink: http://www.schroeder-baumschulen.de/
   credit:
-  creditlink: 
+  creditlink:
   location: Thedinghausen
   locationlink:
 ---

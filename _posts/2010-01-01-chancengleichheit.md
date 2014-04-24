@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Chancen für die Chancengleichheit
-description: "Ein Seminar mit Anja Jungermann bei der Deutschen SchülerAkademie 2011-4 in Urspring."
+title: Chancen für die Chancengleichheit (Seminar)
+description:
+  "Ein Seminar mit Anja Jungermann bei der Deutschen SchülerAkademie 2010-2 in Braunschweig."
 permalink: /chancengleichheit/
 categories:
 - teaching
+- blog
 lang: de
 trans: /equal-opportunity/
 tags: [inequality, education, equal opportunity, economics]
@@ -16,24 +18,6 @@ image:
   creditlink: http://jonasmarx.net/
   location:
   locationlink:
-standalone: true
-authors:
-- name: "Deutsche SchülerAkademie"
-  avatar: http://dl.dropboxusercontent.com/u/5341489/images/dsa-logo_crop.jpg
-  url: http://www.deutsche-schuelerakademie.de
-  email:
-  bio:
-    en: A seminar at the Deutsche SchülerAkademie 2010-2 in Braunschweig, Germany.
-    de: Ein Kurs bei der Deutschen SchülerAkademie 2010-2 in Braunschweig.
-  facebook: BildungBegabung
-  twitter: BildungBegabung
-- name: "Anja Jungermann"
-  avatar: http://dl.dropboxusercontent.com/u/5341489/images/anja.jpg
-  url: http://ifs-dortmund.de/1813.html
-  email: anja.jungermann@sh-home.de
-  bio:
-    de: Begeistert sich und andere für Bildung in Schule (Teach First Deutschland), Forschung (Institut für Schulentwicklungsforschung) und Schülerprojekten (ProFellow e.V.).
-    en: Is/makes others passionate about education in schools (Teach First Deutschland), Research (Institute for school development) and student projects (ProFellow e.V.).
 ---
 
 Chancen für die Chancengleichheit.
@@ -41,11 +25,15 @@ Warum werden wir so ungleich, und wann ist das ungerecht?
 Der Kurs führt ein in sozialwissenschaftliche Theorie, wendet sie an auf Bildung und Migration und berichtet aus einer deutschen Brennpunktschule.
 Es wird diskutiert, wie es besser gehen könnte, und wer, wie diesen Wandel mitbestimmt - damit unsere kapitalistische und freiheitliche Gesellschaft reich bleibt und gerechter wird.
 
-{{ excerpt_separator }}
+Ein Kurs mit [Anja Jungermann](http://ifs-dortmund.de/1813.html) bei der [Deutschen SchülerAkademie](http://www.deutsche-schuelerakademie.de) 2010-2 in Braunschweig.
+{: .notice}
+
+<!--more-->
 
 Im Kurs “Chancen für die Chancengleichheit” erarbeiteten die Teilnehmer/innen ausgewählte sozialwissenschaftliche Perspektiven auf soziale Ungleichheit und bezogen Gelerntes auf den Betrachtungsgegenstand Bildung und Migration.
 
-Die Teilnehmer/innen erlernten verschiedene sozialwissenschaftlichen Theorien zur Genese und Struktur sozialer Ungleichheit in postindustriellen Gesellschaften. Mit Wohlfahrtsökonomik und Handelstheorie analysierten die Teilnehmer/innen materiellen Wohlstand und Verteilung im Kapitalismus.
+Die Teilnehmer/innen erlernten verschiedene sozialwissenschaftlichen Theorien zur Genese und Struktur sozialer Ungleichheit in postindustriellen Gesellschaften.
+Mit Wohlfahrtsökonomik und Handelstheorie analysierten die Teilnehmer/innen materiellen Wohlstand und Verteilung im Kapitalismus.
 In den Formalismen der Netzwerk- und Spieltheorie beschrieben die Teilnehmer/innen eine Hypothese (selbstverstärkender) Ungleichheit.
 Diese Dynamiken vertikaler Ungleichheit wurden ergänzt durch funktionalistische und strukturalistische Formulierungen horizontaler Ungleichheit (zwischen Gruppen), wie etwa der institutionellen Diskriminierung, und sozio-kultureller Distinktion.
 Funktion und Dysfunktion von Nepotismus und Diskriminierung wurden aus soziobiologischer und konstruktivistischer Perspektive problematisiert.

@@ -1,13 +1,24 @@
 ---
 layout: post
-title: E-Democracy --  Chance für partizipatorische Demokratie?
-description: "Ein Seminar mit Matthias Bröcheler bei der Deutschen SchülerAkademie 2009-2 in Braunschweig"
+title: E-Democracy – Chance für partizipatorische Demokratie? (Seminar)
+description:
+  "Ein Seminar mit Matthias Bröcheler bei der Deutschen SchülerAkademie 2009-2 in Braunschweig"
 permalink: /e-demokratie/
 categories:
 - teaching
+- blog
 lang: de
 trans: /e-democracy/
-tags: [democracy, computer science, participation, mathematics, political science, statistics, behavioral economics, psychology, game theory]
+tags:
+- democracy
+- computer science
+- participation
+- mathematics
+- political science
+- statistics
+- behavioral economics
+- psychology
+- game theory
 image:
   feature: http://lh6.googleusercontent.com/kPPMH-eldAp_pvhsoWuNDu98tyDbnCt4YrqCxsy1ABjH=w884-h246-no
   caption:
@@ -16,37 +27,27 @@ image:
   creditlink: http://jonasmarx.net/
   location:
   locationlink:
-standalone: true
-authors:
-- name: "Deutsche SchülerAkademie"
-  avatar: http://dl.dropboxusercontent.com/u/5341489/images/dsa-logo_crop.jpg
-  url: http://www.deutsche-schuelerakademie.de
-  email:
-  bio:
-    en: A seminar at the Deutsche SchülerAkademie 2009-2 in Braunschweig
-    de: Ein Kurs bei der Deutschen SchülerAkademie 2009-2 in Braunschweig
-  facebook: BildungBegabung
-  twitter: BildungBegabung
-- name: Matthias Bröcheler
-  avatar: http://dl.dropboxusercontent.com/u/5341489/images/matthias.jpg
-  url: http://www.matthiasb.com/
-  twitter: mbroecheler
-  linkedin: matthiasbroecheler
-  github: mbroecheler
 ---
 
 Informatische, soziologische, mathematische, politikwissenschaftliche, und statistische Perspektiven auf die essentielle Frage, wie postindustrielle, liberale Demokratien Einigkeit in Vielfalt heute organisieren können
 
-{{ excerpt_separator }}
+<!--more-->
+
+Ein Kurs mit [Matthias Bröcheler](http://www.matthiasb.com) bei der [Deutschen SchülerAkademie](http://www.deutsche-schuelerakademie.de) 2009-2 in Braunschweig.
+{: .notice}
 
 
 ## Kursbeschreibung
 
-"Democracy's won!" schreibt Charles Krauthammer am 3. April 1989 in der Washington Post, wenige Monate vor dem Zusammenbruch der kommunistischen Diktaturen in Osteuropa.
+>"Democracy's won!"
+
+So schreibt Charles Krauthammer am 3. April 1989 in der Washington Post, wenige Monate vor dem Zusammenbruch der kommunistischen Diktaturen in Osteuropa.
 Ist das wirklich "das Ende der Geschichte" (Fukuyama 1989)?
 Andere sind skeptischer:
 Der erste afro-amerikanische Bundesrichter William H. Hastie warnt:
-"Democracy is not being, it is becoming. It is easily lost, but never finally won".
+
+>"Democracy is not being, it is becoming. It is easily lost, but never finally won".
+
 Klar scheint, dass die konkrete Organisation demokratischer Systeme keine einfach Aufgabe ist und sich heute neue Herausforderungen stellen:
 Sind wir durch Parteien und Abgeordnete noch angemessen repräsentiert?
 Was tun gegen - oder trotz - politischer Apathie und Ignoranz?

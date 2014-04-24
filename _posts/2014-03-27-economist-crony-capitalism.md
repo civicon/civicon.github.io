@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Edmund Fawcett on Liberalism
-description: Edmund Fawcett explains liberalism to The Economist.
 published: true
 link: http://www.economist.com/news/letters/21598945-democracy-prisons-space-flight-uganda?frsc=dg%7Ce
 categories:
 - blog
-- research
 tags:
 - economist
 - liberalism

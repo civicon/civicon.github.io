@@ -2,7 +2,7 @@ title:            "maxheld"
 description:      "Maximilian Held's website."
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://www.maxheld.de
-disqus_shortname: 
+disqus_shortname: maxheld
 
 # Owner/author information
 owner:
@@ -20,19 +20,19 @@ owner:
   github:         maxheld83
   stackoverflow:  3403196
   linkedin:       maxheld
-  instagram:      
-  lastfm:         
-  tumblr: 
-  pinterest: 
-  foursquare: 
-  steam: 
+  instagram:
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
   dribbble:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-48816137-1
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -82,7 +82,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10

@@ -1,15 +1,25 @@
 ---
 layout: post
-title: Einführung in das politische System der BRD (2010-2014)
-description: "Seminar an der Jacobs University Bremen seit 2010. Teils Gebietsstudien, teils sozialwissenschaftliches Theorie"
+title: Einführung in das politische System der BRD (Seminar)
+description:
+  "Seminar an der Jacobs University Bremen seit 2010.
+  Teils Gebietsstudien, teils sozialwissenschaftliches Theorie"
 published: true
 permalink: /einfuehrung-ps-brd/
 categories:
 - teaching
-date: 2013-12-01
+- blog
+date: 2011-01-01
+modified-date: 2014-01-01
 lang: de
+link: /gpc/
 trans: /gpc/
-tags: [germany, basic law, holocaust, welfare state, eu]
+tags:
+- germany
+- basic law
+- holocaust
+- welfare state
+- eu
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/kniefall-brandt_crop.jpg
   caption:
@@ -18,18 +28,6 @@ image:
   creditlink:
   location:
   locationlink:
-standalone: false
-authors:
-- name: "Jacobs University Bremen"
-  avatar: http://dl.dropboxusercontent.com/u/5341489/images/jacobs-university_round.jpg
-  url: http://www.jacobs-university.de
-  email:
-  bio:
-    en: An annual seminar at Jacobs University Bremen.
-    de: Ein jährliches Seminar an der Jacobs University Bremen.
-  facebook: jacobs.university
-  twitter: jacobs_bremen
-  google_plus: jacobsuniversity
 ---
 
 
@@ -40,10 +38,10 @@ authors:
 
 <iframe width="1280" height="720" src="//www.youtube.com/embed/gqsMyN9-G68" frameborder="0" allowfullscreen></iframe>
 
-
 Diese "Einführung in das politische System der BRD" bietet sowohl ein Gebietsstudium als auch Anwendung sozialwissenschaftlicher Theorie.
 
-<!--more-->
+Jährliches Seminar an der [Jacobs University Bremen](http://www.jacobs-university.de/) als Teil der [Winter School](http://www.jacobs-university.de/winterschool).
+{: .notice}
 
 <div markdown="0">
 <a href="/gpc/" class="btn">Lesen die vollständige Kursbeschreibung auf Englisch.</a>

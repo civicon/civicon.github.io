@@ -18,7 +18,7 @@ image:
   locationlink:
 ---
 
-I enjoy teaching tremendously -- and for selfish reasons, too: 
+I enjoy teaching tremendously -- and for selfish reasons, too:
 I've noticed that I only *really* understood a subject (or someone else's understanding of it) if I have taught a class on it.
 
 
@@ -37,4 +37,6 @@ Check out my evaluations on teacher rating sites:
 
 <div markdown="0"><a href="http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1144707" class="btn">RateMyProfessors.com</a> <a href="http://www.meinprof.de/lecturers/Maximilian_Held" class="btn">MeinProf.de</a></div>
 
-# Teaching Posts
+--------------
+
+# Classes
