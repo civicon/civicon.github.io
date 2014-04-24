@@ -3,7 +3,7 @@ layout: post
 title: Eurolektionen Results Now Available Online and in Print (Article)
 description:
   "De Ruffray, L., Ekkert, M., Held, M., Savin, M., & Zierow, L. (2010).
-  Eurolektionen – Europa in der Schule. In *Projekt Junges Europa 5*.
+  Eurolektionen – Europa in der Schule. In Projekt Junges Europa 5.
   Berlin, Germany: Wehrhahn."
 link: http://eurolektionen.wordpress.com
 tags:

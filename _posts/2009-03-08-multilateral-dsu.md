@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multilateral Trade Dispute Settlement Helps Right over Might, Equity"
+title: "Multilateral Trade Dispute Settlement Helps Right over Might, Equity (Assignment)"
 description: "Trade liberalization, like much in international governance, happens both through regional and multilateral integration. In political economy, there has been some debate over the merits and demerits of regional trade blocs, whether they constitute building blocs or stumbling stones for world trade."
 tags:
 - development

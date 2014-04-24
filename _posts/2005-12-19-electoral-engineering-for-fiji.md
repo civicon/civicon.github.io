@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electoral Engineering for Fiji
+title: Electoral Engineering for Fiji (Assignment)
 description:
 tags:
 - democracy
@@ -8,15 +8,16 @@ tags:
 - political science
 categories:
 - blog
+- research
 permalink: /2005/12/19/electoral-engineering-for-fiji/
 lang: en
 image:
   feature:
-  caption: 
-  captionlink: 
-  credit: 
-  creditlink: 
-  location: 
+  caption:
+  captionlink:
+  credit:
+  creditlink:
+  location:
   locationlink:
 ---
 

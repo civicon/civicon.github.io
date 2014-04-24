@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Developed a (random) election projection method"
+title: "Developed a (random) election projection method (Assignment)"
 description:
 tags:
 - democracy

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bachelor thesis completed"
+title: "Bachelor thesis completed (Assignment)"
 description:
 tags:
 - democracy

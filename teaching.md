@@ -6,7 +6,11 @@ permalink: /teaching/
 trans: /lehre/
 title: Teaching
 tagline: PhD student in Bremen, Germany
-tags: [about, deliberative democracy, taxation, PhD,]
+tags:
+- about
+- deliberative democracy
+- taxation
+- PhD
 modified: 03-10-2014
 image:
   feature: http://lh3.googleusercontent.com/nN0wPQs6F8x8Ua_QAcel6iB2MYVUmuQS3wQVgq86eCTb=w1518-h354-no
@@ -37,6 +41,6 @@ Check out my evaluations on teacher rating sites:
 
 <div markdown="0"><a href="http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1144707" class="btn">RateMyProfessors.com</a> <a href="http://www.meinprof.de/lecturers/Maximilian_Held" class="btn">MeinProf.de</a></div>
 
---------------
+---
 
 # Classes

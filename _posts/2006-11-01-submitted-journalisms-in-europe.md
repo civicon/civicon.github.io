@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Comparing Media Systems and Media Content … (Article)
+title: Comparing Media Systems and Media Content (Article)
 description:
   Wessler, H., Skorek, M., Königslow, K. K., Held, M., Dobreva, M., & Adolphsen, M. (2008).
   Comparing Media Systems and Media Content – Online Newspapers in Ten Eastern and Western European Countries.
-  *Journal of Global Mass Communication*, 1(3/4).
+  Journal of Global Mass Communication, 1(3/4).
 link: http://www.researchgate.net/publication/258052117_Comparing_media_systems_and_media_content_online_newspapers_in_ten_Eastern_and_Western_European_countries/file/60b7d52c07d572e313.pdf
 tags:
 - europe

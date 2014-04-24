@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Low-Carbon Tech, an Infant Industry in Need of Protection"
+title: "Low-Carbon Tech, an Infant Industry in Need of Protection (Assignment)"
 description: "How to react to global warming? How do wean ourselves off that harmful oil -- and still prosper?"
 tags:
 - climate change
@@ -12,6 +12,7 @@ tags:
 - renewable energy
 categories:
 - blog
+- research
 permalink: /2010/01/05/infant-industry-protection-for-low-carbon-tech/
 lang: en
 image:

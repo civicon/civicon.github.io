@@ -45,7 +45,8 @@ links:
   - title: Research
     url: /research/
   - title: Diss
-    url: /tax-democracy/
+    url: http://www.maxheld.de/tax-democracy/
+    external: true
   - title: Teaching
     url: /teaching/
   - title: Projects
@@ -59,7 +60,8 @@ links:
   - title: Forschung
     url: /forschung/
   - title: Diss
-    url: /tax-democracy/
+    url: http://www.maxheld.de/tax-democracy/
+    external: true
   - title: Lehre
     url: /lehre/
   - title: Projekte

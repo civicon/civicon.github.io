@@ -1,21 +1,22 @@
 ---
 layout: post
-title: "Attitude(s) change – or do they?"
+title: "Attitude(s) change – or do they? (Assignment)"
 description:
 tags:
 - social psychology
 - attitudes
 categories:
 - blog
+- research
 permalink: /2006/05/02/attitude_change/
 lang: en
 image:
   feature:
-  caption: 
-  captionlink: 
-  credit: 
-  creditlink: 
-  location: 
+  caption:
+  captionlink:
+  credit:
+  creditlink:
+  location:
   locationlink:
 ---
 

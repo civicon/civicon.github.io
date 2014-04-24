@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Dynamics, causes and consequences of postindustrial value change -- Germany in international perspective
-description:
+title: Dynamics, causes and consequences of postindustrial value change – Germany in international perspective (Article)
+description: "Held M, Müller J, Deutsch F, Grzechnik E, Welzel C. (2009):
+World Values Research 2(3)."
 tags:
 - statistics
 - political sociology
@@ -55,5 +56,3 @@ I am greatly indebted to the [other team members](http://www.jacobs-university.d
 I have probably gained more academically through this project than through any single course at Jacobs University.
 
 Please find the entire [project report](http://www.jacobs-university.de/imperia/md/content/groups/schools/shss/cwelzel/papers/subtopic1_value_structure_and_dimensions.pdf) available for download here.
-
-{{ excerpt_separator }}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Social inequality as dispersion of happiness?"
+title: "Social inequality as dispersion of happiness? (Assignment)"
 description:
 tags:
 - happiness

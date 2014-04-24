@@ -7,6 +7,7 @@ date: 2007-10-04
 permalink: /2007/10/04/teaching-at-uci/
 categories:
 - teaching
+- blog
 lang: en
 trans: /2007/10/04/teaching-at-uci/2/
 tags: [statistics, probability]

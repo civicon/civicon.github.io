@@ -4,8 +4,11 @@ title: Forschung
 lang: de
 trans: /research/
 category: research
-tagline: PhD student in Bremen, Germany
-tags: [about, deliberative democracy, taxation, PhD,]
+tags:
+- about
+- deliberative democracy
+- taxation
+- PhD
 modified: 03-10-2014
 image:
   feature: http://lh6.googleusercontent.com/S7lTZRyA9MhNbDJUilTGD-g5mL-btR5tqcP_0FWDQaSv=w884-h206-no
@@ -21,7 +24,7 @@ image:
 
 Ich schreibe gegenwärtig meine Dissertation über (progressive) Besteuerung und (deliberative) Demokratie.
 
-<div markdown="0"><a href="/tax-democracy/" class="btn">Meine dissertation</a></div>
+<div markdown="0"><a href="/tax-democracy/" class="btn">Meine Dissertation</a></div>
 
 
 ## Forschungsinteressen
@@ -48,11 +51,10 @@ Ich schreibe gegenwärtig meine Dissertation über (progressive) Besteuerung und
 
 ## Mehr
 
-- <div markdown="0"><a href="http://www.mendeley.com/profiles/maximilian-held/" class="btn">Mendeley</a></div>
-- <div markdown="0"><a href="http://scholar.google.de/citations?user=rcj8VxYAAAAJ" class="btn">Google Scholar</a></div>
-- <div markdown="0"><a href="https://jacobs-university.academia.edu/MaximilianHeld" class="btn">Academia.edu</a></div>
+<div markdown="0"><a href="http://scholar.google.de/citations?user=rcj8VxYAAAAJ" class="btn">Google Scholar</a></div>
+<div markdown="0"><a href="https://jacobs-university.academia.edu/MaximilianHeld" class="btn">Academia.edu</a></div>
 
--------
+---
 
 
-# Veröffentlichungen & Forschungsartikel
+# Forschungsartikel

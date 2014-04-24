@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Strukturelle Arbeitslosigkeit und Armut sind vermeidbar (Artikel)
-description:
-	"Held, M. (2010).
-	Structural Unemployment and Working Poverty are Not Inevitable – Let’s Share the Burden of Economic Transformation.
-	*Schlossplatz3*, (8)"
+description: "Held, M. (2010). Structural Unemployment and Working Poverty are Not Inevitable – Let’s Share the Burden of Economic Transformation. Schlossplatz3, (8)"
 tags:
 - economics
 - negative income tax

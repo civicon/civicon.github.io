@@ -7,10 +7,11 @@ tags:
 - democracy
 - germany
 - mass communication science
-- united states]
+- united states
 categories:
 - blog
 lang: de
+link: http://www.fortschrittsforum.de/debattieren/bildung-modernisierung/artikel/article/unsere-letzte-beste-hoffnung-1.html
 permalink: /2012/02/05/twilight-democracy/
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/deliberative-democracy-now-crop.jpg
@@ -21,6 +22,9 @@ image:
   location:
   locationlink:
 ---
+
+Dieser Artikel erschien [zuerst](http://www.fortschrittsforum.de/debattieren/bildung-modernisierung/artikel/article/unsere-letzte-beste-hoffnung-1.html) im [Fortschrittsforum](http://www.fortschrittsforum.de/).
+{: .notice}
 
 Der Mann, der das Treppenhaus vor meiner Mietwohnung fegt, erklärte mir vor ein paar Jahren, warum er 2005 die FDP gewählt hat: Da gibt es mehr Netto vom Brutto.
 Einige meiner linken Freundinnen möchten gerne den [Handel mit Derivaten auf Lebensmittel](http://www.wdm.org.uk/food-speculation "World Development Movement: Food Speculation") verbieten, weil man mit manchen Sachen [einfach nicht handeln sollte](http://www.youtube.com/watch?v=X-7miE3vKbM "Mikropsychia") und weil das für die Armen besser wäre.

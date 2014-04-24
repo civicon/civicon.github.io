@@ -14,7 +14,6 @@ tags:
 - peacemaking
 categories:
 - blog
-- research
 permalink: /2010/01/14/failure-in-iraq/
 lang: en
 image:

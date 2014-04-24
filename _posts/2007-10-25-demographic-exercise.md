@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First demographic exercise completed"
+title: "First demographic exercise completed (Assignment)"
 description:
 tags:
 - demography

@@ -8,7 +8,6 @@ permalink: /2007/10/04/teaching-at-uci/2/
 categories:
 - teaching
 lang: de
-link:
 trans: /2007/10/04/teaching-at-uci/
 tags: [statistics, probability]
 image:

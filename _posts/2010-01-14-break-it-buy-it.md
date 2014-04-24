@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In AfPak, Iraq and Elsewhere If You Break it, You Buy it"
+title: "In AfPak, Iraq and Elsewhere If You Break it, You Buy it (Assignment)"
 description: "We haven’t learned nearly enough about this mayhem of a failed state and the chaos that even the well-intentioned regime changes or peacemaking bring.We haven’t learned nearly enough about the nightmares, that result all too often, when the high and mighty West comes to the rescue."
 tags:
 - afghanistan
