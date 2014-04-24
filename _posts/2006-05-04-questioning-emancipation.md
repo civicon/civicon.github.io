@@ -22,6 +22,8 @@ image:
 
 More recent ventures in Human Development Theory have provided rich empirical support for the claim that processes of human emancipation are intimately tied with civicness and democratic performance of any given society (compare Inglehart & Welzel 2005, full citation in the attached paper).
 
+<!--more-->
+
 For our class “[Secondary Data Analysis](http://www.jacobs-university.de/academics/courses/Spring_2006/SHSS/990212_1/)” my colleagues Lisa Heindl, Anja Jungermann, Henrik Mädler and I set out on an ambitious project: to disconfirm the universality of the above claim. 
 We hypothesized that the explanatory power (R2 in technical terms) of emancipation on civicness and democratic performance would decrease over higher levels of the former. 
 In other words, once a certain catch-up effect is realized, more emancipation has no, or possibly even a reverse effect on civicness and democratic performance.

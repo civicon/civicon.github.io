@@ -24,6 +24,8 @@ image:
 In this semester’s transdisciplinary University Studies Course (USC) on “[War and Culture](http://www.jacobs-university.de/academics/courses/Fall_2006/USC/020033_1/)” war movies were among the most frequently analyzed cultural texts. 
 The class was held by communication scientist Prof. Dr. Clemens Schwender and historian [Prof. Dr. Brendan Dooley](http://www.jacobs-university.de/directory/02757/) at Jacobs University Bremen.
 
+<!--more-->
+
 Ever since my participation in the summer university program Deutsche SchülerAkademie, where I attended a cultural studies class in 2002, the scientific exploration of popular texts, such as movies has been one of my key interests.
 
 Social scientific research on popular texts, it appears to me, is curiously scarce, in contrast to a wide and methodologically well developed body of mass communication research, focusing largely on news media.

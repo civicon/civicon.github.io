@@ -24,6 +24,8 @@ image:
 Most will agree that the global political institutions are curiously underdeveloped in the face of ever increasing economic, cultural and environmental interdependencies as well as new global security concerns. 
 There is however little agreement as to how we should respond to this challenge.
 
+<!--more-->
+
 The term paper for this semester’s mandatory “[Democratic Governance](http://www.jacobs-university.de/academics/courses/Spring_2006/SHSS/910202_1/)” provided me with ample possibility to reflect upon this debate. 
 In conclude that rather than relying on (truly particularistic) NGOs or devising institutions for one global democracy, for now, we should settle for global democratic institutions and seek to strengthen the respective influence of national legislatives.
 

@@ -23,6 +23,8 @@ image:
 
 Today, my colleagues Ewa Grzechnik, Melanie Wilneder and me held a presentation on “New Social Movements” in our sociology seminar “[Social Movements and Political Participation](https://href.li/?http://www.jacobs-university.de/academics/courses/Spring_2006/SHSS/920112_1/)”, held by Prof. Dr. Christian Joppke, my academic advisor.
 
+<!--more-->
+
 In the 1950s, Social Movements were largely concerned with the material issues and were comprised of socio-economically homogeneous demographics. 
 Most of the discourse centered on questions of distribution of wealth, economic stability or industrial relations.
 

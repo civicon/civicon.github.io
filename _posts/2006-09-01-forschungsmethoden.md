@@ -2,6 +2,7 @@
 layout: post
 title: Qualitative und Quantitative Forschungsmethoden (Tutorium)
 description: "Ein Tutorium für  Adalbert FX Wilhelm an der Jacobs University Bremen"
+link: 
 published: true
 categories:
 - teaching
