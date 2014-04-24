@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Economist Free Exchange on Bitcoin
-description: The Economist nails it on #bitcoin. But it's a neat idea...
 published: true
 link: http://www.economist.com/news/finance-and-economics/21599053-chronic-deflation-may-keep-bitcoin-displacing-its-fiat-rivals-money
 tags:
