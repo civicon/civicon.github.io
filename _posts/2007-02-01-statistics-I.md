@@ -7,7 +7,7 @@ published: true
 categories:
 - teaching
 lang: en
-link: https://www.jacobs-university.de/directory/awilhelm
+link: http://www.jacobs-university.de/academics/courses/Spring_2007/SHSS/990102_4/
 permalink: /2007/02/01/statistics-I/
 trans: /2007/02/01/statistik-I/
 tags:
@@ -15,5 +15,5 @@ tags:
 - probability
 ---
 
-A teaching assistant (TA) section for Adalbert FX Wilhelm at Jacobs University Bremen, Germany.
+A teaching assistant (TA) section for [Adalbert FX Wilhelm](https://www.jacobs-university.de/directory/awilhelm) at [Jacobs University Bremen](http://www.jacobs-university.de).
 {: .notice}

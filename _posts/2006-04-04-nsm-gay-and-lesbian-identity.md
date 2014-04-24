@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Social Movements -- gay and lesbian identity (Assignment)"
+title: "New Social Movements – gay and lesbian identity (Assignment)"
 description:
 tags:
 - lgbt

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sail Away -- Jacobs Graduation Ball of the Class of 2007"
+title: "Sail Away – Jacobs Graduation Ball of the Class of 2007"
 description:
 tags:
 - graduation

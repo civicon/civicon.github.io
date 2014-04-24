@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Founding our own web 2.0 start-up -- Collaboran Systems GbR"
+title: "Founding our own web 2.0 start-up – Collaboran Systems GbR"
 description:
 tags:
 - collaboran systems

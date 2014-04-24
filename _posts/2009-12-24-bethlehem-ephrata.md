@@ -15,7 +15,7 @@ tags:
 categories:
 - blog
 lang: en
-trans: /2009-12-24-frohe-weihnachten/
+trans: /2009/12/24/frohe-weihnachten/
 image:
   feature: http://dl.dropboxusercontent.com/u/5341489/images/christmas-service_crop.jpg
   caption:

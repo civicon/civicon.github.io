@@ -2,7 +2,7 @@
 layout: post
 title: Qualitative und Quantitative Forschungsmethoden (Tutorium)
 description: "Ein Tutorium für  Adalbert FX Wilhelm an der Jacobs University Bremen"
-link: https://www.jacobs-university.de/directory/awilhelm
+link: http://www.jacobs-university.de/academics/courses/Fall_2006/SHSS/990111_1/
 published: true
 categories:
 - teaching
@@ -13,3 +13,6 @@ tags:
 - statistics
 - probability
 ---
+
+Ein Tutorium für [Adalbert FX Wilhelm](https://www.jacobs-university.de/directory/awilhelm) an der [Jacobs University Bremen](http://www.jacobs-university.de).
+{: .notice}

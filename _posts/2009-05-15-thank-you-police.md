@@ -12,7 +12,7 @@ categories:
 permalink: /2009/05/15/thank-you-police/
 lang: en
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/anti-konflikt-team_crop.jpg
+  feature: http://dl.dropboxusercontent.com/u/5341489/images/anti-konflikt-team_crop.jpg
   caption: Anti-Konflikt Teams
   captionlink:
   credit: Thomas Brauner
@@ -23,6 +23,7 @@ image:
 
 *Update*: Yesterday (12/06/2010), a group of leftist protesters [attacked police](http://www.tagesspiegel.de/berlin/protestler-verletzten-zwei-polizisten/1857768.html) with an [IED](http://en.wikipedia.org/wiki/Improvised_explosive_device) (*not* "just" fireworks, it appears).
 Two injured officers had to undergo surgery.
+{: .notice}
 
 <iframe width="960" height="720" src="//www.youtube.com/embed/NyMYEzvnFLY" frameborder="0" allowfullscreen></iframe>)
 
