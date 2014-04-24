@@ -5,6 +5,7 @@ description:
   "A literature seminar at the University of Hamburg"
 published: true
 permalink: /give-n-take/
+comments: true
 categories:
 - teaching
 - blog
