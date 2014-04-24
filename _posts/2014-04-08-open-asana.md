@@ -6,14 +6,15 @@ link: http://blog.asana.com/2014/04/futurasana/
 categories:
 - blog
 lang: en
+comments: true
 tags: [open source, technology]
 ---
 
 Asana, maker of e-mail free collaboration software and "work graph", on its future:
 
-> Imagine this: the year is 2016. 
-> It’s the beginning of the day and you’ve just arrived at work. 
-> You sit down at your desk (assuming that having a desk is still a “thing”) and open Asana. 
+> Imagine this: the year is 2016.
+> It’s the beginning of the day and you’ve just arrived at work.
+> You sit down at your desk (assuming that having a desk is still a “thing”) and open Asana.
 > What do you see?
 
 I'm the biggest fan of e-mail-free-collaboration; but to be fair, Asana also has an ulterior motive here.
