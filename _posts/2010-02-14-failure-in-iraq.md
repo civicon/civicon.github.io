@@ -24,6 +24,7 @@ image:
   creditlink: http://www.news.navy.mil/view_single.asp?id=7258
   location: San Diego, CA
   locationlink:
+comments: true
 ---
 
 On May 1st, 2003 when then President George W. Bush, declared the end of major combat operations and the mission Iraqi Freedom to be "accomplished" aboard the USS Abraham Lincoln aircraft carrier, much of the failure and dying in Iraq still lay ahead.

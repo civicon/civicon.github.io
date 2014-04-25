@@ -25,6 +25,7 @@ image:
   creditlink:
   location:
   locationlink:
+comments: true
 ---
 
 It occurs to me, in the current economic crisis, and in public debt-ridden times to come, more than ever, discussions on public policy conclude in a shoulder-shrugging realization that we knew what to do about it.

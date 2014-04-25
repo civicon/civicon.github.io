@@ -23,6 +23,7 @@ image:
   creditlink:
   location:
   locationlink:
+comments: true
 ---
 
 >Die Schule der Nation ist die Schule.

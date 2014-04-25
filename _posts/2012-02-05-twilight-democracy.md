@@ -21,6 +21,7 @@ image:
   creditlink: http://www.flickr.com/photos/ideonexus/5130166257/
   location:
   locationlink:
+comments: true
 ---
 
 Dieser Artikel erschien [zuerst](http://www.fortschrittsforum.de/debattieren/bildung-modernisierung/artikel/article/unsere-letzte-beste-hoffnung-1.html) im [Fortschrittsforum](http://www.fortschrittsforum.de/).

@@ -27,6 +27,7 @@ image:
   creditlink: http://www.flickr.com/photos/luodanli/7407662/
   location:
   locationlink:
+comments: true
 ---
 
 >[ISAF](http://en.wikipedia.org/wiki/International_Security_Assistance_Force), [MNF-I](http://en.wikipedia.org/wiki/Multi-National_Force_%E2%80%93_Iraq) Go Home? -- *not so fast*.

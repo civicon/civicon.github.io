@@ -19,6 +19,7 @@ image:
   creditlink:
   location:
   locationlink:
+comments: true
 ---
 
 How to alleviate the effects of the financial crisis?

@@ -23,6 +23,7 @@ image:
   creditlink: http://www.flickr.com/photos/nuon/5032602590/
   location:
   locationlink:
+comments: true
 ---
 
 How to react to global warming?

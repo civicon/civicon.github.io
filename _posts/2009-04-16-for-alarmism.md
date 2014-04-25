@@ -20,6 +20,7 @@ image:
   creditlink: http://www.flickr.com/photos/senor_codo/352250460/
   location:
   locationlink:
+comments: true
 ---
 
 I was recently tasked to prepare a presentation on the political economy questions of climate change:

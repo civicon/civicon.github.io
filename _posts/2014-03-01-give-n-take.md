@@ -23,6 +23,7 @@ image:
   creditlink: http://www.flickr.com/photos/geoftheref/7554947366/
   location:
   locationlink:
+comments: true
 ---
 
 A [literature seminar](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000413,-N0,-N352425125338779,-N352425125317780,-N0,-N0,-N0) at the [University of Hamburg](http://www.uni-hamburg.de/).

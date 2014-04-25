@@ -7,6 +7,7 @@ categories:
 - blog
 lang: en
 tags: [regulatory capture, rent seeking, capitalism, crony capitalism, corruption]
+comments: true
 ---
 
 

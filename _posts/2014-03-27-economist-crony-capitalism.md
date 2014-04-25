@@ -8,8 +8,11 @@ categories:
 tags:
 - economist
 - liberalism
+- democracy
+- liberalism
+- deliberation
 lang: en
-tags: [democracy, liberalism, deliberation]
+comments: true
 ---
 
 Edmund Fawcett in a letter to the Economist:

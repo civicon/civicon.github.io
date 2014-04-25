@@ -20,6 +20,7 @@ image:
   creditlink: http://www.flickr.com/photos/gertrudk/3094320255/
   location: Berlin, Germany
   locationlink:
+comments: true
 ---
 
 Foundations are [booming](http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-CC989C28-505DA861/bst/hs.xsl/prj_8591_8597.htm) in Germany and they are frequently cherished as the ideal way to harness private wealth for the common good.

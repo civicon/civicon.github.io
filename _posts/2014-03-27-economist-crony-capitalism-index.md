@@ -6,7 +6,13 @@ link: http://www.economist.com/news/international/21599041-countries-where-polit
 categories:
 - blog
 lang: en
-tags: [regulatory capture, rent seeking, capitalism, crony capitalism, corruption]
+tags:
+- regulatory capture
+- rent seeking
+- capitalism
+- crony capitalism
+- corruption
+comments: true
 ---
 
 The Economist on its crony capitalism index:

@@ -19,6 +19,7 @@ image:
   creditlink: http://www.flickr.com/photos/thomasbrauner/3493052919/
   location:
   locationlink:
+comments: true
 ---
 
 *Update*: Yesterday (12/06/2010), a group of leftist protesters [attacked police](http://www.tagesspiegel.de/berlin/protestler-verletzten-zwei-polizisten/1857768.html) with an [IED](http://en.wikipedia.org/wiki/Improvised_explosive_device) (*not* "just" fireworks, it appears).

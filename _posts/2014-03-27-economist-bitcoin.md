@@ -7,10 +7,12 @@ tags:
 - economist
 - bitcoin
 - monetary policy
+- economist
+- economics
 categories:
 - blog
 lang: en
-tags: [monetary policy, bitcoin, economist, economics]
+comments: true
 ---
 
 > That may be for the best, given another Bitcoin quirk.

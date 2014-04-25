@@ -18,6 +18,7 @@ image:
   creditlink: http://jonasmarx.net/
   location:
   locationlink:
+comments: true
 ---
 
 Chancen für die Chancengleichheit.

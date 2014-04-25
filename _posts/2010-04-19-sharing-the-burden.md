@@ -26,6 +26,7 @@ image:
   creditlink: http://www.flickr.com/photos/jake_snicket/4398862890/
   location:
   locationlink:
+comments: true
 ---
 
 The plight of structural unemployment and gaggles of working poor, it appears, are here to stay.

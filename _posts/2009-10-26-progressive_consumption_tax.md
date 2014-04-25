@@ -21,6 +21,7 @@ image:
   creditlink: http://www.flickr.com/photos/iamagenious/3325538971/
   location:
   locationlink:
+comments: true
 ---
 
 Have you met the perfect tax?

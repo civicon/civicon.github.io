@@ -28,6 +28,7 @@ image:
   creditlink: http://www.flickr.com/photos/18091975@N00/3928839804/
   location:
   locationlink:
+comments: true
 ---
 
 What do we want from policy analysis?

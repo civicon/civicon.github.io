@@ -21,6 +21,7 @@ image:
   creditlink: http://www.flickr.com/photos/stuckincustoms/2984988919/
   location: Dresden, Germany
   locationlink:
+comments: true
 ---
 
 > [EUR 102.8 million](http://www.frauenkirche-dresden.de/daten-fakten-aufbau+M54a708de802.html) in donations for rebuilding an old church, destroyed during WW II.

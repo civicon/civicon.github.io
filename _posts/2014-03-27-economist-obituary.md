@@ -6,7 +6,11 @@ link: http://www.economist.com/news/obituary/21598621-mike-parker-typographer-di
 categories:
 - blog
 lang: en
-tags: [economist, typography, obituary]
+comments: true
+tags:
+- economist
+- typography
+- obituary
 ---
 
 The Economist obituary on Mike Parker:

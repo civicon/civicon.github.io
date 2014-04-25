@@ -27,6 +27,7 @@ image:
   creditlink: http://jonasmarx.net/
   location:
   locationlink:
+comments: true
 ---
 
 Informatische, soziologische, mathematische, politikwissenschaftliche, und statistische Perspektiven auf die essentielle Frage, wie postindustrielle, liberale Demokratien Einigkeit in Vielfalt heute organisieren können

@@ -20,6 +20,7 @@ image:
   creditlink: http://commons.wikimedia.org/wiki/File:Winnenden_Schule_05_(RaBoe).jpg
   location: Winnenden, Germany
   locationlink:
+comments: true
 ---
 
 Today, 17 year-old Tim K., armed with a Baretta, shot and killed fifteen people in and around his former Albertville high school in Winnenden, Germany. He eventually shot himself in a gunfight with police.

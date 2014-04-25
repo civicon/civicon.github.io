@@ -21,6 +21,7 @@ image:
   creditlink: http://www.flickr.com/photos/mindfulone/268022096/
   location:
   locationlink:
+comments: true
 ---
 
 [Peter Sloterdijk](http://www.petersloterdijk.net) has recently called for a [radical rethinking of redistribution](http://www.sueddeutsche.de/wirtschaft/957/499238/text/).
