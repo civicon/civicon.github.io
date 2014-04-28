@@ -31,7 +31,7 @@ Why bother? Because:
 
 Over the past few years of working on my PhD, I've spent a fair amount of time figuring out the best possible tech-setup.
 Ok, to be honest, I procrastinated.
-But: While I am still not a programmer (sadly), I've come to the conclusion that hackers have developed a set of great tools, technology and practices that are applicable to social scientists and other knowledge workers, too.
+But: While I am still not a programmer (sadly), I've come to the conclusion that hackers have developed a set of great tools, technology and practices that are applicable to social scientists and other knowledge workers, too [^3].
 
 I thought I'd offer a workshop for whomever is interested in this.
 
@@ -88,3 +88,23 @@ Can be hosted for free via the commercial [Github Pages](https://pages.github.co
 There's also already plenty of resources [out there](https://www.coursera.org/course/rprog), including, I believe, classes at [BIGSSS](http://www.bigsss-bremen.de).
 
 [^2]: Admittedly, neither Sublime Text nor Atom are free and/or open source – even though many of the plugins are. I just haven't had the guts to try out [vim](http://www.vim.org/) and [emacs](http://www.gnu.org/software/emacs/) yet – learning curve seems *really* steep.
+
+[^3]: See sources.
+
+
+## Sources
+
+Since I can't very well post my browser history here (but probably [here](http://www.nsa.gov/)), I can only highlight *some* of the sources I consulted:
+
+- General
+  + Martin Fenner's [Goobledygook](http://blog.martinfenner.org/) is an excellent source.
+  + so is [The Chronicle's](http://www.chronicle.com/) [ProfHacker](http://chronicle.com/blogs/profhacker/)
+- [LaTeX](http://www.latex-project.org/)
+  + canonical documentation for packages are, of course, on [CTAN](http://www.ctan.org/)
+  + near-canonical information can be found on this [Wikibook](http://en.wikibooks.org/wiki/LaTeX)
+  + and the always helpful [Stackexchange franchise for LaTeX](http://tex.stackexchange.com/)
+- Git(hub)
+  + official documentation is at http://git-scm.com/
+  + Marcio von Muhlen on [why we need a github for science](http://marciovm.com/i-want-a-github-of-science/)
+  + ProfHacker series on [github for science](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
+- tbc.
