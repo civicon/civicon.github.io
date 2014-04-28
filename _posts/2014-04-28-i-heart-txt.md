@@ -23,7 +23,7 @@ image:
   locationlink:
 ---
 
-A workshop covering great free/open source and text-based technology for social scientists.
+<div markdown="0"><a href="/i-heart-txt/" class="btn btn-info">A workshop covering great free/open source and text-based technology for (social) scientists.</a></div>
 
 <div markdown="0"><a href="http://www.bigsss-bremen.de" class="btn btn-warning">These are some early sketches for a possible workshop at BIGSSS.</a></div>
 
