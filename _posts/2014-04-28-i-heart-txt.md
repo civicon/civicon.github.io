@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I ♥ .txt (Workshop)
+title: I ♥ *.txt (Workshop)
 published: true
 permalink: /i-heart-txt/
 description: A workshop covering great free/open source and text-based technology for social scientists.
@@ -22,6 +22,8 @@ image:
   location:
   locationlink:
 ---
+
+A workshop covering great free/open source and text-based technology for social scientists.
 
 <div markdown="0"><a href="http://www.bigsss-bremen.de" class="btn btn-warning">These are some early sketches for a possible workshop at BIGSSS.</a></div>
 
@@ -78,10 +80,10 @@ We might cover the following tools and programs:
 5. [BibDesk](http://bibdesk.sourceforge.net/) (for OS X), and [JabRef](http://jabref.sourceforge.net/) (for Windows OS), both open source bibliography management tools.
 Bibliographies are stored as human-readable text files `*.bib`.
 6. [Skim](http://skim-app.sourceforge.net/) (for OS X), and Windows alternatives ([Sumatra PDF](http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html)?), both open source PDF readers, including clever annotation.
-7. [Pandoc](http://johnmacfarlane.net/pandoc/), the swiss-army knife for converting different markup formats (including all of the above).
-8. As a bonus, [Jekyll](http://jekyllrb.com/), a neat tool that converts Markdown text files (`*.md`) into static, well-formated HTML.
+7. [Pandoc](http://johnmacfarlane.net/pandoc/), the swiss-army knife for cross-converting different markup formats (including all of the above).
+8. As a bonus, [Jekyll](http://jekyllrb.com/), a neat tool that converts Markdown text files (`*.md`) into static, well-formatted HTML.
 For your project website, blog – you name it.
-Can be hosted commercially, but for free via [Github Pages](https://pages.github.com/).
+Can be hosted for free via the commercial [Github Pages](https://pages.github.com/).
 9. Obviously, [R](http://www.r-project.org/), the FOSS statistics project would also fit well into this tech stack, but its too big a topic and relevant only for quantative researchers.
 There's also already plenty of resources [out there](https://www.coursera.org/course/rprog), including, I believe, classes at [BIGSSS](http://www.bigsss-bremen.de).
 
