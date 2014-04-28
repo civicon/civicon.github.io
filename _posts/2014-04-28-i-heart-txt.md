@@ -23,9 +23,7 @@ image:
   locationlink:
 ---
 
-<div markdown="0"><a href="/i-heart-txt/" class="btn btn-info">A workshop covering great free/open source and text-based technology for (social) scientists.</a></div>
-
-<div markdown="0"><a href="http://www.bigsss-bremen.de" class="btn btn-warning">These are some early sketches for a possible workshop at BIGSSS.</a></div>
+<div markdown="0"><a href="http://www.maxheld.de/i-heart-txt/" class="btn btn-info">A workshop covering great free/open source and text-based technology for (social) scientists.</a></div>
 
 Why bother? Because:
 
@@ -38,6 +36,8 @@ But: While I am still not a programmer (sadly), I've come to the conclusion that
 I thought I'd offer a workshop for whomever is interested in this.
 
 <!--more-->
+
+<div markdown="0"><a href="http://www.bigsss-bremen.de" class="btn btn-warning">These are some early sketches for a possible workshop at BIGSSS.</a></div>
 
 
 ## Themes
