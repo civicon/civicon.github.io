@@ -52,7 +52,7 @@ Ich schreibe gegenwärtig meine Dissertation über (progressive) Besteuerung und
 ## Mehr
 
 <div markdown="0"><a href="http://scholar.google.de/citations?user=rcj8VxYAAAAJ" class="btn">Google Scholar</a></div>
-<div markdown="0"><a href="https://jacobs-university.academia.edu/MaximilianHeld" class="btn">Academia.edu</a></div>
+<div markdown="0"><a href="https://jacobs-university.academia.edu/MaxHeld" class="btn">Academia.edu</a></div>
 
 ---
 
