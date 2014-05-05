@@ -23,7 +23,6 @@ I am currently doing my PhD in the social sciences and writing my dissertation o
 
 <div markdown="0"><a href="/tax-democracy/" class="btn">My diss</a></div>
 
-
 ## Research Interests
 
 - (deliberative) democracy
