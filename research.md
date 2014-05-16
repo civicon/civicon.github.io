@@ -21,7 +21,7 @@ image:
 
 I am currently doing my PhD in the social sciences and writing my dissertation on (progressive) taxation and (deliberative) democracy.
 
-<div markdown="0"><a href="/tax-democracy/" class="btn">My diss</a></div>
+<div markdown="0"><a href="/schumpermas/" class="btn">My diss</a></div>
 
 ## Research Interests
 

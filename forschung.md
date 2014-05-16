@@ -24,7 +24,7 @@ image:
 
 Ich schreibe gegenwärtig meine Dissertation über (progressive) Besteuerung und (deliberative) Demokratie.
 
-<div markdown="0"><a href="/tax-democracy/" class="btn">Meine Dissertation</a></div>
+<div markdown="0"><a href="/schumpermas/" class="btn">Meine Dissertation</a></div>
 
 
 ## Forschungsinteressen
