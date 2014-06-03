@@ -1,0 +1,94 @@
+title:            "maxheld"
+description:      "Maximilian Held's website."
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://www.maxheld.de
+disqus_shortname: maxheld
+
+# Owner/author information
+owner:
+  name:           Maximilian Held
+  avatar:         http://lh6.googleusercontent.com/-GAQzGMa__58/UxxsqVd25bI/AAAAAAAClRM/-lVHG---UUM/s873-no/Maximilian%25252520Held_2.jpg
+  bio:
+     en: "researches, teaches and advocates (progressive) tax reform and (deliberative) democracy."
+     de: "untersucht, unterrichtet und bewirbt (progressive) Steuerreform und (deliberative) Demokratie."
+  email:          "info@maxheld.de"
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:        maxheld
+  facebook:       MaxHeld
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    MaximilianHeld
+  github:         maxheld83
+  stackoverflow:  3403196
+  linkedin:       maxheld
+  instagram:
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-48816137-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+ en:
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+  - title: Research
+    url: /research/
+  - title: Diss
+    url: /schumpermas/
+    external: true
+  - title: Teaching
+    url: /teaching/
+  - title: Projects
+    url: /projects/
+
+ de:
+  - title: "Über"
+    url: /ueber/
+  - title: Artikel
+    url: /artikel/
+  - title: Forschung
+    url: /forschung/
+  - title: Diss
+    url: /schumpermas/
+    external: true
+  - title: Lehre
+    url: /lehre/
+  - title: Projekte
+    url: /projekte/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Berlin
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   pretty
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
