@@ -11,8 +11,6 @@
 
 {% include _browser-upgrade.html %}
 
-{% include _navigation.html %}
-
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -30,37 +28,19 @@
   </div><!-- /.image-wrap -->
 {% endif %}
 
-<div class="article-author-side">
-  {% include _author-bio.html %}
-</div>
-
-<div id="index">
-  <h3><a href="{{ site.url}}/posts/">{{ page.title }}</a></h3>
-  {% for post in site.posts limit:10 %}
-    {% if post.lang == page.lang %}
-      <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></h2>
-        {% if post.content contains '<!--more-->' %}
-          {{ post.content | split:'<!--more-->' | first }}
-        {% elsif post.description %}
-          {{ post.description }}
-        {% else %}
-          {{ post.content }}
-        {% endif %}
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        {% if post.content contains '<!--more-->' %}
-          {{ post.content | split:'<!--more-->' | first }}
-        {% elsif post.description %}
-          {{ post.description }}
-        {% else %}
-          {{ post.content | strip_html | strip_newlines | truncate: 300 }}
-        {% endif %}
-      {% endif %}
-      </article>
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
-  {% endfor %}
+  </article>
 </div><!-- /#index -->
 
 <div class="footer-wrap">
