@@ -1,25 +1,27 @@
-title:            "civicon"
-description:      "Civicon organisiert die Erste Bremer Bürgerkonferenz über Steuern im Sommer 2014."
+title:            Civicon
+description:      Civicon are Citizen Conferences where people puzzle over policy, and argue to find civil (dis)agreement.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Civicon
-  avatar:         civicon.jpg
+  avatar: civicon-circle-600.jpg
+  name:
+     en: Civicon Citizen Conferences
+     de: Civicon Bürgerkonferenzen
   bio:
-     #en: "researches, teaches and advocates (progressive) tax reform and (deliberative) democracy."
-     de: "civitas"
-  email:          "info@maxheld.de"
+     en: "An experiment in deliberative democracy and dissertation research project."
+     de: "Ein Experiment in deliberativer Demokratie und Forschungsprojekt."
+  email:          "info@civicon.de"
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        maxheld
-  facebook:       MaxHeld
+  twitter:        civicon_de
+  facebook:       https://www.facebook.com/civicon.de
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    MaximilianHeld
-  github:         maxheld83
-  stackoverflow:  3403196
-  linkedin:       maxheld
+  google_plus:    107896630491453761581
+  github:         https://github.com/civicon
+  stackoverflow:
+  linkedin:
   instagram:
   lastfm:
   tumblr:
@@ -29,7 +31,7 @@ owner:
   dribbble:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-48816137-1
+google_analytics: UA-48816137-6
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -38,7 +40,7 @@ bing_verify:
 # For external links add external: true
 links:
  en:
-  - title: About
+  - title: Home
     url: /about/
   - title: Blog
     url: /blog/

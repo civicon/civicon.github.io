@@ -11,6 +11,8 @@
 
 {% include _browser-upgrade.html %}
 
+{% include _navigation.html %}
+
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -24,6 +26,9 @@
   alt="{{ page.title }} feature image">
   {% if page.image.credit %}
     <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  {% if page.image.licence %}
+     <a href="{{ page.image.locationlink }}">{{ page.image.licence }}</a>
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}

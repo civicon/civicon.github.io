@@ -9,15 +9,16 @@ categories:
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-a-lot_crop.jpg
-  caption: Schröder Obstplantagen
-  captionlink: http://www.schroeder-baumschulen.de/
-  credit:
-  creditlink: 
-  location: Thedinghausen, Germany
+  caption:
+  captionlink:
+  credit: Scott Hadfield
+  creditlink: https://www.flickr.com/photos/hadsie/2144141805/in/faves-93207791@N02/
+  location:
   locationlink:
+  licence: CC BY-NC-SA 2.0
+  licencelink: https://creativecommons.org/licenses/by-nc-sa/2.0/
 ---
 
-test
+kommt von cīvicus, lat. für die Stadt oder die Bürger betreffend und cōnferō, lat. für "
 
- <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/maxheld83" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/maxheld83', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-         
+"researches, teaches and advocates (progressive) tax reform and (deliberative) democracy."

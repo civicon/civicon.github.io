@@ -35,6 +35,9 @@
     {% if page.image.credit %}
        &copy <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
     {% endif %}
+    {% if page.image.licence %}
+       <a href="{{ page.image.locationlink }}">{{ page.image.licence }}</a>
+    {% endif %}
   </span>
   </div><!-- /.image-wrap -->
 {% endif %}
