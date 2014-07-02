@@ -29,23 +29,23 @@ image:
 ## Versuch in deliberativer Demokratie
 
 Als zivilgesellschaftlicher Versuch sind **Civicon** mehrtägige Bürgerkonferenzen, auf denen Menschen wie Sie und ich komplexe Politik selber in die Hand nehmen.
-Sie wir ausgerichtet von [Max Held](http://www.maxheld.de), einem Doktoranden der Sozialwissenschaften an der Universität Bremen.
+Sie wird ausgerichtet von [Max Held](http://www.maxheld.de), einem Doktoranden der Sozialwissenschaften an der Universität Bremen.
 Die erste Konferenz beginnt im Sommer 2014 mit dem Thema Steuern.
 
 Civicon folgt einem [*deliberativen* ](http://de.wikipedia.org/wiki/Deliberative_Demokratie) Ideal, nach dem wechselseitiges Verständnis und der Austausch von *Gründen* – nicht nur Abstimmungen – politischer Herrschaft Legitimät verleihen.
 
 Civicon lehnt sich in der Organisation an skandinavische und amerikanische [*Bürgerkonferenzen*](http://de.wikipedia.org/wiki/Bürgerkonferenz) an, die in den 1980er und 1990er Jahren als Instrument der partizipativen Technikfolgenabschätzung entstanden sind.
-Im Unterschied zu anderen Beteiligungsformaten stellt Civicon besonders die inhaltliche Komplexität von Themen heraus, und beeinhaltet auch längere Lernphasen.
-Das Vorbild unser Bürgerkonferenzen ist die (deutlich größere) kanadische [Bürgerversammlung zur Wahlrechtsreform](http://en.wikipedia.org/wiki/Citizens'_Assembly_on_Electoral_Reform_(British_Columbia)) in der Provinz British Columbia.
+Im Unterschied zu anderen Beteiligungsformaten stellt Civicon besonders die inhaltliche Komplexität von Themen heraus und beeinhaltet auch längere Lernphasen.
+Das Vorbild unserer Bürgerkonferenzen ist die (deutlich größere) kanadische [Bürgerversammlung zur Wahlrechtsreform](http://en.wikipedia.org/wiki/Citizens'_Assembly_on_Electoral_Reform_(British_Columbia)) in der Provinz British Columbia.
 
-<div markdown="0"><a class="btn btn-warning">Civicon hat kein  gesetzliches Mandat, und ist wirtschaftlich und politisch unabhängig.</a></div>
+<div markdown="0"><a class="btn btn-warning">Civicon hat kein  gesetzliches Mandat und ist wirtschaftlich und politisch unabhängig.</a></div>
 
 ---
 
 ## Dissertations-Forschungsprojekt
 
-Civicon ist auch ein Forschungsprojekt zu deliberativen Demokratie.
-Die erste Civicon Bürgerkonferenz über Steuern ist die "Feldarbeit" der Promotion von [Maximilian Held](http://www.maxheld.de), einem Doktoranden an der [Bremen International Graduate School of Social Sciences (BIGSSS)](http://www.bigsss-bremen.de), einem Institut an der [Universität Bremen](http://www.uni-bremen.de) und der [Jacobs University](http://www.jacobs-university).
+Civicon ist auch ein Forschungsprojekt zur deliberativen Demokratie.
+Die erste Civicon Bürgerkonferenz über Steuern ist die Feldarbeit der Promotion von [Maximilian Held](http://www.maxheld.de), einem Doktoranden an der [Bremen International Graduate School of Social Sciences (BIGSSS)](http://www.bigsss-bremen.de), einem Institut an der [Universität Bremen](http://www.uni-bremen.de) und der [Jacobs University](http://www.jacobs-university).
 
 <figure class="third">
 	<img src="/images/uni-bremen-caption.jpg">
@@ -53,7 +53,7 @@ Die erste Civicon Bürgerkonferenz über Steuern ist die "Feldarbeit" der Promot
 	<img src="/images/jacobs-university-caption.jpg">
 </figure>
 
-Die BIGSSS bietet für Civicon organisatorische Unterstützung und finanziert die erste Civicon Bürgerkonferenz über Steuern aus Forschungsmitteln der [Deutschen Forschungsgemeinschaft](http://www.dfg.de)
+Die BIGSSS bietet für Civicon organisatorische Unterstützung und finanziert die erste Civicon Bürgerkonferenz über Steuern aus Forschungsmitteln der [Deutschen Forschungsgemeinschaft](http://www.dfg.de).
 
 Die Promotion von Maximilian Held wird betreut von:
 

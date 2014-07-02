@@ -36,7 +36,7 @@ image:
 
 ### Alter
 
-> Gibt es Mindestalter um an der CiviCon Bürgerkonferenz mitzuwirken?
+> Gibt es ein Mindestalter um an der CiviCon Bürgerkonferenz mitzuwirken?
 
 Ja; Sie müssen zu Beginn der Konferenz volljährig sein.
 
@@ -48,10 +48,10 @@ Ja; Sie müssen zu Beginn der Konferenz volljährig sein.
 Die gemeinsamen Sitzungen der CiviCon werden in Ton und Bild aufgezeichnet.
 Außerdem füllen die Mitwirkenden am Anfang und Ende der Konferenz einen Fragebogen aus.
 Die Daten werden sicher gespeichert und werden nur anonymisiert für wissenschaftliche Zwecke genutzt.
-Wenn etwa eine ihrer Äußerungen in einer wissenschaftlichen Veröffentlichung berichtet wird, dann nur unter einem Pseudonym (es sei denn, Sie wünschen eine namentliche Nennung).
+Wenn etwa eine Ihrer Äußerungen in einer wissenschaftlichen Veröffentlichung berichtet wird, dann nur unter einem Pseudonym (es sei denn, Sie wünschen eine namentliche Nennung).
 Die Ton- und Bildaufnahmen werden *nicht* für die Allgemeinheit veröffentlicht, sondern nur ausgewählten und etablierten Wissenschaftlern zugänglich gemacht.
 
-<div markdown="0"><a href="" class="btn btn-success">Sie können ihre Teilnahme auch während der Konferenz jederzeit abbrechen.</a></div>
+<div markdown="0"><a href="" class="btn btn-success">Sie können Ihre Teilnahme auch während der Konferenz jederzeit abbrechen.</a></div>
 Leider müssen wir Ihnen in diesem Fall die bei der Herberge verursachten Kosten in Rechnung stellen.
 
 <div markdown="0"><a href="" class="btn btn-warning">Private Räume und Gespräche während der Konferenz werden *nicht* aufgezeichnet.</a></div>
@@ -65,7 +65,7 @@ Beim Vorbereitungstreffen haben wir Gelegenheit etwaige Bedenken und Widersprüc
 
 > Wer bezahlt das alles?
 
-Die Kosten der ersten CiviCon Bürgerkonferenz über Steuern werden aus den Forschungsmitteln des Feld B an der [BIGSSS](http://www.bigsss-bremen.de) bezahlt, einem Institut der [Universität Bremen](http://www.uni-bremen.de).
+Die Kosten der ersten CiviCon Bürgerkonferenz über Steuern werden aus den Forschungsmitteln des Felds B an der [BIGSSS](http://www.bigsss-bremen.de) bezahlt, einem Institut der [Universität Bremen](http://www.uni-bremen.de).
 Die [BIGSSS](http://www.bigsss-bremen.de) wird zu großen Teilen von der [Deutschen Forschungsgemeinschaft (DFG)](http://www.dfg.de) finanziert, einem eingetragenen Verein der seinerseits von Bund und Ländern getragen wird.
 
 Kurz: Die CiviCon Bürgerkonferenz *über* Steuern wird aus **Steuergeldern** bezahlt.
@@ -87,10 +87,10 @@ Zwar werden Sie vielleicht eine Menge bei der CiviCon Bürgerkonferenz lernen, a
 > Gibt es eine Aufwandsentschädigung oder Ähnliches?
 
 Nein.
-Idealerweise sollte CiviCon die für die Konferenz ausgefallenen Verdienste den Mitwirkenden erstatten können damit wirklich *jede_r* teilnehmen kann.
+Idealerweise sollte CiviCon die für die Konferenz ausgefallenen Verdienste den Mitwirkenden erstatten können, damit wirklich *jede_r* teilnehmen kann.
 Dafür fehlen die Mittel.
 
-Außerdem ist CiviCon noch nicht erprobt, und es ist gut, erstmal klein anzufangen.
+Außerdem ist CiviCon noch nicht erprobt und es ist gut, erstmal klein anzufangen.
 
 
 ### Öffentlichkeit
@@ -102,14 +102,14 @@ Die CiviCon Bürgerkonferenz hat **kein gesetzliches Mandat**, oder sonst eine o
 Mitwirkende sind Bürger_innen wie alle anderen auch.
 
 Aber, optimistisch gesehen: viele.
-Mit CiviCon probieren die Mitwirkenden etwas ziemlich außergewöhnliches; sie nehmen komplizierte Politik selber in die Hand.
-Es bleibt zu hoffen, dass alleine dieser Akt des bürgeschaftlichen Engagements, und die Stärke des besseren Arguments unserer Diskussionen auf offene Ohren trifft.
+Mit CiviCon probieren die Mitwirkenden etwas ziemlich Außergewöhnliches; sie nehmen komplizierte Politik selbst in die Hand.
+Es bleibt zu hoffen, dass alleine dieser Akt des bürgerschaftlichen Engagements und die Stärke des besseren Arguments unserer Diskussionen auf offene Ohren trifft.
 
 
 ### Vorwissen
 
 > Muss ich Vorwissen über Steuern oder Politik haben?
 
-Nein, absolut keins.
+Nein, keins.
 Zur CiviCon Bürgerkonferenz ist jede_r eingeladen und wir brauchen viele unterschiedliche Stimmen.
-Die Lernphasen beginnen ganz von vorn, und sind verständlich gestaltet.
+Die Lernphasen beginnen ganz von vorn und sind verständlich gestaltet.

@@ -19,12 +19,12 @@ image:
 ---
 
 - ... nicht mehr Volks*vertreter*, sondern Bürger_innen wie Sie und ich die **Steuerpolitik** in die *eigenen* Hände nähmen?
-- ... nicht mehr 1:20 Tagesschau reichen müssen, sondern wir die Gelegenheit hätten, den Dingen der Steuer **auf den Grund zu gehen**?
+- ... nicht mehr "Bild, BamS und Glotze" zur Erklärung reichen müssen, sondern wir die Gelegenheit hätten, den Dingen der Steuer **auf den Grund zu gehen**?
 - ... nicht mehr Macht, Stimmung und Interessen in dieser Politik zählten, sondern nur "der **zwanglose Zwang des besseren Arguments**"?
 
 Probieren wir es gemeinsam aus: bei der ersten **CiviCon Bürgerkonferenz** über Steuern.
 
-<div markdown="0"><a href="/konferenz/" class="btn btn-info">11. bis 17. August 2014 in Syke (Niedersachsen)</a></div>
+<div markdown="0"><a href="/konferenz/" class="btn btn-info">11. bis 17. August 2014 in Syke (bei Bremen)</a></div>
 
 Finden wir heraus, ob das klappen könnte:
 

@@ -23,7 +23,7 @@ Die erste **CiviCon Bürgerkonferenz** über Steuern findet im Sommer 2014 in Sy
 
 <div markdown="0"><a href="" class="btn btn-info">11. bis 17. August 2014</a></div>
 
-Wir sind zu Gast in der **Herberge** der [Lebens- und Arbeitsgemeinschaft Wesflügel](http://www.westfluegel-syke.de), gelegen am Waldrand westlich von Syke.
+Wir sind zu Gast in der **Herberge** der [Lebens- und Arbeitsgemeinschaft Westflügel](http://www.westfluegel-syke.de), gelegen am Waldrand westlich von Syke.
 Mitwirkende der CiviCon sind in Mehrbettzimmern untergebracht.
 Wir nutzen die großzügigen Seminar- und Aufenthaltsräume der Herberge.
 
@@ -41,7 +41,7 @@ Vom Bahnhof werden Mitwirkende mit dem Taxi abgeholt.
 
 Etwa *zwei Wochen vor Konferenzbeginn* findet in Bremen ein abendliches Vorbereitungstreffen statt.
 Hier lernen wir einander kennen, besprechen den Ablauf und sammeln Fragen und Ideen für die Konferenz.
-Die Mitwirkende erhalten die Informationsbroschüre zur Vorbereitung.
+Die Mitwirkenden erhalten die Informationsbroschüre zur Vorbereitung.
 Außerdem nehmen die Mitwirkenden an einer ersten Umfrage teil.
 
 <div markdown="0"><a href="" class="btn btn-warning">Die Teilnahme am Vorbereitungstreffen ist zwingend erforderlich.</a></div>
@@ -54,14 +54,14 @@ Für das leibliche Wohl ist gesorgt.
 
 Die Zeit der Konferenz entfällt auf etwa drei gleich große Arbeitsformen:
 
-1. In **Kleingruppen** von fünf bis sieben Bürger_innen wird intensiv diskutiert. Die Kleingruppen werden von ausgebildeten **Moderatoren** angeleitet.  
-2. Im **Plenum** aller 15 Bürger_innen werden gemeinsame Fragen aufgestellt, aus den Kleingruppen berichtet und etwaige Empfehlungen zusammengestellt. Die Moderatoren begleiten den Prozess und dokumentieren Ergebnisse.
-3. In **Lernphasen** erklärt CiviCon das Wichtigste und Strittigste, was man über Steuern wissen sollte. Die Lernphasen basieren auf der vorab bereit gestellten Informationsbroschüre und sind von wissenschaftlichen Expert_innen auf Korrektheit und Ausgewogenheit überprüft.
+1. In **Kleingruppen** von fünf bis sieben Bürger_innen wird intensiv diskutiert. Die Kleingruppen werden von ausgebildeten **Moderator_innen** angeleitet.  
+2. Im **Plenum** aller 15 Bürger_innen werden gemeinsame Fragen aufgestellt, aus den Kleingruppen berichtet und etwaige Empfehlungen zusammengestellt. Die Moderator_innen begleiten den Prozess und dokumentieren Ergebnisse.
+3. In **Lernphasen** erklärt CiviCon das Wichtigste und Strittigste, das man über Steuern wissen sollte. Die Lernphasen basieren auf der vorab bereit gestellten Informationsbroschüre und sind von wissenschaftlichen Expert_innen auf Korrektheit und Ausgewogenheit überprüft.
 
 <div markdown="0"><a href="" class="btn btn-warning">Die intensive Arbeit erfordert eine durchgehende Anwesenheit am Tagungsort.</a></div>
 
 Neben der gemeinsamen Arbeit gibt es ausreichend Freiraum für Freizeit, geselliges Beisammensein oder gemeinsame Unternehmungen.
 
-In der Mitte der Konferenz eingeladenen Expert_innen, Wissenschaftler_innen und Praktiker_innen den Mitwirkenden in einer **Podiumsdiskussion** für ihre Fragen Rede und Antwort.
+In der Mitte der Konferenz stehen eingeladene Expert_innen, Wissenschaftler_innen und Praktiker_innen den Mitwirkenden in einer **Podiumsdiskussion** für ihre Fragen Rede und Antwort.
 
-Den Abschluss der Konferenz bildet eine **Pressekonferenz** bei der die Mitwirkenden Presse, Politik und interessierter Öffentlichkeit von ihrer Arbeit berichten.
+Den Abschluss der Konferenz bildet eine **Pressekonferenz**, bei der die Mitwirkenden Presse, Politik und interessierter Öffentlichkeit von ihrer Arbeit berichten.
