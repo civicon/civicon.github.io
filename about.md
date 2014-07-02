@@ -10,13 +10,16 @@ tags:
 lang: en
 trans: /ueber/
 image:
-  feature: http://lh6.googleusercontent.com/XLzpBoS6f7qdtJNlklLQF-WOB-t-xG6gtjsHKtEc03-t=w884-h249-no
+  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-blank-a_crop.jpg
   caption:
   captionlink:
-  credit:
-  creditlink:
-  location: California (2008)
+  credit: Groume
+  creditlink: https://www.flickr.com/photos/groume/6570725517
+  location:
   locationlink:
+  licence: CC BY-SA 2.0
+  licencelink: https://creativecommons.org/licenses/by-sa/2.0/
+  licencelogo:
 ---
 
 Maximilian Held is a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](http://www.bigsss-bremen.de/).

@@ -1,5 +1,5 @@
 ---
-layout: category-index
+layout: page
 title: Research
 category: research
 lang: en
@@ -8,13 +8,16 @@ tagline: PhD student in Bremen, Germany
 tags: [about, deliberative democracy, taxation, PhD,]
 modified: 03-10-2014
 image:
-  feature: http://lh6.googleusercontent.com/S7lTZRyA9MhNbDJUilTGD-g5mL-btR5tqcP_0FWDQaSv=w884-h206-no
-  caption: Bremen International Graduate School of Social Sciences (BIGSSS)
-  captionlink: http://www.bigsss-bremen.de
-  credit:
-  creditlink:
-  location: Bremen, Germany
+  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-signatures_crop.jpg
+  caption:
+  captionlink:
+  credit: Laura
+  creditlink: https://www.flickr.com/photos/nosmoking/114175501
+  location:
   locationlink:
+  licence: CC BY-NC-ND 2.0
+  licencelink: https://creativecommons.org/licenses/by-nc-nd/2.0/
+  licencelogo:
 ---
 
 ## Taxation & Democracy

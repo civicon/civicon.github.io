@@ -1,32 +1,67 @@
 ---
 layout: page
-title: Über Max
-tagline: Promotionsstudent in Bremen
-tags:
-- promotion
-- deliberative demokratie
-- steuer
-- promotion
+title: Was ist CiviCon?
+tags: [civicon, bürgerbeteiligung, steuer, deliberation]
 lang: de
-trans: /about/
-modified: 03-10-2014
+trans:
 image:
-  feature: http://lh6.googleusercontent.com/XLzpBoS6f7qdtJNlklLQF-WOB-t-xG6gtjsHKtEc03-t=w884-h249-no
+  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-blank-a_crop.jpg
   caption:
   captionlink:
-  credit:
-  creditlink:
-  location: Kalifornien (2008)
+  credit: Groume
+  creditlink: https://www.flickr.com/photos/groume/6570725517
+  location:
   locationlink:
+  licence: CC BY-SA 2.0
+  licencelink: https://creativecommons.org/licenses/by-sa/2.0/
+  licencelogo:
 ---
 
-Maximilian Held promoviert in Sozialwissenschaft an der [Bremen International Graduate School of Social Sciences](http://www.bigsss-bremen.de/).
-Er forscht dort über den Zusammenhang zwischen (progressiver) Steuer und (deliberativer) Demokratie.
+> **CiviCon** kommt von `cīvicus`, lateinisch für **die Stadt oder die Bürger betreffend** und von `cōnferō`, lateinisch für **in Gedanken zusammen bringen**.
 
-Nachdem er 2007 an der [Jacobs University Bremen](http://www.jacobs-university.de/) seinen Bachelor of Arts in [Integrierten Sozialwissenschaften](http://www.jacobs-university.de/iss/) gemacht hat, studierte er [Demografie](http://www.demography.uci.edu/ma_program.html) and Soziologie (Graduate) an der [University of California, Irvine](http://www.uci.edu/) und [Public Policy](http://www.hertie-school.org/home.php?nav_id=1980) an der Berliner [Hertie School of Governance](http://www.hertie-school.org/).
+**CiviCon** sind zwei Dinge:
 
-Max ist [Fulbright-Stipendiat](http://fulbright.state.gov/) sowie Stipendiat der [Studienstiftung des Deutschen Volkes](http://www.studienstiftung.de) und war 2008/2009 Kollegiat am [Studienkolleg zu Berlin](http://www.studienkolleg-zu-berlin.de), einem europäischen Exzellenzprogramm.
+1. Ein zivilgesellschaftlicher Versuch in [deliberativer Demokratie](http://de.wikipedia.org/wiki/Deliberative_Demokratie)
+2. Ein Forschungsprojekt am [BIGSSS](http://www.bigsss-bremen.de)-Institut der [Universität Bremen](http://www.bigsss-bremen.de)
 
-Nach der Promotion strebt Max eine Tätigkeit in der Politik, Aktivismus oder Forschung an.
+---
 
-Neben seiner Passion für das Politische und Politik ist Max ein (versuchter) [IT-Unternehmer](http://www.collaboran.de/), gelegentlicher Geiger and (Karaoke-) Sänger, sporadischer [Blogger](http://www.maxheld.de/), erfolgreicher [Science Slam](http://www.scienceslam.de/)mer, möchtegern [Hacker](http://github.com/maxheld83/) und überzeugter Anhänger der [Deutschen SchülerAkademie](http://www.deutsche-schuelerakademie.de) in der Begabtenförderung der [Bildung & Begabung gGmbH](http://www.bildung-und-begabung.de/).
+## Versuch in deliberativer Demokratie
+
+Als zivilgesellschaftlicher Versuch sind **Civicon** mehrtägige Bürgerkonferenzen, auf denen Menschen wie Sie und ich komplexe Politik selber in die Hand nehmen.
+Sie wir ausgerichtet von [Max Held](http://www.maxheld.de), einem Doktoranden der Sozialwissenschaften an der Universität Bremen.
+Die erste Konferenz beginnt im Sommer 2014 mit dem Thema Steuern.
+
+Civicon folgt einem [*deliberativen* ](http://de.wikipedia.org/wiki/Deliberative_Demokratie) Ideal, nach dem wechselseitiges Verständnis und der Austausch von *Gründen* – nicht nur Abstimmungen – politischer Herrschaft Legitimät verleihen.
+
+Civicon lehnt sich in der Organisation an skandinavische und amerikanische [*Bürgerkonferenzen*](http://de.wikipedia.org/wiki/Bürgerkonferenz) an, die in den 1980er und 1990er Jahren als Instrument der partizipativen Technikfolgenabschätzung entstanden sind.
+Im Unterschied zu anderen Beteiligungsformaten stellt Civicon besonders die inhaltliche Komplexität von Themen heraus, und beeinhaltet auch längere Lernphasen.
+Das Vorbild unser Bürgerkonferenzen ist die (deutlich größere) kanadische [Bürgerversammlung zur Wahlrechtsreform](http://en.wikipedia.org/wiki/Citizens'_Assembly_on_Electoral_Reform_(British_Columbia)) in der Provinz British Columbia.
+
+<div markdown="0"><a class="btn btn-warning">Civicon hat kein  gesetzliches Mandat, und ist wirtschaftlich und politisch unabhängig.</a></div>
+
+---
+
+## Dissertations-Forschungsprojekt
+
+Civicon ist auch ein Forschungsprojekt zu deliberativen Demokratie.
+Die erste Civicon Bürgerkonferenz über Steuern ist die "Feldarbeit" der Promotion von [Maximilian Held](http://www.maxheld.de), einem Doktoranden an der [Bremen International Graduate School of Social Sciences (BIGSSS)](http://www.bigsss-bremen.de), einem Institut an der [Universität Bremen](http://www.uni-bremen.de) und der [Jacobs University](http://www.jacobs-university).
+
+<figure class="third">
+	<img src="/images/uni-bremen-caption.jpg">
+	<img src="/images/bigsss-caption.jpg">
+	<img src="/images/jacobs-university-caption.jpg">
+</figure>
+
+Die BIGSSS bietet für Civicon organisatorische Unterstützung und finanziert die erste Civicon Bürgerkonferenz über Steuern aus Forschungsmitteln der [Deutschen Forschungsgemeinschaft](http://www.dfg.de)
+
+Die Promotion von Maximilian Held wird betreut von:
+
+- [Olaf Groh-Samberg](http://ogs.bigsss-bremen.de/index.php?id=12), Uni Bremen
+- [Martin Nonhoff](http://www.iniis.uni-bremen.de/personen/martin-nonhoff/), Uni Bremen
+- [Claus Offe](http://www.hertie-school.org/offe/), Hertie School of Governance (Berlin)
+
+<div markdown="0"><a href="http://www.maxheld.de/schumpermas" class="btn btn-info">Mehr über die Forschung lesen.</a></div>
+
+<div markdown="0"><a href="/impressum/" class="btn btn-warning">Es gilt das Impressum.</a></div>
+Die im Rahmen der Civicon veröffentlichten Inhalte geben nicht notwendigerweise die Position der Universitäten oder Betreuer wieder.

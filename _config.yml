@@ -1,25 +1,25 @@
-title:            Civicon
-description:      Civicon are Citizen Conferences where people puzzle over policy, and argue to find civil (dis)agreement.
+title:            CiviCon
+description:      CiviCon are Citizen Conferences where people puzzle over policy, and argue to find civil (dis)agreement.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://www.civicon.de
 disqus_shortname:
 
 # Owner/author information
 owner:
   avatar: civicon-circle-600.jpg
   name:
-     en: Civicon Citizen Conferences
-     de: Civicon Bürgerkonferenzen
+     en: CiviCon Citizen Conferences
+     de: CiviCon Bürgerkonferenzen
   bio:
-     en: "An experiment in deliberative democracy and dissertation research project."
-     de: "Ein Experiment in deliberativer Demokratie und Forschungsprojekt."
+     en: "An experiment in deliberative democracy and dissertation research project at the University of Bremen."
+     de: "Ein Experiment in deliberativer Demokratie und Forschungsprojekt an der Universität Bremen."
   email:          "info@civicon.de"
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        civicon_de
-  facebook:       https://www.facebook.com/civicon.de
+  facebook:       civicon.de
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    107896630491453761581
-  github:         https://github.com/civicon
+  google_plus:
+  github:         civicon
   stackoverflow:
   linkedin:
   instagram:
@@ -36,38 +36,50 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+#images are always 1:1/5
+
 # Links to include in top navigation
 # For external links add external: true
 links:
  en:
-  - title: Home
+# - title: index #standard puzzle pic
+#   url: /en/
+  - title: About #blank puzzle pic
     url: /about/
-  - title: Blog
-    url: /blog/
-  - title: Research
-    url: /research/
-  - title: Diss
-    url: /schumpermas/
-    external: true
-  - title: Teaching
-    url: /teaching/
-  - title: Projects
-    url: /projects/
+#  - title: Blog
+#    url: /blog/
+  - title: Topic #pipes and valves
+    url: /topic/
+  - title: Conference
+    url: /conference/
+  - title: Participation # old and youn puzzler
+    url: /participation/
+  - title: Registration #signatures on puzzles
+    url: /registration/
+  - titel: FAQ
+    url: /faq/
+  - title: Contact #sprayed puzzle
+    url: /contact/
 
  de:
+#  - title: index
+#    url: /
   - title: "Über"
     url: /ueber/
-  - title: Artikel
-    url: /artikel/
-  - title: Forschung
-    url: /forschung/
-  - title: Diss
-    url: /schumpermas/
-    external: true
-  - title: Lehre
-    url: /lehre/
-  - title: Projekte
-    url: /projekte/
+#  - title: Artikel
+#    url: /artikel/
+  - title: Thema
+    url: /thema/
+  - title: Mitmachen
+    url: /mitmachen/
+  - title: Konferenz
+    url: /konferenz/
+  - title: Anmeldung
+    url: /anmeldung/
+  - title: Fragen/Antworten
+    url: /fragen-antworten/
+  - title: Kontakt
+    url: /kontakt/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin

@@ -1,12 +1,11 @@
 ---
 layout: home
-title: Latest Posts
-description: "Maximilian Held's personal website"
-tags: [maximilian held, bremen, germany, taxation, deliberative democracy]
+title: Was wäre wenn...
+description: "CiviCon Bürgerkonferenzen"
+tags: [civicon, bürgerbeteiligung, steuer, deliberation]
 lang: de
-categories:
-- blog
 trans:
+categories:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-a-lot_crop.jpg
   caption:
@@ -19,6 +18,23 @@ image:
   licencelink: https://creativecommons.org/licenses/by-nc-sa/2.0/
 ---
 
-kommt von cīvicus, lat. für die Stadt oder die Bürger betreffend und cōnferō, lat. für "
+- ... nicht mehr Volks*vertreter*, sondern Bürger_innen wie Sie und ich die **Steuerpolitik** in die *eigenen* Hände nähmen?
+- ... nicht mehr 1:20 Tagesschau reichen müssen, sondern wir die Gelegenheit hätten, den Dingen der Steuer **auf den Grund zu gehen**?
+- ... nicht mehr Macht, Stimmung und Interessen in dieser Politik zählten, sondern nur "der **zwanglose Zwang des besseren Arguments**"?
 
-"researches, teaches and advocates (progressive) tax reform and (deliberative) democracy."
+Probieren wir es gemeinsam aus: bei der ersten **CiviCon Bürgerkonferenz** über Steuern.
+
+<div markdown="0"><a href="/konferenz/" class="btn btn-info">11. bis 17. August 2014 in Syke (Niedersachsen)</a></div>
+
+Finden wir heraus, ob das klappen könnte:
+
+- Einigen wir uns auf eine **bessere** Steuerpolitik?
+- Und wenn nicht, wo sind wir dann **anderer Meinung**?
+- Und wenn ja, **wen interessiert das?**
+
+Machen Sie mit bei CiviCon.
+Damit jede Stimme zu Wort kommt.
+Damit das Puzzle unserer Politik eine neue Chance bekommt.
+Jede_r ist eingeladen.
+
+<div markdown="0"><a href="/anmeldung/" class="btn btn-success">Jetzt unverbindlich anmelden.</a></div>

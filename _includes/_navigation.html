@@ -2,14 +2,14 @@
 	<div class="site-name">
 		<a href="{{ site.url }}">{{ site.title }}</a>
 		{% if page.trans %}
-		     {% if page.lang != 'de'%}  <span class="active">en</span> |
-    		     {% if page.trans %}    <a href="{{page.trans}}">de</a>
-    		     {% else %}             <span class="inactive">de</span>
-    	         {% endif %}
-		     {% else %}
+		     {% if page.lang != 'en'%}  <span class="active">de</span> |
     		     {% if page.trans %}    <a href="{{page.trans}}">en</a>
     		     {% else %}             <span class="inactive">en</span>
-    		     {% endif %}          | <span class="active">de</span>
+    	         {% endif %}
+		     {% else %}
+    		     {% if page.trans %}    <a href="{{page.trans}}">de</a>
+    		     {% else %}             <span class="inactive">de</span>
+    		     {% endif %}          | <span class="active">en</span>
 		     {% endif %}
 		{% endif %}
 	</div><!-- /.site-name -->
@@ -21,5 +21,5 @@
 		        {% endfor %}
 		    </ul>
 		</nav>
-	</div><!-- /.top-navigation -->	
+	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->

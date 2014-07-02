@@ -23,14 +23,22 @@
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
-  alt="{{ page.title }} feature image">
+alt="{{ page.title }} feature image">
+<span class="image-credit">
+  {% if page.image.caption %}
+     <a href="{{ page.image.captionlink }}">{{ page.image.caption }}</a>
+  {% endif %}
+  {% if page.image.location %}
+     <a href="{{ page.image.locationlink }}">{{ page.image.location }}</a>
+  {% endif %}
   {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+     &copy <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
   {% endif %}
   {% if page.image.licence %}
-     <a href="{{ page.image.locationlink }}">{{ page.image.licence }}</a>
+     <a href="{{ page.image.licencelink }}">{{ page.image.licence }}</a>
   {% endif %}
-  </div><!-- /.image-wrap -->
+</span>
+</div><!-- /.image-wrap -->
 {% endif %}
 
 <div id="main" role="main">

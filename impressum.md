@@ -2,25 +2,23 @@
 layout: page
 title: Impressum
 lang: de
-trans: /terms/
-tagline: PhD student in Bremen, Germany
-tags: [about, deliberative democracy, taxation, PhD,]
-modified: 03-10-2014
+trans:
 image:
-  feature: http://lh4.googleusercontent.com/QTVE_J6J2Wmm3EzfKu681AfWt_KsnhibveQuXj_x7c5F=w884-h200-no
+  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-tattoo_crop.jpg
   caption:
   captionlink:
-  credit:
-  creditlink:
-  location: Denmark (2005)
+  credit: Terapia Dieciséis
+  creditlink: https://www.flickr.com/photos/terapiadieciseis/4019785025/in/faves-93207791@N02/
+  location:
   locationlink:
+  licence: CC BY-NC 2.0
+  licencelink: https://creativecommons.org/licenses/by-nc/2.0/
+  licencelogo:
 ---
 
-[http://www.maxheld.de](http://www.maxheld.de) ist Maximilian Held’s persönliche Website und Blog.
+[`http://www.civicon.de`](http://www.civicon.de) ist eine Website von Maximilian Held.
 
 Die hier veröffentlichten Inhalte enthalten persönliche Meinungen des Autors. Sie geben nicht die Positionen von Organisationen wieder, mit denen Maximilian Held affiliert ist.
-
-Die hier eingestellten Arbeiten sind unter Umständen nicht zitierfähig im Kontext wissenschaftlicher Arbeit.
 
 
 ## Haftungsausschluss & Impressum
@@ -32,12 +30,19 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die
 Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 > Maximilian Held
+>
 > E-Mail: info@maxheld.de
+>
 > Internet: http://www.maxheld.de
+>
 > Bremen International Graduate School of Social Sciences (BIGSSS)
+>
 > Universität Bremen
+>
 > Wiener Straße / Celsiusstraße
+>
 > 28359 Bremen
+>
 > Germany
 
 
@@ -75,6 +80,6 @@ Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage
 
 ## Zustimmung
 
-<div markdown="0"><a href="http://www.maxheld.de" class="btn">Nutzungsbedingungen Zustimmen</a></div>
+<div markdown="0"><a href="http://www.civicon.de" class="btn btn-success">Nutzungsbedingungen Zustimmen</a></div>
 
-<div markdown="0"><a href="http://www.google.com" class="btn">Nutzungsbedingungen Ablehnen</a></div>
+<div markdown="0"><a href="http://www.google.com" class="btn btn-danger">Nutzungsbedingungen Ablehnen</a></div>
