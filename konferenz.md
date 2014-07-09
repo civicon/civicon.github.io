@@ -32,12 +32,14 @@ Wir nutzen die großzügigen Seminar- und Aufenthaltsräume der Herberge.
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2406.371634700675!2d8.775694999999999!3d52.905737!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b0daa7ceaeaf03%3A0xf5dede03a13cc5be!2sLebens-+und+Arbeitsgemeinschaft+Westfl%C3%BCgel!5e0!3m2!1sen!2s!4v1404302539993" width="600" height="450" frameborder="0" style="border:0"></iframe>
 
 Die **Anreise** wird von den Mitwirkenden selbst organisiert.
-Reisekosten können leider nicht erstattet werden.
+Reisekosten können leider über die Aufwandsentschädigung hinaus nicht erstattet werden.
 Der Tagungsort ist gut vom Bahnhof Syke zu erreichen.
 Vom Bahnhof werden Mitwirkende mit dem Taxi abgeholt.
 
+<div markdown="0"><a href="" class="btn btn-success">Jede_r Mitwirkende erhält EUR 50,00 Aufwandsentschädigung.</a></div>
 
-## Vorbereitungstreffen
+
+<!-- ## Vorbereitungstreffen
 
 Etwa *zwei Wochen vor Konferenzbeginn* findet in Bremen ein abendliches Vorbereitungstreffen statt.
 Hier lernen wir einander kennen, besprechen den Ablauf und sammeln Fragen und Ideen für die Konferenz.
@@ -47,7 +49,7 @@ Außerdem nehmen die Mitwirkenden an einer ersten Umfrage teil.
 <div markdown="0"><a href="" class="btn btn-warning">Die Teilnahme am Vorbereitungstreffen ist zwingend erforderlich.</a></div>
 
 Der genaue Termin wird noch - in Absprache mit den Mitwirkenden - bekannt gegeben.
-Für das leibliche Wohl ist gesorgt.
+Für das leibliche Wohl ist gesorgt. -->
 
 
 ## Ablauf

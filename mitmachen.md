@@ -39,8 +39,9 @@ Jede_r ist herzlich eingeladen.
 <div markdown="0"><a href="" class="btn btn-info">CiviCon ist bürgerschaftliches Engagement.</a></div>
 CiviCon ist *keine* Fortbildung oder Seminar; Sie nehmen nicht teil - sie *machen mit*.
 
-<div markdown="0"><a href="" class="btn btn-warning">CiviCon kann keine Aufwandsentschädigung zahlen.</a></div>
-Leider reichen die Forschungsmittel nicht aus, um Verdienstausfälle zu erstatten.
+<div markdown="0"><a href="" class="btn btn-success">Jede_r Mitwirkende erhält EUR 50,00 Aufwandsentschädigung.</a></div>
+
+Leider reichen die Forschungsmittel nicht aus, um darüber hianus Verdienstausfälle oder Reisekosten zu erstatten.
 
 
 ## Was CiviCon von Ihnen erwartet

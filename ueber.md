@@ -28,32 +28,38 @@ image:
 
 ## Versuch in deliberativer Demokratie
 
-Als zivilgesellschaftlicher Versuch sind **Civicon** mehrtägige Bürgerkonferenzen, auf denen Menschen wie Sie und ich komplexe Politik selber in die Hand nehmen.
+Als zivilgesellschaftlicher Versuch sind **CiviCon** mehrtägige Bürgerkonferenzen, auf denen Menschen wie Sie und ich komplexe Politik selber in die Hand nehmen.
 Sie wird ausgerichtet von [Max Held](http://www.maxheld.de), einem Doktoranden der Sozialwissenschaften an der Universität Bremen.
 Die erste Konferenz beginnt im Sommer 2014 mit dem Thema Steuern.
 
-Civicon folgt einem [*deliberativen* ](http://de.wikipedia.org/wiki/Deliberative_Demokratie) Ideal, nach dem wechselseitiges Verständnis und der Austausch von *Gründen* – nicht nur Abstimmungen – politischer Herrschaft Legitimät verleihen.
+CiviCon folgt einem [*deliberativen* ](http://de.wikipedia.org/wiki/Deliberative_Demokratie) Ideal, nach dem wechselseitiges Verständnis und der Austausch von *Gründen* – nicht nur Abstimmungen – politischer Herrschaft Legitimät verleihen.
 
-Civicon lehnt sich in der Organisation an skandinavische und amerikanische [*Bürgerkonferenzen*](http://de.wikipedia.org/wiki/Bürgerkonferenz) an, die in den 1980er und 1990er Jahren als Instrument der partizipativen Technikfolgenabschätzung entstanden sind.
-Im Unterschied zu anderen Beteiligungsformaten stellt Civicon besonders die inhaltliche Komplexität von Themen heraus und beeinhaltet auch längere Lernphasen.
+CiviCon lehnt sich in der Organisation an skandinavische und amerikanische [*Bürgerkonferenzen*](http://de.wikipedia.org/wiki/Bürgerkonferenz) an, die in den 1980er und 1990er Jahren als Instrument der partizipativen Technikfolgenabschätzung entstanden sind.
+Im Unterschied zu anderen Beteiligungsformaten stellt CiviCon besonders die inhaltliche Komplexität von Themen heraus und beeinhaltet auch längere Lernphasen.
 Das Vorbild unserer Bürgerkonferenzen ist die (deutlich größere) kanadische [Bürgerversammlung zur Wahlrechtsreform](http://en.wikipedia.org/wiki/Citizens'_Assembly_on_Electoral_Reform_(British_Columbia)) in der Provinz British Columbia.
 
-<div markdown="0"><a class="btn btn-warning">Civicon hat kein  gesetzliches Mandat und ist wirtschaftlich und politisch unabhängig.</a></div>
+<div markdown="0"><a class="btn btn-warning">CiviCon hat kein  gesetzliches Mandat und ist wirtschaftlich und politisch unabhängig.</a></div>
 
 ---
 
 ## Dissertations-Forschungsprojekt
 
-Civicon ist auch ein Forschungsprojekt zur deliberativen Demokratie.
-Die erste Civicon Bürgerkonferenz über Steuern ist die Feldarbeit der Promotion von [Maximilian Held](http://www.maxheld.de), einem Doktoranden an der [Bremen International Graduate School of Social Sciences (BIGSSS)](http://www.bigsss-bremen.de), einem Institut an der [Universität Bremen](http://www.uni-bremen.de) und der [Jacobs University](http://www.jacobs-university).
+CiviCon ist auch ein Forschungsprojekt zur deliberativen Demokratie.
+Die erste CiviCon Bürgerkonferenz über Steuern ist die Feldarbeit der Promotion von [Maximilian Held](http://www.maxheld.de), einem Doktoranden an der [Bremen International Graduate School of Social Sciences (BIGSSS)](http://www.bigsss-bremen.de), einem Institut an der [Universität Bremen](http://www.uni-bremen.de) und der [Jacobs University](http://www.jacobs-university).
 
 <figure class="third">
 	<img src="/images/uni-bremen-caption.jpg">
-	<img src="/images/bigsss-caption.jpg">
-	<img src="/images/jacobs-university-caption.jpg">
 </figure>
 
-Die BIGSSS bietet für Civicon organisatorische Unterstützung und finanziert die erste Civicon Bürgerkonferenz über Steuern aus Forschungsmitteln der [Deutschen Forschungsgemeinschaft](http://www.dfg.de).
+<figure class="third">
+  <img src="/images/bigsss-caption.jpg">
+</figure>
+
+<figure class="third">
+  <img src="/images/jacobs-university-caption.jpg">
+</figure>
+
+Die BIGSSS bietet für CiviCon organisatorische Unterstützung und finanziert die erste CiviCon Bürgerkonferenz über Steuern aus Forschungsmitteln der [Deutschen Forschungsgemeinschaft](http://www.dfg.de).
 
 Die Promotion von Maximilian Held wird betreut von:
 
@@ -64,4 +70,4 @@ Die Promotion von Maximilian Held wird betreut von:
 <div markdown="0"><a href="http://www.maxheld.de/schumpermas" class="btn btn-info">Mehr über die Forschung lesen.</a></div>
 
 <div markdown="0"><a href="/impressum/" class="btn btn-warning">Es gilt das Impressum.</a></div>
-Die im Rahmen der Civicon veröffentlichten Inhalte geben nicht notwendigerweise die Position der Universitäten oder Betreuer wieder.
+Die im Rahmen der CiviCon veröffentlichten Inhalte geben nicht notwendigerweise die Position der Universitäten oder Betreuer wieder.

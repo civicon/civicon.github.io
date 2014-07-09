@@ -86,7 +86,9 @@ Zwar werden Sie vielleicht eine Menge bei der CiviCon Bürgerkonferenz lernen, a
 
 > Gibt es eine Aufwandsentschädigung oder Ähnliches?
 
-Nein.
+Ja; jede_r Mitwirkende der CiviCon erhält EUR 50,00 Aufwandsentschädigung.
+Etwaige Reisekosten sind darin bereits enthalten
+
 Idealerweise sollte CiviCon die für die Konferenz ausgefallenen Verdienste den Mitwirkenden erstatten können, damit wirklich *jede_r* teilnehmen kann.
 Dafür fehlen die Mittel.
 

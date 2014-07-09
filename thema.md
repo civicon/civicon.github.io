@@ -21,9 +21,10 @@ image:
 >
 > -- Joseph Schumpeter (1918)
 
-Steuern, das sind endlose Formulare, Ärger mit dem Finanzamt und der Traum von einem Bierdeckel.
-Steuern, das ist ein riesiges Regelwerk, eine versteckte Infrastruktur unserer Gesellschaft.
-Und dabei geht es um etwas: Am Ende dieser Strukturen stehen Lebenschancen:
+Steuern sind endlose Formulare, Ärger mit dem Finanzamt und der Traum von einem Bierdeckel.
+Steuern sind ein riesiges Regelwerk, eine versteckte Infrastruktur unserer Gesellschaft.
+Dabei geht es um etwas.
+Am Ende dieser Strukturen stehen Lebenschancen:
 
 - Vielleicht geht es um die Möglichkeiten für eine Ingenieurin, eine neue Technologie zu entwickeln und zu verkaufen.
 - Vielleicht geht es um die Qualität der Schuldbildung, die ein kleiner Junge aus einem schlechten Elternhaus in einem armen Stadtteil erhält.
