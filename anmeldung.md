@@ -31,7 +31,7 @@ Ihre Daten werden sicher gespeichert und nur anonymisiert und für wissenschaftl
 Eine Auswahl nach Qualifikation (o.ä.) *findet nicht statt*.
 Jede_r ist eingeladen.
 
-<div markdown="0"><a href="/kontakt/" class="btn btn-success">Alternativ per Post oder Telefon anmelden.</a></div>
+<div markdown="0"><a href="https://dl.dropboxusercontent.com/u/5341489/images/civicon-handout.pdf" class="btn btn-success">Alternativ per Post oder Telefon anmelden.</a></div>
 Wenn Sie Ihre Daten hier nicht eintragen möchten, können Sie sich auch per E-Mail, Post oder Telefon anmelden.
 
 ---
