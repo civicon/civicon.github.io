@@ -108,6 +108,42 @@ Mit CiviCon probieren die Mitwirkenden etwas ziemlich Außergewöhnliches; sie n
 Es bleibt zu hoffen, dass alleine dieser Akt des bürgerschaftlichen Engagements und die Stärke des besseren Arguments unserer Diskussionen auf offene Ohren trifft.
 
 
+### Repräsentation & Stichprobe
+
+> Beansprucht die CiviCon repräsentativ zu sein?
+
+Nein.
+Die Stichprobe der mitwirkenden Bürger_innen keine Zufallsstichprobe, sondern *selbstselektiert*: Jede_r ist eingeladen sich anzumelden, aber niemand muss mitmachen.
+Außerdem ist die Stichprobe mit 15 Teilnehmer_innen extrem klein.
+Allein schon aus diesen Gründen kann die CiviCon Bürgerkonferenz *nicht* beanspruchen, für eine größere Gruppe von Bürger_innen zu sprechen.
+
+Zudem wird die Teilnahme an der Bürgerkonferenz (mangels etwa Kinderbetreuung oder Verdienstausfall) *tatsächlich* nicht allen Bürger_innen tatsächlich möglich, und die Veranstaltung wurde nur über ausgewählte Kanäle (Zeitung, Internet, Bekanntenkreis des Ausrichters) beworben.
+Deshalb ist zusätzlich von einer *systematischen* Abweichung der Stichprobe gegenüber der Bevölkerung auszugehen: Eltern oder Berufstätige sind etwa wahrscheinlich weniger vertreten.
+
+Damit verletzt die CiviCon Bürgerkonferenz einen (deliberativen) Standard zur maximal *inklusiven* Bürgerbeteiligung.
+Idealerweise sollten mitwirkende Bürger_innen mindestens Kinderbetreuung und (etwaigen) Verdienstausfall erhalten.
+Zudem sollte eine Bürgerkonferenz mit deutlich mehr Bürger_innen (oder mehrfach), und über einen längeren Zeitraum stattfinden.
+
+Die dafür notwendigen, erheblichen finanziellen Mittel stehen leider nicht zur Verfügung.
+
+Außerdem und andererseits will CiviCon aber (möglichst) klein anfangen: Dieses (utopische) Experiment einer Bürgerkonferenz über Steuern muss sich erst bewähren, und entwickeln bevor es größere Aufmerksamkeit und Ressourcen verdient.
+
+<div markdown="0"><a href="" class="btn btn-warning">Die CiviCon Bürgerkonferenz spricht nur für die mitwirkenden Bürger_innen – und niemanden sonst.</a></div>
+
+Die die CiviCon Bürgerkonferenz begleitende [Forschung](http://www.maxheld.de/schumpermas) berücksichtigt diese Einschränkungen.
+Die Dissertation von [Maximilian Held](http://www.maxheld.de) untersucht vor allem mögliche *Strukturveränderungen* der subjektiven Einstellungen der mitwirkenden Bürger_innen zu Steuern.
+Diese subjektiven Einstellungen sind weder richtig, noch falsch, noch stellvertretend für eine größere Gruppe.
+
+
+### Unterbringung & Übernachtung
+
+> Muss jede_r Mitwirkende_r in der Herberge (in Mehrbettzimmern mit Gemeinschaftsduschen) übernachten?
+
+Nein.
+Wer eine tägliche An- und Abreise zum Tagungsort gewährleisten kann, kann natürlich auch privat übernachten.
+Leider können weitere Reisekosten nicht erstattet werden.
+
+
 ### Vorwissen
 
 > Muss ich Vorwissen über Steuern oder Politik haben?
