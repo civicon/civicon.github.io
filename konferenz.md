@@ -25,6 +25,7 @@ Die erste **CiviCon Bürgerkonferenz** über Steuern findet im Sommer 2014 in Sy
 
 Wir sind zu Gast in der **Herberge** der [Lebens- und Arbeitsgemeinschaft Westflügel](http://www.westfluegel-syke.de), gelegen am Waldrand westlich von Syke.
 Mitwirkende der CiviCon sind in Mehrbettzimmern untergebracht.
+Wer mag kann natürlich auch privat übernachten und täglich zum Tagungsort an- und abreisen.
 Wir nutzen die großzügigen Seminar- und Aufenthaltsräume der Herberge.
 
 <div markdown="0"><a href="" class="btn btn-info">Westflügel, Nordwohlder Straße 59, 28857 Syke</a></div>

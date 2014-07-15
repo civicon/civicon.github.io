@@ -35,18 +35,19 @@ Jede_r ist herzlich eingeladen.
 - Unbedingtes Interesse, **Ihre Stimme** zu hören und zu verstehen.
 - Freundliche Atmosphäre und Platz für Informelles und Geselliges.
 - Freie Verpflegung und Unterkunft in Mehrbettzimmern für die Dauer der Konferenz (keine Erstattung der Reisekosten).
+   Wer mag kann natürlich privat übernachten und täglich zum Konferenzort anreisen.
 
 <div markdown="0"><a href="" class="btn btn-info">CiviCon ist bürgerschaftliches Engagement.</a></div>
 CiviCon ist *keine* Fortbildung oder Seminar; Sie nehmen nicht teil - sie *machen mit*.
 
 <div markdown="0"><a href="" class="btn btn-success">Jede_r Mitwirkende erhält EUR 50,00 Aufwandsentschädigung.</a></div>
 
-Leider reichen die Forschungsmittel nicht aus, um darüber hianus Verdienstausfälle oder Reisekosten zu erstatten.
+Leider reichen die Forschungsmittel nicht aus, um darüber hinaus Verdienstausfälle oder Reisekosten zu erstatten.
 
 
 ## Was CiviCon von Ihnen erwartet
 
-- Durchgängige **Anwesenheit** (mit Übernachtungen) am Konferenzort während der CiviCon.
+- Durchgängige **Anwesenheit** am Konferenzort während der CiviCon.
 - Kurze **Vorbereitung** anhand einer Informationsbroschüre (etwa ein halber Tag) und Teilnahme an einem Vorbereitungstreffen (ein Abend).
 - Ihre Bereitschaft, sich während der Konferenz aufnehmen zu lassen (Bild und Ton) sowie vor und nach der Konferenz an einer Umfrage teilzunehmen (etwa zwei Stunden). **Ihre Daten** werden sicher gespeichert und nur anonymisiert für wissenschaftliche Zwecke verwendet.
 - Die Bereitschaft, auf einer **Pressekonferenz** zum Abschluss der Öffentlichkeit über die Arbeit zu berichten.
