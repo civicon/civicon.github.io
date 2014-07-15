@@ -41,6 +41,23 @@ image:
 Ja; Sie müssen zu Beginn der Konferenz volljährig sein.
 
 
+### Beeinflussung und Gruppendynamik
+
+> Werden die mitwirkenden Bürger_innen nicht durch Experten, Ausrichter und Gruppendynamik beeinflusst?
+
+Hoffentlich nicht, nein – oder jedenfalls nur durch den "**zwanglosen** Zwang des besseren Arguments".
+
+Die erste CiviCon Bürgerkonferenz über Steuern ist erfolgreich, wenn Bürger_innen wie Sie und ich *Argumente* untereinander und mit Expert_innen ausgestausch haben; wenn wir einander *verstehen*.
+
+Das bedeutet *nicht*, dass sich die mitwirkenden Bürger_innen notwendigerweise untereinander, oder mit den Expert_innen einig werden.
+
+Aufgabe und Forschungsinteresse des Ausrichters [Maximilian Held](http://www.maxheld.de) ist es, das **Wichtigste und Strittigste** an Steuern für Bürger_innen zur Diskussion zu stellen.
+
+Über Offenheit, Gleichberechtigung und Respekt in der Diskussion wachen auch zwei unabhängige Moderator_innen, die nichts mit dem Thema Steuer oder dieser Forschung zu Bürgerbeteiligung zu tun haben.
+
+Schließlich entscheiden die teilnehmenden Bürger_innen mit, unter welchen Umständen und zu welchem Ziel Sie über Steuer diskutieren.
+
+
 ### Datenschutz
 
 > Welche Daten werden von mir aufgenommen, und was passiert damit?
