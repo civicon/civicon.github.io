@@ -24,7 +24,7 @@ Die mitwirkenden Bürger_innen berichten auf einer abschließenden Ergebnispräs
 
 <div markdown="0">
   <a href="" class="btn btn-info">15. August 2014 11:30</a>
-  <a href="" class="btn btn-info">Westflügel, Nordwohlder Straße 59, 28857 Syke</a>
+  <a href="" class="btn btn-info">Herberge Westflügel, Nordwohlder Straße 59, 28857 Syke</a>
 </div>+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2406.371634700675!2d8.775694999999999!3d52.905737!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b0daa7ceaeaf03%3A0xf5dede03a13cc5be!2sLebens-+und+Arbeitsgemeinschaft+Westfl%C3%BCgel!5e0!3m2!1sen!2s!4v1404302539993" width="600" height="450" frameborder="0" style="border:0"></iframe>
