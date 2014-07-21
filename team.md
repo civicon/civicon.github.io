@@ -24,6 +24,9 @@ image:
   <img src="https://dl.dropboxusercontent.com/u/5341489/images/Held_crop.jpg">
 </figure>
 
+<img src="https://dl.dropboxusercontent.com/u/5341489/images/Held_crop.jpg" class="bio-photo" alt="Maximilian Held"></a>
+
+
 **Maximilian Held** promoviert in Sozialwissenschaft an der [Bremen International Graduate School of Social Sciences](http://www.bigsss-bremen.de/).
 Er forscht dort über den Zusammenhang zwischen (progressiver) Steuer und (deliberativer) Demokratie – und über die CiviCon.
 Er studierte [Sozialwissenschaften](http://www.jacobs-university.de/iss/), [Demografie](http://www.demography.uci.edu/ma_program.html) und [Politik ](http://www.hertie-school.org/home.php?nav_id=1980).
