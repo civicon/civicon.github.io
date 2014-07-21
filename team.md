@@ -55,7 +55,8 @@ Die Verbindung der Stärken dieser beiden Welten liegt ihr sehr am Herzen, wesha
 Was er auf seinen Reisen lernt, teilt er als Methoden oder Geschichten mit seinen Mitmenschen in seinen Coachings, Trainings und Vorträgen.
 Giovanni ist Life und Leadership Coach, Moderator und begleitet Organisationen und Unternehmen bei der Veränderung der eigenen Kultur.
 Im Zentrum seines Handels steht die Wertschätzung des Menschen und des Potentials, dass jede/r in sich trägt.
-Dieses Potential zugänglich zu machen ist sein Wunsch und seine Mission
+Dieses Potential zugänglich zu machen ist sein Wunsch und seine Mission.
+Giovanni ist Mitgründer von [Expanding Circles](http://www.expanding-circles.org), einer internationalen Bewegung, die philosophische Zirkel mit neuen Methoden wieder aufleben lässt und mit spannenden Fragen füllt.
 
 <figure class="third">
   <img src="https://dl.dropboxusercontent.com/u/5341489/images/Jaerisch.jpg">
