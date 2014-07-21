@@ -1,7 +1,7 @@
 title:            CiviCon
 description:      CiviCon are Citizen Conferences where people puzzle over policy, and argue to find civil (dis)agreement.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:               http://www.civicon.de
+url:              http://www.civicon.de
 disqus_shortname:
 
 # Owner/author information
