@@ -16,7 +16,6 @@ image:
   licence: CC BY-NC-ND 2.0
   licencelink: https://creativecommons.org/licenses/by-nc-nd/2.0/
   licencelogo:
-
 ---
 
 <div markdown="0"><a href="" class="btn btn">Nach Ende der Konferenz finden Sie hier die Ergebnisse.</a></div>
