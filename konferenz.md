@@ -74,4 +74,6 @@ Den Abschluss der Konferenz bildet eine **Pressekonferenz**, bei der die Mitwirk
 
 ## Vorläufiger Kalender
 
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=th0vdc8n2321nej334l8rhnfqg%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FBerlin&dates=20140810%2F20140816" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div markdown="0"><a href="" class="btn btn-danger">Die Tagesplanung unterliegt noch Veränderungen.</a></div>
+
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=th0vdc8n2321nej334l8rhnfqg%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FBerlin&dates=20140810%2F20140816" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
