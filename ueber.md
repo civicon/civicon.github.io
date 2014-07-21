@@ -29,7 +29,7 @@ image:
 ## Versuch in deliberativer Demokratie
 
 Als zivilgesellschaftlicher Versuch sind **CiviCon** mehrtägige Bürgerkonferenzen, auf denen Menschen wie Sie und ich komplexe Politik selber in die Hand nehmen.
-Sie wird ausgerichtet von [Max Held](http://www.maxheld.de), einem Doktoranden der Sozialwissenschaften an der Universität Bremen.
+Sie wird ausgerichtet von [Maximilian Held](http://www.maxheld.de), einem Doktoranden der Sozialwissenschaften an der Universität Bremen.
 Die erste Konferenz beginnt im Sommer 2014 mit dem Thema Steuern.
 
 CiviCon folgt einem [*deliberativen* ](http://de.wikipedia.org/wiki/Deliberative_Demokratie) Ideal, nach dem wechselseitiges Verständnis und der Austausch von *Gründen* – nicht nur Abstimmungen – politischer Herrschaft Legitimät verleihen.
