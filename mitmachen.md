@@ -51,7 +51,7 @@ Leider reichen die Forschungsmittel nicht aus, um darüber hinaus Verdienstausf�
 ## Was CiviCon von Ihnen erwartet
 
 - Durchgängige **Anwesenheit** am Konferenzort während der CiviCon.
-- Kurze **Vorbereitung** anhand einer Informationsbroschüre (etwa ein halber Tag) und Teilnahme an einem Vorbereitungstreffen (ein Abend).
+- Kurze **Vorbereitung** anhand einer Informationsbroschüre.
 - Ihre Bereitschaft, sich während der Konferenz aufnehmen zu lassen (Bild und Ton) sowie vor und nach der Konferenz an einer Umfrage teilzunehmen (etwa zwei Stunden). **Ihre Daten** werden sicher gespeichert und nur anonymisiert für wissenschaftliche Zwecke verwendet.
 - Die Bereitschaft, auf einer **Pressekonferenz** zum Abschluss der Öffentlichkeit über die Arbeit zu berichten.
 
