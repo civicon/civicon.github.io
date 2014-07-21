@@ -24,7 +24,7 @@ image:
 
 Probieren wir es gemeinsam aus: bei der ersten **CiviCon Bürgerkonferenz** über Steuern.
 
-<div markdown="0"><a href="/konferenz/" class="btn btn-info">11. bis 17. August 2014 in Syke (bei Bremen)</a></div>
+<div markdown="0"><a href="/konferenz/" class="btn btn-info">11. bis 16. August 2014 in Syke (bei Bremen)</a></div>
 
 Finden wir heraus, ob das klappen könnte:
 

@@ -37,6 +37,8 @@ Reisekosten können leider über die Aufwandsentschädigung hinaus nicht erstatt
 Der Tagungsort ist gut vom Bahnhof Syke zu erreichen.
 Vom Bahnhof werden Mitwirkende mit dem Taxi abgeholt.
 
+Die Konferenz beginnt am Morgen des 11. August 2014; von Auswärts anreisende Bürger_innen können bereits vom 10. auf den 11. August im Tagungsort übernachten.
+
 <div markdown="0"><a href="" class="btn btn-success">Jede_r Mitwirkende erhält EUR 50,00 Aufwandsentschädigung.</a></div>
 
 
@@ -72,4 +74,4 @@ Den Abschluss der Konferenz bildet eine **Pressekonferenz**, bei der die Mitwirk
 
 ## Vorläufiger Kalender
 
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=th0vdc8n2321nej334l8rhnfqg%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FBerlin&dates=20140811%2F20140817" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=th0vdc8n2321nej334l8rhnfqg%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FBerlin&dates=20140810%2F20140816" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>

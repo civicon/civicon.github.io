@@ -75,8 +75,6 @@ Leider müssen wir Ihnen in diesem Fall die bei der Herberge verursachten Kosten
 
 <div markdown="0"><a href="" class="btn btn-info">Ein Merkzettel und eine Einwilligungserklärung werden noch erarbeitet.</a></div>
 
-Beim Vorbereitungstreffen haben wir Gelegenheit etwaige Bedenken und Widersprüche in Ruhe zu besprechen.
-
 
 ### Finanzierung
 
@@ -88,7 +86,7 @@ Die [BIGSSS](http://www.bigsss-bremen.de) wird zu großen Teilen von der [Deutsc
 Kurz: Die CiviCon Bürgerkonferenz *über* Steuern wird aus **Steuergeldern** bezahlt.
 
 Wir sind deshalb zu großer Sparsamkeit angehalten.
-Das gesamte Budget beläuft sich gegenwärtigen Planungen nach auf etwa EUR 7.500.
+Das gesamte Budget beläuft sich gegenwärtigen Planungen nach auf etwa EUR 8000.
 
 
 ### Fortbildung
@@ -96,7 +94,7 @@ Das gesamte Budget beläuft sich gegenwärtigen Planungen nach auf etwa EUR 7.50
 > Ist CiviCon eine Fortbildung und kann ich mir das irgendwie anrechnen lassen?
 
 Nein.
-Zwar werden Sie vielleicht eine Menge bei der CiviCon Bürgerkonferenz lernen, aber wir sind kein zertifizierter oder sonstwie berufener Bildungsanbieter.
+Zwar werden Sie vielleicht eine Menge bei der CiviCon Bürgerkonferenz lernen, aber wir sind kein zertifizierter Bildungsanbieter.
 
 
 ### Geld
@@ -130,11 +128,11 @@ Es bleibt zu hoffen, dass alleine dieser Akt des bürgerschaftlichen Engagements
 > Beansprucht die CiviCon repräsentativ zu sein?
 
 Nein.
-Die Stichprobe der mitwirkenden Bürger_innen keine Zufallsstichprobe, sondern *selbstselektiert*: Jede_r ist eingeladen sich anzumelden, aber niemand muss mitmachen.
+Die Stichprobe der mitwirkenden Bürger_innen ist keine Zufallsstichprobe, sondern *selbstselektiert*: Jede_r ist eingeladen sich anzumelden, aber niemand muss mitmachen.
 Außerdem ist die Stichprobe mit 15 Teilnehmer_innen extrem klein.
 Allein schon aus diesen Gründen kann die CiviCon Bürgerkonferenz *nicht* beanspruchen, für eine größere Gruppe von Bürger_innen zu sprechen.
 
-Zudem wird die Teilnahme an der Bürgerkonferenz (mangels etwa Kinderbetreuung oder Verdienstausfall) *tatsächlich* nicht allen Bürger_innen tatsächlich möglich, und die Veranstaltung wurde nur über ausgewählte Kanäle (Zeitung, Internet, Bekanntenkreis des Ausrichters) beworben.
+Zudem wird die Teilnahme an der Bürgerkonferenz (mangels etwa Kinderbetreuung oder Verdienstausfall) *tatsächlich* nicht allen Bürger_innen ermöglicht, und die Veranstaltung wurde nur über ausgewählte Kanäle (Zeitung, Internet, Bekanntenkreis des Ausrichters) beworben.
 Deshalb ist zusätzlich von einer *systematischen* Abweichung der Stichprobe gegenüber der Bevölkerung auszugehen: Eltern oder Berufstätige sind etwa wahrscheinlich weniger vertreten.
 
 Damit verletzt die CiviCon Bürgerkonferenz einen (deliberativen) Standard zur maximal *inklusiven* Bürgerbeteiligung.
@@ -149,7 +147,7 @@ Außerdem und andererseits will CiviCon aber (möglichst) klein anfangen: Dieses
 
 Die die CiviCon Bürgerkonferenz begleitende [Forschung](http://www.maxheld.de/schumpermas) berücksichtigt diese Einschränkungen.
 Die Dissertation von [Maximilian Held](http://www.maxheld.de) untersucht vor allem mögliche *Strukturveränderungen* der subjektiven Einstellungen der mitwirkenden Bürger_innen zu Steuern.
-Diese subjektiven Einstellungen sind weder richtig, noch falsch, noch stellvertretend für eine größere Gruppe.
+Diese subjektiven Einstellungen sind weder richtig, noch falsch, noch stellvertretend für eine größere Gruppe – sind sind eben *subjektiv*.
 
 
 ### Unterbringung & Übernachtung
@@ -157,8 +155,12 @@ Diese subjektiven Einstellungen sind weder richtig, noch falsch, noch stellvertr
 > Muss jede_r Mitwirkende_r in der Herberge (in Mehrbettzimmern mit Gemeinschaftsduschen) übernachten?
 
 Nein.
-Wer eine tägliche An- und Abreise zum Tagungsort gewährleisten kann, kann natürlich auch privat übernachten.
-Leider können weitere Reisekosten nicht erstattet werden.
+Wer eine tägliche An- und Abreise zum Tagungsort gewährleisten kann, kann auch privat übernachten.
+
+Allerdings erstreckt sich das Programm teilweise bis in die Abendstunden, und viele wichtige Gespräche finden erfahrungsgemäß im informellen Rahmen außerhalb des Tagesplans statt.
+Eine Unterkunft vor Ort ist deshalb jedem angeraten.
+
+Weitere Reisekosten können leider nicht erstattet werden.
 
 
 ### Vorwissen
