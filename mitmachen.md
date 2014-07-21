@@ -2,6 +2,7 @@
 layout: page
 title: Wie kann ich mitmachen?
 category: blog
+permalink: /mitmachen/
 lang: de
 trans:
 image:
@@ -16,6 +17,7 @@ image:
   licencelink: https://creativecommons.org/licenses/by/2.0/
   licencelogo:
 ---
+
 > "Zweifeln Sie niemals daran, daß eine kleine Gruppe ernsthafter und engagierter Menschen die Welt verändern kann.
 > Tatsächlich sind sie die einzigen, die dies vermögen."
 >
