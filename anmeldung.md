@@ -19,14 +19,14 @@ image:
 Die **Anmeldung** zur Ersten **CiviCon Bürgerkonferenz über Steuern** verläuft in drei Schritten:
 
 1. **Voranmeldung**: Wenn Sie Interesse an der Teilnahme haben, melden Sie sich unverbindlich an.
-2. **Stichprobe**: CiviCon stellt eine Stichprobe zusammeneiner bunt gemischten Gruppe und verbindliche **Zusage** *per Post*
+2. **Stichprobe**: CiviCon stellt eine Stichprobe zusammeneiner bunt gemischten Gruppe und schickt Ihnen dann eine verbindliche **Zusage** *per Post*.
 
-<div markdown="0"><a href="//" class="btn btn-info">Ihre Daten dienen der Auswahl und Analyse.</a></div>
+<div markdown="0"><a href="" class="btn btn-info">Ihre Daten dienen der Auswahl und Analyse.</a></div>
 Damit auf der CiviCon viele verschiedene Stimmen vertreten sind brauchen wir eine gut gemischte Gruppe (etwa nach Alter, Einkommen und Bildung).
 Zu diesem Zweck und zur späteren wissenschaftlichen Analyse bitten wir Sie unten stehend auch um sozioökonomische Daten.
 Ihre Daten werden sicher gespeichert und nur anonymisiert und für wissenschaftliche Zwecke verwendet.
 
-<div markdown="0"><a href="//" class="btn btn-info">Das Los entscheidet.</a></div>
+<div markdown="0"><a href="" class="btn btn-info">Das Los entscheidet.</a></div>
 *Sollten* sich mehr Bürger_innen anmelden als Plätze zur Verfügung stehen, ziehen wir eine zufällige Stichprobe, gewichtet nach sozio-ökonomischer Zusammensetzung.
 Eine Auswahl nach Qualifikation (o.ä.) *findet nicht statt*.
 Jede_r ist eingeladen.
