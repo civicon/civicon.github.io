@@ -16,14 +16,15 @@ image:
   licencelink: https://creativecommons.org/licenses/by/2.0/
   licencelogo:
 ---
-
-Die erste **CiviCon Bürgerkonferenz über Steuern** bietet **15 Plätze** für Bürger_innen wie Sie und ich.
-Jede_r ist herzlich eingeladen.
-
 > "Zweifeln Sie niemals daran, daß eine kleine Gruppe ernsthafter und engagierter Menschen die Welt verändern kann.
 > Tatsächlich sind sie die einzigen, die dies vermögen."
 >
 > -- Margaret Mead
+
+
+Die erste **CiviCon Bürgerkonferenz über Steuern** bietet **15 Plätze** für Bürger_innen wie Sie und ich.
+Jede_r ist herzlich eingeladen.
+
 
 <div markdown="0"><a href="/anmeldung/" class="btn btn-success">Jetzt unverbindlich anmelden.</a></div>
 

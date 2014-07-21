@@ -27,7 +27,7 @@ Dabei geht es um etwas.
 Am Ende dieser Strukturen stehen Lebenschancen:
 
 - Vielleicht geht es um die Möglichkeiten für eine Ingenieurin, eine neue Technologie zu entwickeln und zu verkaufen.
-- Vielleicht geht es um die Qualität der Schuldbildung, die ein kleiner Junge aus einem schlechten Elternhaus in einem armen Stadtteil erhält.
+- Vielleicht geht es um die Qualität der Schulbildung, die ein kleiner Junge aus einem schlechten Elternhaus in einem armen Stadtteil erhält.
 - Vielleicht geht es um die Millionen, die in Yachten und Kreuzfahrtschiffe verbaut werden.
 
 Steuern sind nicht trocken, technokratisch oder langweilig.
@@ -42,6 +42,6 @@ Da steckt alles drin:
 
 <div markdown="0"><a class="btn btn-danger">Überlassen Sie dieses Puzzle nicht den Expert_innen und Politiker_innen.</a></div>
 
-Weil Steuern uns alle betrifft, und wir uns zu wenig damit befassen.
+Weil Steuern uns alle betrifft, und wir uns zu wenig damit befassen:
 
 <div markdown="0"><a href="/mitmachen/" class="btn btn-success">Machen Sie mit, bei der ersten CiviCon Bürgerkonferenz über Steuern.</a></div>

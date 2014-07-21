@@ -21,7 +21,7 @@ image:
 
 Die erste **CiviCon Bürgerkonferenz** über Steuern findet im Sommer 2014 in Syke (bei Bremen) statt.
 
-<div markdown="0"><a href="" class="btn btn-info">11. bis 17. August 2014</a></div>
+<div markdown="0"><a href="" class="btn btn-info">11. bis 16. August 2014</a></div>
 
 Wir sind zu Gast in der **Herberge** der [Lebens- und Arbeitsgemeinschaft Westflügel](http://www.westfluegel-syke.de), gelegen am Waldrand westlich von Syke.
 Mitwirkende der CiviCon sind in Mehrbettzimmern untergebracht.
@@ -68,3 +68,8 @@ Neben der gemeinsamen Arbeit gibt es ausreichend Freiraum für Freizeit, geselli
 In der Mitte der Konferenz stehen eingeladene Expert_innen, Wissenschaftler_innen und Praktiker_innen den Mitwirkenden in einer **Podiumsdiskussion** für ihre Fragen Rede und Antwort.
 
 Den Abschluss der Konferenz bildet eine **Pressekonferenz**, bei der die Mitwirkenden Presse, Politik und interessierter Öffentlichkeit von ihrer Arbeit berichten.
+
+
+## Vorläufiger Kalender
+
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=th0vdc8n2321nej334l8rhnfqg%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FBerlin&dates=20140811%2F20140817" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
