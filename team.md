@@ -20,28 +20,35 @@ image:
 
 ## Ausrichter
 
-<figure class="third">
-  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Held_crop.jpg">
-</figure>
-
-<img src="https://dl.dropboxusercontent.com/u/5341489/images/Held_crop.jpg" class="bio-photo" alt="Maximilian Held"></a>
-
-
 **Maximilian Held** promoviert in Sozialwissenschaft an der [Bremen International Graduate School of Social Sciences](http://www.bigsss-bremen.de/).
 Er forscht dort über den Zusammenhang zwischen (progressiver) Steuer und (deliberativer) Demokratie – und über die CiviCon.
 Er studierte [Sozialwissenschaften](http://www.jacobs-university.de/iss/), [Demografie](http://www.demography.uci.edu/ma_program.html) und [Politik ](http://www.hertie-school.org/home.php?nav_id=1980).
 Außerdem ist Max ein (versuchter) [IT-Unternehmer](http://www.collaboran.de/), gelegentlicher Geiger and (Karaoke-) Sänger, sporadischer [Blogger](http://www.maxheld.de/), erfolgreicher [Science Slam](http://www.scienceslam.de/)mer, möchtegern [Hacker](http://github.com/maxheld83/) und überzeugter Anhänger der [Deutschen SchülerAkademie](http://www.deutsche-schuelerakademie.de) in der Begabtenförderung der [Bildung & Begabung gGmbH](http://www.bildung-und-begabung.de/).
 
-Web: [maxheld.de](http://www.maxheld.de), Twitter: [@maxheld](http://twitter.com/maxheld)
+<figure class="third">
+  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Held_crop.jpg">
+  <figcaption> </figcaption>
+</figure>
 
+<div markdown="0">
+  <a href="http://www.maxheld.de" class="btn btn-success">Web: maxheld.de</a>
+  <a href="http://twitter.com/maxheld" class="btn btn-info">Twitter: @maxheld</a>
+  <a href="https://www.bigsss-bremen.de" class="btn btn-danger">Universität Bremen: BIGSSS</a> </div>
 
 ## Moderator_in
 
 **Anne Kliebisch** ist selbständige systemische Beraterin (zertifiziert durch das Institut für systemische Beratung Wiesloch).
 Sie ist Mitgründerin des [Cool Ideas Society e.V.](www.coolideassociety.de) in Deutschland. Der Verein unterstützt Individuen und Organisationen dabei aktuelle Herausforderung mit Unterstützung von kollektiver Intelligenz zu bewältigen.
-Anne Kliebisch schafft Räume für Entwicklung und begleitet Gruppen dabei ihr Potenzial zu entfalten. In ihre Arbeit als selbstständige Prozessbegleiterin, Unternehmensberaterin und Gründerin bringt sie ihre Erfahrungen aus mehrjähriger Tätigkeit in einem Multinationalen Konzern ebenso ein, wie die Erfahrungen aus der Arbeit im Non-For-Profit Sektor. Die Verbindung der Stärken dieser beiden Welten liegt ihr sehr am Herzen, weshalb sie neben Mittelständlern (vor allem im Ruhrgebiet) auch Vereine und ähnliche Initiativen berät oder Bürgerdialoge und Bildungskonferenzen moderiert.
+Anne Kliebisch schafft Räume für Entwicklung und begleitet Gruppen dabei ihr Potenzial zu entfalten.
+In ihre Arbeit als selbstständige Prozessbegleiterin, Unternehmensberaterin und Gründerin bringt sie ihre Erfahrungen aus mehrjähriger Tätigkeit in einem Multinationalen Konzern ebenso ein, wie die Erfahrungen aus der Arbeit im Non-For-Profit Sektor.
+Die Verbindung der Stärken dieser beiden Welten liegt ihr sehr am Herzen, weshalb sie neben Mittelständlern (vor allem im Ruhrgebiet) auch Vereine und ähnliche Initiativen berät oder Bürgerdialoge und Bildungskonferenzen moderiert.
 
-Web: [Leadership³](http://www.leadershiphoch3.de)
+<figure class="third">
+  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Kliebisch-2_crop.jpg">
+  <figcaption> </figcaption>
+</figure>
+
+<div markdown="0"><a href="http://www.leadershiphoch3.de" class="btn btn-success">Web: Leadership³</a></div>
 
 
 **Giovanni Jaerisch Gruosi** versteht sich selbst als modernen Marco Polo, als Entdecker von Kulturen und inneren Welten.
@@ -50,4 +57,9 @@ Giovanni ist Life und Leadership Coach, Moderator und begleitet Organisationen u
 Im Zentrum seines Handels steht die Wertschätzung des Menschen und des Potentials, dass jede/r in sich trägt.
 Dieses Potential zugänglich zu machen ist sein Wunsch und seine Mission
 
-Blog: [pushtogether](http://pushtogether.wordpress.com), Twitter: [@GJaerisch](http://twitter.com/GJaerisch)
+<figure class="third">
+  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Jaerisch.jpg">
+  <figcaption> </figcaption>
+</figure>
+
+<div markdown="0"><a href="http://pushtogether.wordpress.com" class="btn btn-success">Blog: pushtogether</a> <a href="http://twitter.com/GJaerisch" class="btn btn-info">Twitter: @GJaerisch</a> </div>
