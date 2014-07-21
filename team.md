@@ -1,4 +1,10 @@
 ---
+layout: page
+title: Wer ist CiviCon?
+category: blog
+permalink: /team/
+lang: de
+trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-chain_crop.jpg
   caption:
