@@ -18,9 +18,9 @@ image:
 
 Die **Anmeldung** zur Ersten **CiviCon Bürgerkonferenz über Steuern** verläuft in drei Schritten:
 
-1. **Interessenbekundung** (bis 27. Juli): Wenn Sie Interesse an der Teilnahme haben, melden Sie sich unverbindlich an.
-2. **Einladung** (bis spätestens 30. Juli): Sie erhalten eine Einladung per E-Mail und/oder Post. Bei genügend Interessenbekundungen, zieht CiviCon eine Stichprobe – also eine bunt gemischten Gruppe – und lädt diese zur Teilnahme ein.
-3. **Zusage** (bis spätestens 3. August): Sie sagen verbindlich ihre Teilnahme an der CiviCon Bürgerkonferenz zu.
+1. **Interessenbekundung** (bis 01. August): Wenn Sie Interesse an der Teilnahme haben, melden Sie sich unverbindlich an.
+2. **Einladung** (bis spätestens 03. August): Sie erhalten eine Einladung per E-Mail und/oder Post. Bei genügend Interessenbekundungen, zieht CiviCon eine Stichprobe – also eine bunt gemischten Gruppe – und lädt diese zur Teilnahme ein.
+3. **Zusage** (bis spätestens 04. August): Sie sagen verbindlich ihre Teilnahme an der CiviCon Bürgerkonferenz zu.
 
 <div markdown="0"><a href="" class="btn btn-info">Ihre Daten dienen der Auswahl und Analyse.</a></div>
 Damit auf der CiviCon viele verschiedene Stimmen vertreten sind brauchen wir eine gut gemischte Gruppe (etwa nach Alter, Einkommen und Bildung).
