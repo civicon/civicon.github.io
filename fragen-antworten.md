@@ -69,7 +69,8 @@ Wenn etwa eine Ihrer Äußerungen in einer wissenschaftlichen Veröffentlichung 
 Die Ton- und Bildaufnahmen werden *nicht* für die Allgemeinheit veröffentlicht, sondern nur ausgewählten und etablierten Wissenschaftlern zugänglich gemacht.
 
 <div markdown="0"><a href="" class="btn btn-success">Sie können Ihre Teilnahme auch während der Konferenz jederzeit abbrechen.</a></div>
-Leider müssen wir Ihnen in diesem Fall die bei der Herberge verursachten Kosten in Rechnung stellen.
+
+Ihnen entstehen keine Kosten.
 
 <div markdown="0"><a href="" class="btn btn-warning">Private Räume und Gespräche während der Konferenz werden *nicht* aufgezeichnet.</a></div>
 
