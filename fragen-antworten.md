@@ -70,7 +70,7 @@ Die Ton- und Bildaufnahmen werden *nicht* für die Allgemeinheit veröffentlicht
 
 <div markdown="0"><a href="" class="btn btn-success">Sie können Ihre Teilnahme auch während der Konferenz jederzeit abbrechen.</a></div>
 
-Ihnen entstehen keine Kosten.
+Ihnen entstehen bei Abbruch oder Absage der Teilnahme *keine* Kosten.
 
 <div markdown="0"><a href="" class="btn btn-warning">Private Räume und Gespräche während der Konferenz werden *nicht* aufgezeichnet.</a></div>
 
