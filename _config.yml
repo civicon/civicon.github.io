@@ -50,8 +50,6 @@ links:
 #    url: /blog/
   - title: Topic #pipes and valves
     url: /topic/
-  - title: Ergebnisse
-    url: /ergebnisse/
   - title: Conference
     url: /conference/
   - title: Participation # old and youn puzzler
@@ -80,7 +78,9 @@ links:
     url: /konferenz/
   - title: Anmeldung
     url: /anmeldung/
-  - title: Fragen/Antworten
+  - title: Ergebnisse
+    url: /ergebnisse/
+  - title: Fragen
     url: /fragen-antworten/
   - title: Kontakt
     url: /kontakt/
