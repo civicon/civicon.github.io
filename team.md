@@ -27,8 +27,6 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
----
-
 
 ## Ausrichter
 
@@ -85,4 +83,13 @@ Giovanni ist Mitgründer von [Expanding Circles](http://www.expanding-circles.or
   <a href="" class="btn btn-warning">Die Inhalte auf dieser Website und Ergebnisse der CiviCon Bürgerkonferenz geben nicht notwendigerweise die Position der beratenden Experten wieder. </a>
 </div>
 
-**[Karlheinz Gerhold](http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.2483.de)** (Diplom-Finanzwirt FH) ist Regierungsdirektor und Leiter der Außenstelle Bremen der [Norddeutschen Akademie für Finanzen und Steuerrecht Hamburg](http://www.noa-hamburg.de).
+**Karlheinz Gerhold** (Diplom-Finanzwirt FH) ist Regierungsdirektor und Leiter der Außenstelle Bremen der [Norddeutschen Akademie für Finanzen und Steuerrecht Hamburg](http://www.noa-hamburg.de).
+
+<figure class="third">
+  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Gerhold.jpg">
+  <figcaption> </figcaption>
+</figure>
+
+<div markdown="0">
+  <a href="http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.2483.de" class="btn btn-success">Senatsverwaltung für Finanzen Bremen</a>
+</div>
