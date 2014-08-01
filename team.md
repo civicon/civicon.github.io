@@ -17,6 +17,18 @@ image:
   licencelink: https://creativecommons.org/licenses/by-nc/2.0/
   licencelogo:
 ---
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Contents</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
+---
+
 
 ## Ausrichter
 
@@ -34,6 +46,7 @@ Außerdem ist Max ein (versuchter) [IT-Unternehmer](http://www.collaboran.de/), 
   <a href="http://www.maxheld.de" class="btn btn-success">Web: maxheld.de</a>
   <a href="http://twitter.com/maxheld" class="btn btn-info">Twitter: @maxheld</a>
   <a href="https://www.bigsss-bremen.de" class="btn btn-danger">Universität Bremen: BIGSSS</a> </div>
+
 
 ## Moderator_in
 
@@ -64,3 +77,12 @@ Giovanni ist Mitgründer von [Expanding Circles](http://www.expanding-circles.or
 </figure>
 
 <div markdown="0"><a href="http://pushtogether.wordpress.com" class="btn btn-success">Blog: pushtogether</a> <a href="http://twitter.com/GJaerisch" class="btn btn-info">Twitter: @GJaerisch</a> </div>
+
+
+## Experten
+
+<div markdown="0">
+  <a href="" class="btn btn-warning">Die Inhalte auf dieser Website und Ergebnisse der CiviCon Bürgerkonferenz geben nicht notwendigerweise die Position der beratenden Experten wieder. </a>
+</div>
+
+**[Karlheinz Gerhold](http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.2483.de)** (Diplom-Finanzwirt FH) ist Regierungsdirektor und Leiter der Außenstelle Bremen der [Norddeutschen Akademie für Finanzen und Steuerrecht Hamburg](http://www.noa-hamburg.de).
