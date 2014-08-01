@@ -89,7 +89,3 @@ Giovanni ist Mitgründer von [Expanding Circles](http://www.expanding-circles.or
   <img src="https://dl.dropboxusercontent.com/u/5341489/images/Gerhold.jpg">
   <figcaption> </figcaption>
 </figure>
-
-<div markdown="0">
-  <a href="http://www.finanzen.bremen.de/sixcms/detail.php?gsid=bremen53.c.2483.de" class="btn btn-success">Senatsverwaltung für Finanzen Bremen</a>
-</div>
