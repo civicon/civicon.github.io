@@ -23,12 +23,12 @@ image:
 >
 > -- Margaret Mead
 
+<div markdown="0"><a href="" class="btn btn-danger">Die Anmeldung für die 1. CiviCon Bürgerkonferenz über Steuern ist geschlossen.</a></div>
 
 Die erste **CiviCon Bürgerkonferenz über Steuern** bietet **15 Plätze** für Bürger_innen wie Sie und ich.
 Jede_r ist herzlich eingeladen.
 
-
-<div markdown="0"><a href="/anmeldung/" class="btn btn-success">Jetzt unverbindlich anmelden.</a></div>
+<div markdown="0"><a href="/interesse/" class="btn btn-success">Jetzt für zukünftige Konferenzen unverbindlich voranmelden.</a></div>
 
 
 ## Was Sie von CiviCon erwarten können
