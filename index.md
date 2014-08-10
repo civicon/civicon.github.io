@@ -26,6 +26,8 @@ Probieren wir es gemeinsam aus: bei der ersten **CiviCon Bürgerkonferenz** übe
 
 <div markdown="0"><a href="/konferenz/" class="btn btn-info">11. bis 16. August 2014 in Syke (bei Bremen)</a></div>
 
+<div markdown="0"><a href="/ergebnisse/" class="btn btn-warning">Öffentliche Pressekonferenz am 15. August 2014 ab 11:30 in der Herberge Westflügel (Syke bei Bremen)</a></div>
+
 Finden wir heraus, ob das klappen könnte:
 
 - Einigen wir uns auf eine **bessere** Steuerpolitik?
@@ -37,4 +39,4 @@ Damit jede Stimme zu Wort kommt.
 Damit das Puzzle unserer Politik eine neue Chance bekommt.
 Jede_r ist eingeladen.
 
-<div markdown="0"><a href="/anmeldung/" class="btn btn-success">Jetzt unverbindlich anmelden.</a></div>
+<div markdown="0"><a href="/ergebnisse/" class="btn btn-success">Jetzt zur öffentlichen Pressekonferenz anmelden.</a></div>
