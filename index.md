@@ -26,7 +26,7 @@ Probieren wir es gemeinsam aus: bei der ersten **CiviCon Bürgerkonferenz** übe
 
 <div markdown="0"><a href="/konferenz/" class="btn btn-info">11. bis 16. August 2014 in Syke (bei Bremen)</a></div>
 
-<div markdown="0"><a href="/ergebnisse/" class="btn btn-warning">Öffentliche Pressekonferenz am 15. August 2014 ab 11:30 in der Herberge Westflügel (Syke bei Bremen)</a></div>
+<div markdown="0"><a href="/ergebnisse/" class="btn btn-danger">Öffentliche Pressekonferenz am 15. August 2014 ab 11:30 in der Herberge Westflügel (Syke bei Bremen)</a></div>
 
 Finden wir heraus, ob das klappen könnte:
 
