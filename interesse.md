@@ -13,7 +13,7 @@ image:
   locationlink:
   licence: CC BY-NC-ND 2.0
   licencelink: https://creativecommons.org/licenses/by-nc-nd/2.0/
-  licencelogo:
+  licencelogo: https://dl.dropboxusercontent.com/u/5341489/images/cc%20licences/by-nc-nd.eu.png
 ---
 
 <div markdown="0"><a href="" class="btn btn-success">Melden Sie sich hier unverbindlich an, wenn Sie Interesse an zukünftigen CiviCon Bürgerkonferenzen haben.</a></div>
