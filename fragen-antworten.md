@@ -6,7 +6,7 @@ lang: de
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-incomplete_crop.jpg  
-  caption:
+  caption: maybe we're the pieces
   captionlink:
   credit: Iris Shreve Garrott
   creditlink: https://www.flickr.com/photos/circulating/2939062432

@@ -5,7 +5,7 @@ lang: de
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-signatures_crop.jpg
-  caption:
+  caption: puzzle
   captionlink:
   credit: Laura
   creditlink: https://www.flickr.com/photos/nosmoking/114175501

@@ -5,7 +5,7 @@ lang: de
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-sprayed_crop.jpg
-  caption:
+  caption: street art vienna
   captionlink:
   credit: a_kep
   creditlink: https://www.flickr.com/photos/judo10/2897452557

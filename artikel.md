@@ -8,7 +8,7 @@ categories:
 trans: /blog/
 tags: [blog]
 image:
-  feature: http://lh6.googleusercontent.com/fGxJIhDSLZ2f1lfUWzfkPUyrrBdkSLhNFAjKO1MRbJm9=w884-h203-no
+  feature: 
   credit:
   creditlink: 
   caption: 

@@ -7,14 +7,14 @@ lang: de
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-together_crop.jpg  
-  caption:
+  caption: puzzle'd
   captionlink:
   credit: Robert S. Donovan
   creditlink: https://www.flickr.com/photos/booleansplit/4762692566  
   location:
   locationlink:
-  licence: CC BY 2.0
-  licencelink: https://creativecommons.org/licenses/by/2.0/
+  licence: CC BY-NC 2.0
+  licencelink: https://creativecommons.org/licenses/by-nc/2.0/
   licencelogo:
 ---
 

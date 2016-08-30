@@ -5,7 +5,7 @@ lang: de
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/valves-old-2_crop.jpg  
-  caption:
+  caption: Seibu Oil Co.
   captionlink:
   credit: S. H.
   creditlink: https://www.flickr.com/photos/isadocafe/3269174348/in/faves-93207791@N02/

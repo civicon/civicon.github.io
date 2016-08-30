@@ -5,7 +5,7 @@ lang: de
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-tattoo_crop.jpg
-  caption:
+  caption: Pieza de puzzle número dieciséis
   captionlink:
   credit: Terapia Dieciséis
   creditlink: https://www.flickr.com/photos/terapiadieciseis/4019785025/in/faves-93207791@N02/

@@ -7,7 +7,7 @@ lang: de
 trans:
 image:
   feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-red_crop_small.jpg
-  caption:
+  caption: puzzled
   captionlink:
   credit: Harald
   creditlink: https://www.flickr.com/photos/harald_/8441360452/in/faves-93207791@N02/
