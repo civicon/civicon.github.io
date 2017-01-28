@@ -6,7 +6,7 @@ permalink: /ergebnisse/
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-red_crop_small.jpg
+  feature: puzzle-red_crop_small.jpg
   caption: puzzled
   captionlink:
   credit: Harald

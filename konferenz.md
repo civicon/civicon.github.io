@@ -4,7 +4,7 @@ title: Was passiert auf der CiviCon?
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/westfluegel-a_crop.jpg
+  feature: westfluegel-a_crop.jpg
   caption: WestFlügel
   captionlink: http://www.westfluegel-syke.de
   credit:

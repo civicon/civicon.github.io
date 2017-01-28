@@ -5,7 +5,7 @@ title: Fragen & Antworten
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-incomplete_crop.jpg  
+  feature: puzzle-incomplete_crop.jpg  
   caption: maybe we're the pieces
   captionlink:
   credit: Iris Shreve Garrott

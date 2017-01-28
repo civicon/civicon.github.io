@@ -5,7 +5,7 @@ tags: [civicon, bürgerbeteiligung, steuer, deliberation]
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-blank-a_crop.jpg
+  feature: puzzle-blank-a_crop.jpg
   caption: Puzzle Blanc
   captionlink:
   credit: Groume

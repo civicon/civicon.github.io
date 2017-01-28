@@ -6,7 +6,7 @@ permalink: /mitmachen/
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-together_crop.jpg  
+  feature: puzzle-together_crop.jpg  
   caption: puzzle'd
   captionlink:
   credit: Robert S. Donovan

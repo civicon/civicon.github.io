@@ -4,7 +4,7 @@ title: Impressum
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-tattoo_crop.jpg
+  feature: puzzle-tattoo_crop.jpg
   caption: Pieza de puzzle número dieciséis
   captionlink:
   credit: Terapia Dieciséis

@@ -7,7 +7,7 @@ lang: de
 trans:
 categories:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-a-lot_crop.jpg
+  feature: puzzle-a-lot_crop.jpg
   caption: Jigsaw Puzzle
   captionlink:
   credit: Scott Hadfield

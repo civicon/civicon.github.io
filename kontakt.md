@@ -4,7 +4,7 @@ title: Wie erreiche ich CiviCon?
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-sprayed_crop.jpg
+  feature: puzzle-sprayed_crop.jpg
   caption: street art vienna
   captionlink:
   credit: a_kep

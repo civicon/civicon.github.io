@@ -4,7 +4,7 @@ title: Wie kann ich mich anmelden?
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-signatures_crop.jpg
+  feature: puzzle-signatures_crop.jpg
   caption: puzzle
   captionlink:
   credit: Laura

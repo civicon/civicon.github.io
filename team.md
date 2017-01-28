@@ -6,7 +6,7 @@ permalink: /team/
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/puzzle-chain_crop.jpg
+  feature: puzzle-chain_crop.jpg
   caption: maybe we're the pieces
   captionlink:
   credit: Iris Shreve Garrott
@@ -36,7 +36,7 @@ Er studierte [Sozialwissenschaften](http://www.jacobs-university.de/iss/), [Demo
 Außerdem ist Max ein (versuchter) [IT-Unternehmer](http://www.collaboran.de/), gelegentlicher Geiger and (Karaoke-) Sänger, sporadischer [Blogger](http://www.maxheld.de/), erfolgreicher [Science Slam](http://www.scienceslam.de/)mer, möchtegern [Hacker](http://github.com/maxheld83/) und überzeugter Anhänger der [Deutschen SchülerAkademie](http://www.deutsche-schuelerakademie.de) in der Begabtenförderung der [Bildung & Begabung gGmbH](http://www.bildung-und-begabung.de/).
 
 <figure class="third">
-  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Held_crop.jpg">
+  <img src="/images/Held_crop.jpg">
   <figcaption> </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ In ihre Arbeit als selbstständige Prozessbegleiterin, Unternehmensberaterin und
 Die Verbindung der Stärken dieser beiden Welten liegt ihr sehr am Herzen, weshalb sie neben Mittelständlern (vor allem im Ruhrgebiet) auch Vereine und ähnliche Initiativen berät oder Bürgerdialoge und Bildungskonferenzen moderiert.
 
 <figure class="third">
-  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Kliebisch-2_crop.jpg">
+  <img src="/images/Kliebisch-2_crop.jpg">
   <figcaption> </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Dieses Potential zugänglich zu machen ist sein Wunsch und seine Mission.
 Giovanni ist Mitgründer von [Expanding Circles](http://www.expanding-circles.org), einer internationalen Bewegung, die philosophische Zirkel mit neuen Methoden wieder aufleben lässt und mit spannenden Fragen füllt.
 
 <figure class="third">
-  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Jaerisch.jpg">
+  <img src="/images/Jaerisch.jpg">
   <figcaption> </figcaption>
 </figure>
 
@@ -86,6 +86,6 @@ Giovanni ist Mitgründer von [Expanding Circles](http://www.expanding-circles.or
 **Karlheinz Gerhold** (Diplom-Finanzwirt FH) ist Regierungsdirektor und Leiter der Außenstelle Bremen der [Norddeutschen Akademie für Finanzen und Steuerrecht Hamburg](http://www.noa-hamburg.de).
 
 <figure class="third">
-  <img src="https://dl.dropboxusercontent.com/u/5341489/images/Gerhold.jpg">
+  <img src="/images/Gerhold.jpg">
   <figcaption> </figcaption>
 </figure>

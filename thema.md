@@ -4,7 +4,7 @@ title: Warum das Thema Steuern?
 lang: de
 trans:
 image:
-  feature: https://dl.dropboxusercontent.com/u/5341489/images/valves-old-2_crop.jpg  
+  feature: valves-old-2_crop.jpg  
   caption: Seibu Oil Co.
   captionlink:
   credit: S. H.
